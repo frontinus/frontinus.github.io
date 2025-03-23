@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to my website!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Francesco Abate, I'm a computer engineer originally from Italy, but having grown up in France, having argentinian ancestry and attended an international school I speak italian, french, english and spanish.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I currently work in a large italian defence company as an avionic software engineer on the software of a plane, the C27J Spartan, implementing new functionnalities or fixing bugs.
 
+In the meantime I'm also a team leader in the polito rocket team from politecnico di Torino, in this context I am the main developper and architect of our SRAD (that means student-made) board's firmware. This means that I write the code but also make sure that it covers all the functionnalities and requirements with the right timings to make sure the rocket completes its flight appropriately. In this context I also lead my very small team of embedded software engineers.
 
-[jekyll-organization]: https://github.com/jekyll
+All of this while completing my master studies as a computer engineer at politecnico di Torino
+
+I also have an interest for CTFs, especially in cryptography and have participated in the cyberchallenge program and won a CTF organized by ny university in the past, I will post writeups for challenges I solve from times to times
+
+Eventually I am also getting on AI, I managed to win the Hackapizza hackaton on generative AI and will comment on my thesis along various projects on this blog
