@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tutorial: building a QT project to be a stand alone executable"
-date:   2025-03-18 22:29:41 +0100
+date:   2025-03-23 22:29:41 +0100
 categories: tutorials
 ---
 
@@ -67,4 +67,4 @@ msbuild /m /p:Configuration=Release ground-station.sln
 
 If you have older versions of VS2022, replace the string with the version you have (e.g. `"Visual Studio 16 2019"`). At the end of the operation the message `BUILD FAILED` will be displayed, but that is **not** true. You should now have an executable inside your build folder.
 
-> Guide based on : https://wiki.qt.io/Building_Qt_6_from_Git
+> Guide based on : [Building Qt 6 from Git](https://wiki.qt.io/Building_Qt_6_from_Git)

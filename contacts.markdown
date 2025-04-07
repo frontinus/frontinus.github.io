@@ -16,5 +16,4 @@ you can contact me by :
 also here there are:
 -my github : <https://github.com/frontinus>
 
--my Linkedin : <www.linkedin.com/in/francesco-abate-79601719b>
-
+-my Linkedin : [Francesco Abate](www.linkedin.com/in/francesco-abate-79601719b)
