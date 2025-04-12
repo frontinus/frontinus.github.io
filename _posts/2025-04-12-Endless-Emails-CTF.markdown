@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Endless Emails"
-date:   2025-04-12 22:20:41 +0100
-categories: [CTF, cryptography]
+date:   2025-04-12 20:20:41 +0100
+categories: ['CTF', 'cryptography']
+tags : ['CTF', 'cryptography', 'Cryptohack', 'Cybersecurity']
+author : "Francesco Abate"
 ---
 
 Endless Emails is an RSA challenge from [CryptoHack](https://cryptohack.org/challenges/rsa/)

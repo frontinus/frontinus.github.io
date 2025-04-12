@@ -3,6 +3,8 @@ layout: post
 title:  "Tutorial: building a QT project to be a stand alone executable"
 date:   2025-03-23 22:29:41 +0100
 categories: tutorials
+tags : ['Tutorial', 'QT', 'Desktop_app', 'PRT']
+author : "Francesco Abate"
 ---
 
 This is a guide from march 2024 about how to release a QT project as a standalone executable in windows, I created it in the context of the Polito Rocket team to find a way to use our ground station app (app we use to visualize data received from the rocket) as a stand alone executable, so that you do not need to copy a whole folder with libraries each time you pass it from a member of the club to another.

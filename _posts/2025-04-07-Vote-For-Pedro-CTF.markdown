@@ -2,7 +2,9 @@
 layout: post
 title:  "Vote for Pedro"
 date:   2025-04-07 22:20:41 +0100
-categories: [CTF, cryptography]
+categories: ['CTF', 'cryptography']
+tags : ['CTF', 'cryptography', 'Cryptohack', 'Cybersecurity']
+author : "Francesco Abate"
 ---
 
 Vote for Pedro is a RSA challenge from [CryptoHack](https://cryptohack.org/challenges/rsa/)
