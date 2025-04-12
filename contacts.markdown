@@ -4,16 +4,14 @@ title: Contacts
 permalink: about/contacts/
 ---
 
-you can contact me by :
- Phone :
-  Italy : +39 3277907606
-  France : +33 695713287
+## Contact Me
 
--email : <francesco1.abate@yahoo.com>
+You can reach me through the following channels:
 
--msg on telegram : FrancescoAbate00
-
-also here there are:
--my github : <https://github.com/frontinus>
-
--my Linkedin : [Francesco Abate](www.linkedin.com/in/francesco-abate-79601719b)
+* **Phone:**
+  * Italy: `+39 3277907606`
+  * France: `+33 695713287`
+* **Email:** [francesco1.abate@yahoo.com](mailto:francesco1.abate@yahoo.com)
+* **Telegram:** [@FrancescoAbate00](https://t.me/FrancescoAbate00)
+* **GitHub:** [frontinus](https://github.com/frontinus)
+* **LinkedIn:** [Francesco Abate](www.linkedin.com/in/francesco-abate-79601719b)
