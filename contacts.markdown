@@ -6,8 +6,8 @@ permalink: about/contacts/
 
 you can contact me by :
  Phone :
-  Italy : 3277907606
-  France : 0695713287
+  Italy : +39 3277907606
+  France : +33 695713287
 
 -email : <francesco1.abate@yahoo.com>
 

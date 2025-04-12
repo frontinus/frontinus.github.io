@@ -196,3 +196,9 @@ print(flag)
 Receives the server’s response, decodes the JSON string into a Python dictionary, extracts the flag from the response, and prints it. If the forged signature was valid, the server responds with the flag.
 
 Overall, the script automates the process of connecting to the server, sending a precomputed forged RSA signature (that takes advantage of the low exponent and lack of padding), and printing the flag received as a result.
+
+In the end you obtain the flag :
+
+```python
+crypto{y0ur_v0t3_i5_my_v0t3}
+```
