@@ -1,0 +1,5 @@
+<map id="lsm6dso32_temp_flag_data_ready_get" name="lsm6dso32_temp_flag_data_ready_get">
+<area shape="rect" id="Node000001" title="Temperature new data available.[get]." alt="" coords="5,5,154,48"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="202,13,343,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,24,186,24,186,29,154,29"/>
+</map>

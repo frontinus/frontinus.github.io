@@ -1,0 +1,7 @@
+<map id="get_sensor_status" name="get_sensor_status">
+<area shape="rect" id="Node000001" title="This internal API fills the fifo_config_1(fifo_mode, fifo_stop_on_full, fifo_time_en,..." alt="" coords="5,5,134,32"/>
+<area shape="rect" id="Node000002" href="$bmp3_8c.html#a9e0c2cdecfdac8aa6ed4e35940f7ade7" title="This API reads the data from the given register address of the sensor." alt="" coords="182,5,292,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,16,166,16,166,21,134,21"/>
+<area shape="rect" id="Node000003" href="$bmp3_8c.html#a9db82f2117ddfa4eccef8a018e738aab" title="This internal API is used to validate the device pointer for null conditions." alt="" coords="340,5,445,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="293,16,324,16,324,21,293,21"/>
+</map>

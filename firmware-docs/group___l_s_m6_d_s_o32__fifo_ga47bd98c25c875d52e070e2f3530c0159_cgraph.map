@@ -1,0 +1,7 @@
+<map id="lsm6dso32_fifo_virtual_sens_odr_chg_set" name="lsm6dso32_fifo_virtual_sens_odr_chg_set">
+<area shape="rect" id="Node000001" title="Enables ODR CHANGE virtual sensor to be batched in FIFO.[set]." alt="" coords="5,23,157,65"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="206,5,348,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,32,191,27,191,32,157,37"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="205,56,349,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,51,190,55,189,61,157,56"/>
+</map>

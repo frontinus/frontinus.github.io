@@ -1,0 +1,9 @@
+<map id="get_calib_data" name="get_calib_data">
+<area shape="rect" id="Node000001" title="This internal API reads the calibration data from the sensor, parse it then compensates it and store ..." alt="" coords="5,31,111,57"/>
+<area shape="rect" id="Node000002" href="$bmp3_8c.html#a9e0c2cdecfdac8aa6ed4e35940f7ade7" title="This API reads the data from the given register address of the sensor." alt="" coords="163,5,274,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,33,147,27,148,32,111,38"/>
+<area shape="rect" id="Node000004" href="$bmp3_8c.html#a1a9dab11b748936abcec7b712d721ca6" title="This internal API is used to parse the calibration data, compensates it and store it in device struct..." alt="" coords="159,56,278,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="111,50,143,55,143,60,111,55"/>
+<area shape="rect" id="Node000003" href="$bmp3_8c.html#a9db82f2117ddfa4eccef8a018e738aab" title="This internal API is used to validate the device pointer for null conditions." alt="" coords="326,5,431,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="274,16,310,16,310,21,274,21"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="check_Calibrating_phase" name="check_Calibrating_phase">
+<area shape="rect" id="Node000001" title="Handler for the CALIBRATING state." alt="" coords="5,56,173,83"/>
+<area shape="rect" id="Node000002" href="$flight__control_8c.html#ac501a7c6c60c2b8c9cd9d0e7d328c80c" title="Handles the mechanics of a state transition." alt="" coords="221,19,338,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,53,205,44,206,49,161,58"/>
+<area shape="rect" id="Node000004" href="$group___winbond___memory.html#gad6301bd88db8e497c5382bda891bac6f" title=" " alt="" coords="229,81,330,108"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,78,214,83,214,89,173,83"/>
+<area shape="rect" id="Node000003" href="$flight__control_8c.html#a2453e798beaa2b27f6468db201f7861a" title=" " alt="" coords="426,5,558,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="338,26,409,21,410,26,339,31"/>
+<area shape="rect" id="Node000005" href="$group___winbond___control.html#gaefb0b18c1b05043f2ce91b1be9be11be" title=" " alt="" coords="386,56,597,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="330,86,370,81,371,86,330,91"/>
+<area shape="rect" id="Node000007" href="$z__qflash___w25_q_x_x_x_8c.html#afb89e02b295e274a464decd984e2f0c5" title=" " alt="" coords="404,107,579,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="330,98,389,105,388,110,330,103"/>
+<area shape="rect" id="Node000008" href="$group___winbond___status.html#gaf93b34eaf38e118fc173c4c0d5abe5f7" title="enables writes" alt="" coords="422,157,562,184"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="307,106,387,143,410,150,409,155,385,148,304,111"/>
+<area shape="rect" id="Node000006" href="$group___winbond___status.html#gaa0c97f126a0945f1a2cdbaa2258a0d73" title=" " alt="" coords="645,107,786,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="555,81,639,100,638,105,553,86"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="580,117,629,117,629,123,580,123"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="553,154,638,135,639,140,555,159"/>
+</map>

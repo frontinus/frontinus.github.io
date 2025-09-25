@@ -1,0 +1,7 @@
+<map id="lsm6dso32_gy_sleep_mode_set" name="lsm6dso32_gy_sleep_mode_set">
+<area shape="rect" id="Node000001" title="Enables gyroscope Sleep mode.[set]." alt="" coords="5,23,149,65"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="198,5,340,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,32,183,27,183,33,150,37"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="197,56,341,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="150,51,182,55,181,60,149,56"/>
+</map>

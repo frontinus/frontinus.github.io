@@ -1,0 +1,29 @@
+<map id="lsm6dso32_ln_pg_write_byte" name="lsm6dso32_ln_pg_write_byte">
+<area shape="rect" id="Node000001" title="Write a line(byte) in a page.[set]." alt="" coords="261,373,450,400"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32__finite__state__machine.html#ga5a8eb5d3b76334cd284e7d05339ce786" title="FSM number of programs register.[set]." alt="" coords="27,5,191,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="347,358,334,297,309,217,291,175,269,134,242,96,211,62,190,48,193,43,214,58,246,92,273,131,296,173,314,215,339,296,352,357"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32__finite__state__machine.html#gade2d09cde339b9b678f4c1dee766bd1c" title="FSM start address register (r/w). First available address is 0x033C.[set]." alt="" coords="36,72,182,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="344,359,327,310,300,248,261,184,238,154,211,129,181,112,184,107,214,125,242,151,266,181,304,245,332,308,349,358"/>
+<area shape="rect" id="Node000004" href="$group___l_s_m6_d_s_o32__finite__state__machine.html#ga42ebf4917228bb6ab3b7f9fe56df145f" title="FSM long counter timeout register (r/w). The long counter timeout value is an unsigned integer value ..." alt="" coords="39,139,179,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="339,361,319,324,290,279,254,234,211,196,179,178,181,174,214,191,258,231,294,276,323,321,344,358"/>
+<area shape="rect" id="Node000005" href="$group___l_s_m6_d_s_o32__.html#ga77c7fa355e2d8d8c1fd6e18888e71e8f" title="Offset for hard&#45;iron compensation register (r/w).[set]." alt="" coords="19,205,199,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="334,363,283,303,249,272,211,246,185,235,188,230,214,242,252,268,287,300,338,359"/>
+<area shape="rect" id="Node000006" href="$group___l_s_m6_d_s_o32__.html#ga7a145d47611066615c475d854855847b" title="External magnetometer sensitivity value register.[set]." alt="" coords="5,256,213,283"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="323,366,273,330,212,297,179,286,181,281,214,292,276,326,327,361"/>
+<area shape="rect" id="Node000007" href="$group___l_s_m6_d_s_o32__.html#gafae2c63e6e52161f00fa667534b4830e" title="Soft&#45;iron (3x3 symmetric) matrix correction register (r/w). The value is expressed as half&#45;precision ..." alt="" coords="36,307,182,349"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="281,372,181,348,183,343,282,367"/>
+<area shape="rect" id="Node000008" href="$group___l_s_m6_d_s_o32__.html#gaf8af2af4af5399211d4dfd5537ea61d9" title="Magnetometer X&#45;axis coordinates rotation (to be aligned to accelerometer/gyroscope axes orientation)...." alt="" coords="12,373,206,400"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="245,389,207,389,207,384,245,384"/>
+<area shape="rect" id="Node000009" href="$group___l_s_m6_d_s_o32__.html#ga3bf7aeb00ef3095a365c92429f5159ad" title="Magnetometer Y&#45;axis coordinates rotation (to be aligned to accelerometer/gyroscope axes orientation)...." alt="" coords="12,424,206,451"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="273,406,178,426,177,421,271,401"/>
+<area shape="rect" id="Node000010" href="$group___l_s_m6_d_s_o32__.html#ga8e20ac841ec2ad4fd751033bbd499af4" title="Magnetometer Z&#45;axis coordinates rotation (to be aligned to accelerometer/gyroscope axes orientation)...." alt="" coords="12,475,206,501"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="321,411,271,439,214,465,178,477,176,471,212,460,269,434,318,406"/>
+<area shape="rect" id="Node000011" href="$group___l_s_m6_d_s_o32___pedometer.html#gada045feb52697309a1af61a650dcb8c7" title="Pedometer debounce configuration register (r/w).[set]." alt="" coords="18,525,200,568"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="334,414,282,465,249,492,214,516,190,527,188,522,211,511,246,488,279,461,330,410"/>
+<area shape="rect" id="Node000012" href="$group___l_s_m6_d_s_o32___pedometer.html#ga1936c007bcf5dcef5272dd01351e2298" title="Set when user wants to generate interrupt on count overflow event/every step.[set]." alt="" coords="39,592,179,635"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="344,415,323,452,294,497,258,543,214,582,181,600,179,595,211,578,254,539,290,494,319,450,339,412"/>
+<area shape="rect" id="Node000013" href="$group___l_s_m6_d_s_o32___pedometer.html#ga4a994e4fd9edee45c5adfb8501708610" title="Enable pedometer algorithm.[set]." alt="" coords="19,659,199,685"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="349,416,333,466,306,530,267,594,242,623,214,649,194,660,192,656,211,645,238,620,262,591,301,527,328,465,344,414"/>
+<area shape="rect" id="Node000014" href="$group___l_s_m6_d_s_o32___pedometer.html#gadfb066758b43163decabc1885bf52009" title="Time period register for step detection on delta time (r/w).[set]." alt="" coords="30,709,188,752"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="352,416,338,474,312,550,294,591,272,630,245,667,214,699,190,715,187,711,211,695,241,664,267,627,289,588,307,549,332,473,346,414"/>
+</map>

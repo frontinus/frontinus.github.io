@@ -1,0 +1,21 @@
+<map id="lsm6dso32_pedo_sens_set" name="lsm6dso32_pedo_sens_set">
+<area shape="rect" id="Node000001" title="Enable pedometer algorithm.[set]." alt="" coords="5,110,185,137"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32__common.html#ga1e472ef1bfee2b46a3f02adb4081cd8e" title="Read a line(byte) in a page.[get]." alt="" coords="234,161,420,187"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,135,249,154,248,159,159,140"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32__common.html#ga42e20a310b0f7a40c07b4dce8d758f1a" title="Enable access to the embedded functions/sensor hub configuration registers.[set]." alt="" coords="470,110,650,137"/>
+<area shape="poly" id="edge11_Node000001_Node000003" title=" " alt="" coords="185,121,454,121,454,126,185,126"/>
+<area shape="rect" id="Node000004" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="700,73,841,99"/>
+<area shape="poly" id="edge12_Node000001_Node000004" title=" " alt="" coords="113,107,165,74,197,58,232,45,347,15,395,7,440,3,486,4,534,9,651,30,695,44,734,62,732,67,693,49,650,35,533,14,485,9,440,8,396,12,348,20,233,50,200,63,167,79,116,112"/>
+<area shape="rect" id="Node000005" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="698,149,843,175"/>
+<area shape="poly" id="edge13_Node000001_Node000005" title=" " alt="" coords="116,135,167,168,199,185,233,197,348,222,396,227,440,228,533,220,650,201,688,191,724,179,726,184,690,196,651,206,533,225,440,234,395,233,347,227,232,202,197,189,164,173,113,140"/>
+<area shape="rect" id="Node000006" href="$group___l_s_m6_d_s_o32__common.html#gadc6e8c70957d336f735bd1387690123f" title="Write a line(byte) in a page.[set]." alt="" coords="233,59,422,86"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="159,107,248,87,249,92,160,112"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="392,157,480,138,481,143,393,163"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="421,174,532,168,591,160,650,146,695,128,735,105,738,110,698,133,651,151,592,165,532,173,421,179"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="418,185,529,194,590,195,650,190,711,177,713,182,651,195,590,200,529,200,418,191"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="638,107,684,99,685,104,639,112"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="637,135,684,143,683,149,636,140"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="393,84,481,104,480,109,392,89"/>
+<area shape="poly" id="edge9_Node000006_Node000004" title=" " alt="" coords="416,56,528,47,590,47,651,51,714,65,713,70,650,57,589,52,528,52,416,61"/>
+<area shape="poly" id="edge10_Node000006_Node000005" title=" " alt="" coords="423,67,533,73,593,82,651,95,698,115,739,138,736,142,696,119,650,101,592,87,533,79,422,73"/>
+</map>

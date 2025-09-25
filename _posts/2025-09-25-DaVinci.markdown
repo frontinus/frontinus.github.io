@@ -1,0 +1,18 @@
+---
+layout: post
+title: "The DaVinci-M Flight Computer Project (Doxyfile)"
+date:   2025-09-25 23:21:41 +0100
+categories: projects
+tags : ['doxyfile', 'Documentation', 'firmware', 'PRT']
+author : "Francesco Abate"
+
+---
+
+This post details the software architecture for our advanced flight computer. 
+The firmware is fully documented using Doxygen and is available for browsing.
+
+You can explore the complete, interactive documentation right here on our site:
+
+[**View the Full Firmware Documentation**]({{ '/firmware-docs/index.html' | relative_url }})
+
+This includes detailed call graphs, module hierarchies, and source code annotations.

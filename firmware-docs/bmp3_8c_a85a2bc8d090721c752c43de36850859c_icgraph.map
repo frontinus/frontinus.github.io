@@ -1,0 +1,24 @@
+<map id="verify_meas_time_and_odr_duration" name="verify_meas_time_and_odr_duration">
+<area shape="rect" id="Node000001" title="This internal API checks whether the measurement time and ODR duration of the sensor are proper." alt="" coords="1047,27,1200,69"/>
+<area shape="rect" id="Node000002" href="$bmp3_8c.html#a150879a00fe76c1022dacadc9c33818a" title="This internal API validate the over sampling, ODR settings of the sensor." alt="" coords="855,27,999,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1032,51,1000,51,1000,45,1032,45"/>
+<area shape="rect" id="Node000003" href="$bmp3_8c.html#acb43446db76a5e581b68fb613c129de3" title="This internal API sets the over sampling, ODR and filter settings of the sensor based on the settings..." alt="" coords="657,5,806,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="839,38,806,32,807,27,840,32"/>
+<area shape="rect" id="Node000008" href="$bmp3_8c.html#aa8f20bfa932dd5919e9bf0318b1abea9" title="This internal API validate the normal mode settings of the sensor." alt="" coords="656,56,807,99"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="840,64,808,69,807,63,839,58"/>
+<area shape="rect" id="Node000004" href="$bmp3_8c.html#a0a53f320e8c5a13d452bc24dfc7de58a" title="This API sets the power control(pressure enable and temperature enable), over sampling,..." alt="" coords="258,8,435,35"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="641,22,436,23,436,18,641,17"/>
+<area shape="rect" id="Node000005" href="$group__bmp3.html#ga5930eb3a2ebc74ef4996cb5cc0e835fc" title="Initializes the backup barometer (BMP390)." alt="" coords="103,8,210,35"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="243,24,211,24,211,19,243,19"/>
+<area shape="rect" id="Node000007" href="$group__bmp3.html#gab8d904a31124b1eca5f4922c14340746" title="Initializes the primary barometer (BMP390)." alt="" coords="104,59,209,85"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="280,42,210,61,209,55,278,37"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,33,55,60"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="88,38,55,44,54,39,87,33"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="88,61,55,54,56,49,89,56"/>
+<area shape="rect" id="Node000009" href="$bmp3_8c.html#a2b913d2a13a0820beb7d1ca325c7b5a5" title="This internal API sets the normal mode in the sensor." alt="" coords="483,60,608,87"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="640,78,608,77,608,72,641,73"/>
+<area shape="rect" id="Node000010" href="$bmp3_8c.html#a47d3b5b195ea0155ff037fdf7f1ad527" title="This API sets the power mode of the sensor." alt="" coords="278,59,416,85"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="468,75,416,75,416,70,468,70"/>
+<area shape="poly" id="edge11_Node000010_Node000005" title=" " alt="" coords="278,57,209,38,210,33,280,51"/>
+<area shape="poly" id="edge12_Node000010_Node000007" title=" " alt="" coords="262,75,209,75,209,69,262,69"/>
+</map>

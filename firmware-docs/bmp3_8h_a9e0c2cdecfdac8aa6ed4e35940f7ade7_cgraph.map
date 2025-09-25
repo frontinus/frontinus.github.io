@@ -1,0 +1,5 @@
+<map id="bmp3_get_regs" name="bmp3_get_regs">
+<area shape="rect" id="Node000001" title="This API reads the data from the given register address of the sensor." alt="" coords="5,5,116,32"/>
+<area shape="rect" id="Node000002" href="$bmp3_8c.html#a9db82f2117ddfa4eccef8a018e738aab" title="This internal API is used to validate the device pointer for null conditions." alt="" coords="164,5,269,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,16,148,16,148,21,116,21"/>
+</map>

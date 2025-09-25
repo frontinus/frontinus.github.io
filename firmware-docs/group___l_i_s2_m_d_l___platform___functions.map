@@ -1,0 +1,4 @@
+<map id="STM32H7xx SPI Platform Specific Functions" name="STM32H7xx SPI Platform Specific Functions">
+<area shape="rect" id="Node000001" title="Functions to connect LIS2MDL driver to STM32H7xx SPI HAL." alt="" coords="173,5,346,48"/>
+<area shape="rect" id="Node000002" href="$group___l_i_s2_m_d_l__serial__interface.html" title="This section group all the functions concerning serial interface management." alt="" coords="5,13,125,40"/>
+</map>

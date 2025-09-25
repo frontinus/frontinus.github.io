@@ -1,0 +1,5 @@
+<map id="lis2mdl_drdy_on_pin_get" name="lis2mdl_drdy_on_pin_get">
+<area shape="rect" id="Node000001" title="Data&#45;ready signal on INT_DRDY pin.[get]." alt="" coords="5,5,170,32"/>
+<area shape="rect" id="Node000002" href="$group___l_i_s2_m_d_l___interfaces___functions.html#gad1f6464d952b757691b47aa79d82654e" title="Read generic device register." alt="" coords="218,5,337,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,16,202,16,202,21,170,21"/>
+</map>

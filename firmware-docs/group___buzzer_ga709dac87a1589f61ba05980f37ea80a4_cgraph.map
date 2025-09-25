@@ -1,0 +1,5 @@
+<map id="buzzer_init" name="buzzer_init">
+<area shape="rect" id="Node000001" title="Initializes the buzzer object and its associated timer hardware." alt="" coords="5,5,90,32"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#a1730ffe1e560465665eb47d9264826f9" title="This function is executed in case of error occurrence." alt="" coords="138,5,239,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,16,122,16,122,21,90,21"/>
+</map>

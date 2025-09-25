@@ -1,0 +1,7 @@
+<map id="lsm6dso32_xl_fast_settling_set" name="lsm6dso32_xl_fast_settling_set">
+<area shape="rect" id="Node000001" title="Enables accelerometer LPF2 and HPF fast&#45;settling mode. The filter sets the second samples after writi..." alt="" coords="5,31,210,57"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="259,5,400,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,30,243,26,244,31,211,35"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="258,56,402,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,53,243,57,242,62,210,58"/>
+</map>

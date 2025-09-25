@@ -1,0 +1,5 @@
+<map id="lis2mdl_offset_temp_comp_get" name="lis2mdl_offset_temp_comp_get">
+<area shape="rect" id="Node000001" title="Enables the magnetometer temperature compensation.[get]." alt="" coords="5,5,143,48"/>
+<area shape="rect" id="Node000002" href="$group___l_i_s2_m_d_l___interfaces___functions.html#gad1f6464d952b757691b47aa79d82654e" title="Read generic device register." alt="" coords="191,13,310,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,24,175,24,175,29,143,29"/>
+</map>

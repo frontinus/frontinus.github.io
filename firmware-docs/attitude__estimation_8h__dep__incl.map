@@ -1,0 +1,7 @@
+<map id="Davinci_2/Core/Inc/attitude_estimation.h" name="Davinci_2/Core/Inc/attitude_estimation.h">
+<area shape="rect" id="Node000001" title="A temporary, gyroscope&#45;based attitude estimator." alt="" coords="88,5,234,48"/>
+<area shape="rect" id="Node000002" href="$attitude__estimation_8c.html" title=" " alt="" coords="5,96,152,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,61,100,98,96,94,130,58"/>
+<area shape="rect" id="Node000003" href="$main_8c.html" title=": Main program body for the flight computer. Initializes hardware, RTOS, and starts all application t..." alt="" coords="176,96,312,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,58,227,94,223,98,189,61"/>
+</map>

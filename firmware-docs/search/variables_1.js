@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['a_5fm_0',['a_m',['../main_8c.html#a454c0957f2c571d20c930b99a933d3fe',1,'main.c']]],
+  ['acc_5fx_1',['acc_x',['../struct_data___package___for___marconi.html#a16bde7c189c07be95baf7f584b27c7ad',1,'Data_Package_For_Marconi::acc_x'],['../struct_linear___i_m_u___package.html#a5f4d607289a8a9db49b5e5022862a247',1,'Linear_IMU_Package::acc_x']]],
+  ['acc_5fy_2',['acc_y',['../struct_linear___i_m_u___package.html#a3d9922e375617bd06054893134f98dbf',1,'Linear_IMU_Package::acc_y'],['../struct_data___package___for___marconi.html#a5c4d1fc0baea8eb1c46d0779351efd18',1,'Data_Package_For_Marconi::acc_y']]],
+  ['acc_5fz_3',['acc_z',['../struct_linear___i_m_u___package.html#af1c8c64be63342cdc059f9517f9fda58',1,'Linear_IMU_Package::acc_z'],['../struct_data___package___for___marconi.html#aa453c71bf1235a95bbeaed059adfeb3b',1,'Data_Package_For_Marconi::acc_z']]],
+  ['acceleration_4',['acceleration',['../structestimation__output__t.html#af53c6cccea55ce648c678f9c5a43c1ec',1,'estimation_output_t']]],
+  ['acceleration_5fmg_5f1_5',['acceleration_mg_1',['../main_8c.html#a1832f94702f253abf0aecda476d87d6e',1,'main.c']]],
+  ['accx_6',['accX',['../structlinear__acceleration__t.html#a4f5de47239c8474ecb6c1f8ec40ebdb4',1,'linear_acceleration_t']]],
+  ['accy_7',['accY',['../structlinear__acceleration__t.html#a5a13b120b0082971879f32669d288394',1,'linear_acceleration_t']]],
+  ['accz_8',['accZ',['../structlinear__acceleration__t.html#a37134b353ff1e70fddb443e252366f79',1,'linear_acceleration_t']]],
+  ['ad_5fdet_5fen_9',['ad_det_en',['../structlsm6dso32__pedo__cmd__reg__t.html#aec1d9eab1861abcf61651ba47d278a5d',1,'lsm6dso32_pedo_cmd_reg_t']]],
+  ['adcval_10',['adcVal',['../main_8c.html#ab56a2c476dbdb2957b4640ecfe044c15',1,'main.c']]],
+  ['address_11',['address',['../structucf__line__t.html#a7336436850b5d093871d6f5b6a642f35',1,'ucf_line_t']]],
+  ['adv_5fsettings_12',['adv_settings',['../structbmp3__settings.html#aca1162abd81172d91afb475fc92795c1',1,'bmp3_settings']]],
+  ['all_5fint_5fsrc_13',['all_int_src',['../structlsm6dso32__all__sources__t.html#a1a04b51352956b5cffe0dbdf6af59d16',1,'lsm6dso32_all_sources_t::all_int_src'],['../unionlsm6dso32__reg__t.html#acdeba719d79135ce1f5c7df3e8447f1c',1,'lsm6dso32_reg_t::all_int_src']]],
+  ['alpha_14',['alpha',['../main_8c.html#a20f4c4490bc8ecbdd1ffcb79acce6035',1,'main.c']]],
+  ['altitude_15',['altitude',['../struct_data___package___for___marconi.html#a9811d347079c689cc72f5d7030447e49',1,'Data_Package_For_Marconi::altitude'],['../struct_data___package__no___linear___i_m_u.html#a1a2fafd0d26e5f2110bf602301f0d269',1,'Data_Package_no_Linear_IMU::altitude'],['../main_8c.html#a3516728342a262892154a029df3625e2',1,'altitude:&#160;main.c']]],
+  ['angular_5frate_5fmdps_5f1_16',['angular_rate_mdps_1',['../main_8c.html#ac7aaa42530f4af993e21da0798a5af95',1,'main.c']]],
+  ['array_17',['array',['../main_8c.html#ace54632b92220adeabb7035db8fae830',1,'main.c']]],
+  ['aux_5fsens_5fon_18',['aux_sens_on',['../structlsm6dso32__master__config__t.html#ac6c26ed8dc40940984c588251407d63a',1,'lsm6dso32_master_config_t']]]
+];

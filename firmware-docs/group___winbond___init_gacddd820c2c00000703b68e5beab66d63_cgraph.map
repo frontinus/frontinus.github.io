@@ -1,0 +1,19 @@
+<map id="QFlash_Init" name="QFlash_Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,107,94,133"/>
+<area shape="rect" id="Node000002" href="$group___winbond___status.html#gaa0c97f126a0945f1a2cdbaa2258a0d73" title=" " alt="" coords="418,81,558,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,104,141,92,210,85,279,83,403,86,403,91,279,88,210,91,142,97,92,109"/>
+<area shape="rect" id="Node000003" href="$group___winbond___init.html#ga77c500d68070f3878553eccf02f72f8d" title=" " alt="" coords="167,157,317,184"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="95,130,142,143,171,150,170,155,141,148,94,135"/>
+<area shape="rect" id="Node000005" href="$group___winbond___init.html#gac34285bddf90506d02f336803f54e226" title=" " alt="" coords="173,107,310,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="94,117,158,117,158,123,94,123"/>
+<area shape="rect" id="Node000006" href="$group___winbond___control.html#ga033fce4a094c3e5b0ef50f14b1b58b11" title=" " alt="" coords="189,5,294,32"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="63,104,97,76,140,48,173,34,175,39,143,53,100,81,67,109"/>
+<area shape="rect" id="Node000007" href="$group___winbond___status.html#ga21f617ee38cc2b52141b87f70c80bcba" title=" " alt="" coords="142,208,342,235"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="65,132,99,163,143,194,157,200,155,205,140,198,95,167,62,136"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="300,154,341,143,435,111,437,116,343,148,302,159"/>
+<area shape="rect" id="Node000004" href="$group___winbond___status.html#ga19dfea1a548d5410130ba7318f63346c" title=" " alt="" coords="390,157,586,184"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="318,168,374,168,374,173,318,173"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="311,110,402,101,403,106,311,116"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="311,131,406,151,405,156,310,137"/>
+<area shape="poly" id="edge9_Node000006_Node000002" title=" " alt="" coords="289,30,428,74,427,79,287,35"/>
+</map>

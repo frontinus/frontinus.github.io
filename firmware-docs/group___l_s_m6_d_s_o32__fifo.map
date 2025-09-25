@@ -1,0 +1,4 @@
+<map id="LSM6DSO32_fifo" name="LSM6DSO32_fifo">
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___driver.html" title="This is the complete STMicroelectronics driver for the LSM6DSO32 IMU. It provides low&#45;level register ..." alt="" coords="5,5,179,48"/>
+<area shape="rect" id="Node000001" title="This section group all the functions concerning the fifo usage." alt="" coords="227,13,350,40"/>
+</map>

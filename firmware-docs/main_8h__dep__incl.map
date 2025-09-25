@@ -1,0 +1,35 @@
+<map id="Davinci_2/Core/Inc/main.h" name="Davinci_2/Core/Inc/main.h">
+<area shape="rect" id="Node000001" title=": Header for main.c file. This file contains the common defines of the application." alt="" coords="681,5,815,48"/>
+<area shape="rect" id="Node000002" href="$flight__control_8h.html" title="Defines the states, events, and data structures for the rocket&#39;s main Flight State Machine (FSM)." alt="" coords="5,96,139,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="666,36,433,58,292,76,151,99,140,101,139,96,150,93,291,71,433,53,665,31"/>
+<area shape="rect" id="Node000004" href="$profiler_8h.html" title="DWT&#45;based microsecond profiler for ARM Cortex&#45;M microcontrollers." alt="" coords="395,96,528,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="667,56,529,98,528,93,666,50"/>
+<area shape="rect" id="Node000005" href="$main_8c.html" title=": Main program body for the flight computer. Initializes hardware, RTOS, and starts all application t..." alt="" coords="276,187,412,229"/>
+<area shape="poly" id="edge15_Node000001_Node000005" title=" " alt="" coords="666,36,588,45,505,57,432,75,404,86,384,98,368,118,357,141,348,187,343,186,352,139,364,115,381,94,402,81,430,70,504,52,587,39,665,31"/>
+<area shape="rect" id="Node000006" href="$utilities_8h.html" title="Provides low&#45;level hardware drivers, sensor initialization routines, and various utility functions fo..." alt="" coords="603,96,736,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="722,62,689,97,685,94,718,58"/>
+<area shape="rect" id="Node000008" href="$z__qflash___w25_q_x_x_x_8h.html" title="Driver for W25Qxxx series Quad&#45;SPI NOR Flash memory." alt="" coords="163,96,320,139"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="666,43,339,99,320,102,319,97,338,93,666,38"/>
+<area shape="rect" id="Node000009" href="$z__qflash___w25_q_x_x_x_8c.html" title=" " alt="" coords="435,187,592,229"/>
+<area shape="poly" id="edge18_Node000001_Node000009" title=" " alt="" coords="668,56,628,74,592,98,571,119,552,143,525,187,521,185,548,140,567,116,589,94,626,69,665,51"/>
+<area shape="rect" id="Node000010" href="$buzzer_8c.html" title="Implementation of the PWM buzzer driver." alt="" coords="760,96,896,139"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="779,58,812,94,808,97,775,61"/>
+<area shape="rect" id="Node000011" href="$freertos_8c.html" title=" " alt="" coords="920,96,1056,139"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="819,51,933,93,931,98,817,56"/>
+<area shape="rect" id="Node000012" href="$lis2mdl__reg_8c.html" title="LIS2MDL driver file." alt="" coords="1080,96,1216,139"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="831,42,1069,93,1081,96,1079,101,1067,99,829,47"/>
+<area shape="rect" id="Node000013" href="$lsm6dso32__reg_8c.html" title="LSM6DSO32 driver file." alt="" coords="1240,96,1376,139"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="830,34,1013,58,1228,93,1241,96,1239,101,1228,99,1013,63,830,40"/>
+<area shape="rect" id="Node000014" href="$stm32h7xx__hal__msp_8c.html" title="This file provides code for the MSP Initialization and de&#45;Initialization codes." alt="" coords="1399,96,1556,139"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="830,31,1081,53,1234,71,1388,93,1399,95,1398,100,1388,99,1234,76,1080,59,830,36"/>
+<area shape="rect" id="Node000015" href="$stm32h7xx__it_8c.html" title="Interrupt Service Routines." alt="" coords="1579,96,1714,139"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="830,28,970,34,1154,46,1361,65,1568,93,1579,95,1578,101,1568,99,1360,70,1154,51,970,39,830,33"/>
+<area shape="rect" id="Node000003" href="$flight__control_8c.html" title=" " alt="" coords="67,187,202,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,150,122,185,118,188,93,153"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="424,150,373,188,370,184,420,146"/>
+<area shape="rect" id="Node000007" href="$utilities_8c.html" title="Implementation of low&#45;level hardware drivers and utility functions." alt="" coords="615,187,750,229"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="677,154,682,186,677,187,672,155"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="207,151,161,188,158,184,203,146"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="278,147,322,184,318,188,275,151"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="320,141,450,183,449,189,318,146"/>
+</map>

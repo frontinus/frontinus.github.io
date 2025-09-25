@@ -1,0 +1,9 @@
+<map id="bmp390_B_write" name="bmp390_B_write">
+<area shape="rect" id="Node000001" title="SPI write function for the backup Barometer (bmp390)." alt="" coords="423,5,542,32"/>
+<area shape="rect" id="Node000002" href="$utilities_8c.html#a0fccd7db2824158f76f5393da8901487" title=" " alt="" coords="258,5,375,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="408,21,375,21,375,16,408,16"/>
+<area shape="rect" id="Node000003" href="$group__bmp3.html#ga5930eb3a2ebc74ef4996cb5cc0e835fc" title="Initializes the backup barometer (BMP390)." alt="" coords="103,5,210,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="242,21,210,21,210,16,242,16"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
+</map>

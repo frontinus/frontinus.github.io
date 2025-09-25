@@ -1,0 +1,36 @@
+<map id="check_flight_phase" name="check_flight_phase">
+<area shape="rect" id="Node000001" title="Main FSM router function that delegates to the current state&#39;s handler." alt="" coords="5,148,139,175"/>
+<area shape="rect" id="Node000002" href="$flight__control_8c.html#a3633e4bb35c5a119ca032439db0d985a" title="Handler for the ABCSDEPLOYED state (apogee control)." alt="" coords="196,5,344,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,146,126,103,185,58,193,53,196,58,188,62,130,107,88,149"/>
+<area shape="rect" id="Node000005" href="$flight__control_8c.html#a2044ea22f9d0a5b3c53b269e4f1be508" title="Handler for the BURNING state (powered ascent)." alt="" coords="196,72,345,99"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="101,145,186,108,205,101,207,106,188,113,103,150"/>
+<area shape="rect" id="Node000006" href="$flight__control_8c.html#a2d929a4793ee883e3e7bdabe0deea72e" title="Handler for the CALIBRATING state." alt="" coords="187,275,354,301"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="87,173,129,216,157,240,188,260,200,266,197,271,185,265,154,244,125,220,83,177"/>
+<area shape="rect" id="Node000012" href="$flight__control_8c.html#ad67c8fa956febe3c7a883f7fa2b268b0" title="Handler for the DROGUE state (descent under drogue parachute)." alt="" coords="197,123,344,149"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="139,150,181,145,181,150,139,155"/>
+<area shape="rect" id="Node000013" href="$flight__control_8c.html#aba82f61bcce6a03c81dae2533ab2431e" title="Handler for the LIFTOFF state." alt="" coords="202,173,339,200"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="139,167,187,173,186,179,139,172"/>
+<area shape="rect" id="Node000014" href="$flight__control_8c.html#a8116659c0af7f3f1abd980d8013e2654" title="Handler for the MAIN state (descent under main parachute)." alt="" coords="204,224,337,251"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="103,173,188,210,207,216,205,221,186,214,101,178"/>
+<area shape="rect" id="Node000003" href="$flight__control_8c.html#ac501a7c6c60c2b8c9cd9d0e7d328c80c" title="Handles the mechanics of a state transition." alt="" coords="402,148,519,175"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="335,46,355,58,403,96,440,134,436,138,399,100,353,62,332,51"/>
+<area shape="rect" id="Node000004" href="$flight__control_8c.html#a2453e798beaa2b27f6468db201f7861a" title=" " alt="" coords="607,148,739,175"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="520,159,591,159,591,164,520,164"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="322,97,355,108,421,138,419,143,353,113,320,102"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="328,272,353,260,400,224,437,185,441,189,404,228,355,265,331,276"/>
+<area shape="rect" id="Node000007" href="$group___winbond___memory.html#gad6301bd88db8e497c5382bda891bac6f" title=" " alt="" coords="410,275,511,301"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="355,285,395,285,395,291,355,291"/>
+<area shape="rect" id="Node000008" href="$group___winbond___control.html#gaefb0b18c1b05043f2ce91b1be9be11be" title=" " alt="" coords="567,224,779,251"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="511,274,598,252,600,257,512,279"/>
+<area shape="rect" id="Node000010" href="$z__qflash___w25_q_x_x_x_8c.html#afb89e02b295e274a464decd984e2f0c5" title=" " alt="" coords="585,275,761,301"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="511,285,570,285,570,291,511,291"/>
+<area shape="rect" id="Node000011" href="$group___winbond___status.html#gaf93b34eaf38e118fc173c4c0d5abe5f7" title="enables writes" alt="" coords="603,325,743,352"/>
+<area shape="poly" id="edge13_Node000007_Node000011" title=" " alt="" coords="512,297,600,319,598,324,511,302"/>
+<area shape="rect" id="Node000009" href="$group___winbond___status.html#gaa0c97f126a0945f1a2cdbaa2258a0d73" title=" " alt="" coords="827,275,967,301"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="736,249,820,268,819,273,735,254"/>
+<area shape="poly" id="edge12_Node000010_Node000009" title=" " alt="" coords="761,285,811,285,811,291,761,291"/>
+<area shape="poly" id="edge14_Node000011_Node000009" title=" " alt="" coords="735,322,819,303,820,308,736,327"/>
+<area shape="poly" id="edge16_Node000012_Node000003" title=" " alt="" coords="345,143,387,149,386,154,344,148"/>
+<area shape="poly" id="edge18_Node000013_Node000003" title=" " alt="" coords="339,175,386,169,387,174,340,180"/>
+<area shape="poly" id="edge20_Node000014_Node000003" title=" " alt="" coords="320,221,353,210,419,180,421,184,355,214,322,226"/>
+</map>

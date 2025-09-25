@@ -1,0 +1,4 @@
+<map id="Status and Control Functions" name="Status and Control Functions">
+<area shape="rect" id="Node000001" title="Functions for controlling chip state (reset, write enable) and reading status registers." alt="" coords="205,5,335,48"/>
+<area shape="rect" id="Node000002" href="$group___winbond___driver.html" title="Functions and definitions for controlling the external flash memory." alt="" coords="5,5,157,48"/>
+</map>

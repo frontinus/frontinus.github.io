@@ -1,0 +1,5 @@
+<map id="attitude_estimation" name="attitude_estimation">
+<area shape="rect" id="Node000001" title="Propagates the rocket&#39;s attitude quaternion and calculates the angle from vertical." alt="" coords="5,5,137,32"/>
+<area shape="rect" id="Node000002" href="$eye_8c.html#a8c43278f5ad0020912d83a595acc01ae" title="Creates a 4x4 identity matrix, typically for attitude calculations." alt="" coords="185,5,277,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,16,169,16,169,21,137,21"/>
+</map>

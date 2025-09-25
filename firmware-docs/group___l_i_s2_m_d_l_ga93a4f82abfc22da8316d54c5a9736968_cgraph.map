@@ -1,0 +1,5 @@
+<map id="lis2mdl_data_format_get" name="lis2mdl_data_format_get">
+<area shape="rect" id="Node000001" title="Big/Little Endian data selection.[get]." alt="" coords="5,5,169,32"/>
+<area shape="rect" id="Node000002" href="$group___l_i_s2_m_d_l___interfaces___functions.html#gad1f6464d952b757691b47aa79d82654e" title="Read generic device register." alt="" coords="217,5,336,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,16,201,16,201,21,169,21"/>
+</map>

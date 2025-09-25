@@ -1,0 +1,21 @@
+<map id="bmp3_init" name="bmp3_init">
+<area shape="rect" id="Node000001" title="This internal API converts the no. of frames required by the user to bytes so as to write in the wate..." alt="" coords="5,51,83,77"/>
+<area shape="rect" id="Node000002" href="$bmp3_8c.html#a9e0c2cdecfdac8aa6ed4e35940f7ade7" title="This API reads the data from the given register address of the sensor." alt="" coords="302,25,412,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,58,286,42,286,47,83,64"/>
+<area shape="rect" id="Node000003" href="$bmp3_8c.html#a9db82f2117ddfa4eccef8a018e738aab" title="This internal API is used to validate the device pointer for null conditions." alt="" coords="479,25,584,52"/>
+<area shape="poly" id="edge11_Node000001_Node000003" title=" " alt="" coords="78,48,130,31,209,13,272,4,336,4,417,11,465,19,464,24,416,16,336,9,273,10,210,18,131,36,79,53"/>
+<area shape="rect" id="Node000004" href="$bmp3_8c.html#ad83b435b6be380ec33d48b5b84a068b1" title="This API performs the soft reset of the sensor." alt="" coords="131,76,249,103"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="84,68,116,74,115,79,83,73"/>
+<area shape="rect" id="Node000007" href="$bmp3_8c.html#a455d1f37d94acad6b4031ca0b3044491" title="This internal API reads the calibration data from the sensor, parse it then compensates it and store ..." alt="" coords="137,127,242,153"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="68,76,132,112,142,117,140,122,129,117,66,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,36,463,36,463,41,412,41"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="236,73,295,54,296,60,237,78"/>
+<area shape="rect" id="Node000005" href="$bmp3_8c.html#ad02d16a9569a75f9df070348eb7cb1fe" title="This API writes the given data to the register address of the sensor." alt="" coords="302,76,412,103"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="250,87,286,87,286,92,250,92"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="405,73,467,54,469,59,406,78"/>
+<area shape="rect" id="Node000006" href="$bmp3_8c.html#aa5c65995726d3062cf7e5659cbdc3472" title="This internal API interleaves the register address between the register data buffer for burst write o..." alt="" coords="464,76,599,103"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="412,87,449,87,449,92,412,92"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="228,124,247,112,262,100,271,88,280,75,295,62,302,57,305,62,299,66,284,79,275,91,266,103,251,117,230,128"/>
+<area shape="rect" id="Node000008" href="$bmp3_8c.html#a1a9dab11b748936abcec7b712d721ca6" title="This internal API is used to parse the calibration data, compensates it and store it in device struct..." alt="" coords="297,127,416,153"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="243,137,282,137,282,143,243,143"/>
+</map>

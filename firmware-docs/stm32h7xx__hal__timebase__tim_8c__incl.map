@@ -1,0 +1,7 @@
+<map id="Davinci_2/Core/Src/stm32h7xx_hal_timebase_tim.c" name="Davinci_2/Core/Src/stm32h7xx_hal_timebase_tim.c">
+<area shape="rect" id="Node000001" title="HAL time base based on the hardware TIM." alt="" coords="40,5,249,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,96,126,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,50,90,86,87,83,122,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="150,96,296,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,47,202,83,198,86,163,50"/>
+</map>

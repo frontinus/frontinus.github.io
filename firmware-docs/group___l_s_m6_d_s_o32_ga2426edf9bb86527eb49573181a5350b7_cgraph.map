@@ -1,0 +1,7 @@
+<map id="lsm6dso32_xl_offset_weight_set" name="lsm6dso32_xl_offset_weight_set">
+<area shape="rect" id="Node000001" title="Weight of XL user offset bits of registers X_OFS_USR (73h), Y_OFS_USR (74h), Z_OFS_USR (75h)...." alt="" coords="5,23,146,65"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="195,5,336,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,32,179,27,180,33,147,37"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="194,56,338,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,51,179,55,178,60,146,56"/>
+</map>

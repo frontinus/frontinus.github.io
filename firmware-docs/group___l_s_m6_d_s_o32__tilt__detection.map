@@ -1,0 +1,4 @@
+<map id="LSM6DSO32_tilt_detection" name="LSM6DSO32_tilt_detection">
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___driver.html" title="This is the complete STMicroelectronics driver for the LSM6DSO32 IMU. It provides low&#45;level register ..." alt="" coords="5,5,179,48"/>
+<area shape="rect" id="Node000001" title="This section groups all the functions that manage the tilt event detection." alt="" coords="227,13,406,40"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="get_calib_data" name="get_calib_data">
+<area shape="rect" id="Node000001" title="This internal API reads the calibration data from the sensor, parse it then compensates it and store ..." alt="" coords="383,31,489,57"/>
+<area shape="rect" id="Node000002" href="$bmp3_8c.html#aff608ffafb8ebd79b7a0251b75451fba" title="This internal API converts the no. of frames required by the user to bytes so as to write in the wate..." alt="" coords="258,31,335,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="368,47,336,47,336,41,368,41"/>
+<area shape="rect" id="Node000003" href="$group__bmp3.html#ga5930eb3a2ebc74ef4996cb5cc0e835fc" title="Initializes the backup barometer (BMP390)." alt="" coords="103,5,210,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="242,37,210,31,211,26,243,32"/>
+<area shape="rect" id="Node000005" href="$group__bmp3.html#gab8d904a31124b1eca5f4922c14340746" title="Initializes the primary barometer (BMP390)." alt="" coords="104,56,209,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="243,56,210,62,209,57,242,51"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,31,55,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="88,35,55,42,54,37,87,30"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="88,58,55,52,56,46,89,53"/>
+</map>

@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['r_0',['R',['../main_8c.html#a8523517a36ba1d96b83ca850602e30fa',1,'main.c']]],
+  ['r_5f1_1',['r_1',['../structlsm6dso32__slv1__add__t.html#a5ab8c3f884cfdca1028d67d8661ff22c',1,'lsm6dso32_slv1_add_t']]],
+  ['r_5f2_2',['r_2',['../structlsm6dso32__slv2__add__t.html#a48c84ae122003572c16fe80c76397ffb',1,'lsm6dso32_slv2_add_t']]],
+  ['r_5f3_3',['r_3',['../structlsm6dso32__slv3__add__t.html#a9a4bdc769d35d63ae2c847409c51efd9',1,'lsm6dso32_slv3_add_t']]],
+  ['raw_5fmag_5fdata_4',['raw_mag_data',['../main_8c.html#a889524a6e033fe61f4945a15caf9b595',1,'main.c']]],
+  ['re_5',['re',['../structcint8___t.html#a0721b0544133b8973c6d947dde3742bf',1,'cint8_T::re'],['../structcuint8___t.html#abcb8936a4e848d7e8e034f54f30658ca',1,'cuint8_T::re'],['../structcint16___t.html#af25522e372c99b713658503c859eaa02',1,'cint16_T::re'],['../structcuint16___t.html#a3af36a6e6471e5295dc1fe777de25b4f',1,'cuint16_T::re'],['../structcint32___t.html#a735a454963f0e5d282a5b61740977e90',1,'cint32_T::re'],['../structcuint32___t.html#a802b72d2b30b9fdefa2e50297eb11ffe',1,'cuint32_T::re'],['../structcreal___t.html#aa01fd35e28518224e8641cce5b66e413',1,'creal_T::re'],['../structcreal32___t.html#a8f307e023841a72278193b51d01bf3a2',1,'creal32_T::re'],['../structcreal64___t.html#aa5e87d519766cf4067e3e49e3460b2ca',1,'creal64_T::re']]],
+  ['read_6',['read',['../structbmp3__dev.html#a056343ee3b4ab8ae54a2ebc844c46199',1,'bmp3_dev']]],
+  ['read_5freg_7',['read_reg',['../structstmdev__ctx__t.html#a1e181319243a3922d5a31c246faddbe2',1,'stmdev_ctx_t']]],
+  ['reboot_8',['reboot',['../structlis2mdl__cfg__reg__a__t.html#aba94e315c887059b84aaf972dfb74d51',1,'lis2mdl_cfg_reg_a_t']]],
+  ['receivevel_5ftask_5fattributes_9',['ReceiveVel_Task_attributes',['../main_8c.html#a67f31801f0978d7a51914602386bdd36',1,'main.c']]],
+  ['receivevel_5ftaskhandle_10',['ReceiveVel_TaskHandle',['../main_8c.html#a84c239e392dfabd86103cc5bc1f442c7',1,'main.c']]],
+  ['reg_5faccess_11',['reg_access',['../structlsm6dso32__func__cfg__access__t.html#ab3219c871ffc1a674a88cd06d67f8bcd',1,'lsm6dso32_func_cfg_access_t']]],
+  ['reg_5fcalib_5fdata_12',['reg_calib_data',['../structbmp3__calib__data.html#aa1d8ba796bd972e59c1c55b4d606a35f',1,'bmp3_calib_data']]],
+  ['req_5fframes_13',['req_frames',['../structbmp3__fifo__data.html#a553c333b1c1ff7632c24a57c7137e00b',1,'bmp3_fifo_data']]],
+  ['rounding_14',['rounding',['../structlsm6dso32__ctrl5__c__t.html#a91f1ebf458ceeab908d67648d784abd7',1,'lsm6dso32_ctrl5_c_t']]],
+  ['rst_5fcounter_5fbdr_15',['rst_counter_bdr',['../structlsm6dso32__counter__bdr__reg1__t.html#aa13781234261978a47e6ccfbb8fac3d8',1,'lsm6dso32_counter_bdr_reg1_t']]],
+  ['rst_5fmaster_5fregs_16',['rst_master_regs',['../structlsm6dso32__master__config__t.html#a282aa7951a074c60c99f5fd798ef1674',1,'lsm6dso32_master_config_t']]],
+  ['rtinf_17',['rtInf',['../group___non_finite___globals.html#ga380f3688f12e11dc0234b228d042c912',1,'rtInf:&#160;rt_nonfinite.c'],['../group___non_finite___globals.html#ga380f3688f12e11dc0234b228d042c912',1,'rtInf:&#160;rt_nonfinite.c']]],
+  ['rtinff_18',['rtInfF',['../group___non_finite___globals.html#ga74b53a9f840432a63de2ad1fa50f386f',1,'rtInfF:&#160;rt_nonfinite.c'],['../group___non_finite___globals.html#ga74b53a9f840432a63de2ad1fa50f386f',1,'rtInfF:&#160;rt_nonfinite.c']]],
+  ['rtminusinf_19',['rtMinusInf',['../group___non_finite___globals.html#ga5a782cf7287d7eff7302fccf34c59f2a',1,'rtMinusInf:&#160;rt_nonfinite.c'],['../group___non_finite___globals.html#ga5a782cf7287d7eff7302fccf34c59f2a',1,'rtMinusInf:&#160;rt_nonfinite.c']]],
+  ['rtminusinff_20',['rtMinusInfF',['../group___non_finite___globals.html#gaea85480233f0a2a4090e27d6d4e1d7a8',1,'rtMinusInfF:&#160;rt_nonfinite.c'],['../group___non_finite___globals.html#gaea85480233f0a2a4090e27d6d4e1d7a8',1,'rtMinusInfF:&#160;rt_nonfinite.c']]],
+  ['rtnan_21',['rtNaN',['../group___non_finite___globals.html#ga3da5a3999caf769c738fda1934922ff8',1,'rtNaN:&#160;rt_nonfinite.c'],['../group___non_finite___globals.html#ga3da5a3999caf769c738fda1934922ff8',1,'rtNaN:&#160;rt_nonfinite.c']]],
+  ['rtnanf_22',['rtNaNF',['../group___non_finite___globals.html#ga10c277c297cb935412fad0c085a12b41',1,'rtNaNF:&#160;rt_nonfinite.c'],['../group___non_finite___globals.html#ga10c277c297cb935412fad0c085a12b41',1,'rtNaNF:&#160;rt_nonfinite.c']]],
+  ['rw_5f0_23',['rw_0',['../structlsm6dso32__slv0__add__t.html#a5d3c75a343ce25a824f3de333e0214e1',1,'lsm6dso32_slv0_add_t']]]
+];

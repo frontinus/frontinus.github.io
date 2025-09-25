@@ -2,7 +2,7 @@
 layout: post
 title:  "Onboarding: Presenting the work and process of the firmware division of the Polito Rocket Team"
 date:   2025-09-25 22:41:41 +0100
-categories: tutorials
+categories: ['tutorials', 'projects']
 tags : ['Tutorial', 'onboarding', 'firmware', 'PRT']
 author : "Francesco Abate"
 ---

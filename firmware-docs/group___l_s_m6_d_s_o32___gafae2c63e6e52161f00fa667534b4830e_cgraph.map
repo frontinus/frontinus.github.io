@@ -1,0 +1,13 @@
+<map id="lsm6dso32_mag_soft_iron_set" name="lsm6dso32_mag_soft_iron_set">
+<area shape="rect" id="Node000001" title="Soft&#45;iron (3x3 symmetric) matrix correction register (r/w). The value is expressed as half&#45;precision ..." alt="" coords="5,23,151,65"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32__common.html#gadc6e8c70957d336f735bd1387690123f" title="Write a line(byte) in a page.[set]." alt="" coords="199,31,388,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,41,183,41,183,47,151,47"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32__common.html#ga42e20a310b0f7a40c07b4dce8d758f1a" title="Enable access to the embedded functions/sensor hub configuration registers.[set]." alt="" coords="436,31,616,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="388,41,420,41,420,47,388,47"/>
+<area shape="rect" id="Node000004" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="666,5,807,32"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="358,27,436,16,548,11,650,12,650,17,548,16,436,21,359,33"/>
+<area shape="rect" id="Node000005" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="664,68,809,95"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="362,55,436,67,547,75,649,78,649,84,547,80,436,72,361,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="616,30,650,26,651,32,617,36"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="605,55,649,63,648,68,604,61"/>
+</map>

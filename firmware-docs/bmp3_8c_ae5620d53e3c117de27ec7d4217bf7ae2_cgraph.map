@@ -1,0 +1,11 @@
+<map id="parse_sett_data" name="parse_sett_data">
+<area shape="rect" id="Node000001" title="This internal API parse the power control(power mode, pressure enable and temperature enable),..." alt="" coords="5,81,120,108"/>
+<area shape="rect" id="Node000002" href="$bmp3_8c.html#a0eac7300e956796b856d5f0279f5850f" title="This internal API parse the advance (i2c_wdt_en, i2c_wdt_sel) settings and store in the device struct..." alt="" coords="168,5,330,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,78,167,42,185,35,186,40,169,46,91,83"/>
+<area shape="rect" id="Node000003" href="$bmp3_8c.html#a8fcb87fba39df5da4a471d163e02c84e" title="This internal API parse the interrupt control(output mode, level, latch and data ready) settings and ..." alt="" coords="173,56,326,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,84,157,79,158,84,120,90"/>
+<area shape="rect" id="Node000004" href="$bmp3_8c.html#add16f6eeb6f80c2407685192259abf5c" title="This internal API parse the over sampling, ODR and filter settings and store in the device structure." alt="" coords="168,107,331,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="120,100,152,104,152,109,120,105"/>
+<area shape="rect" id="Node000005" href="$bmp3_8c.html#a6422c146af6af181460f70bf2d373191" title="This internal API parse the power control(power mode, pressure enable and temperature enable) setting..." alt="" coords="170,157,329,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="91,106,169,143,186,149,185,154,167,148,88,111"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="optimalAngle" name="optimalAngle">
+<area shape="rect" id="Node000001" title="Calculates the optimal constant airbrake angle to reach a target apogee." alt="" coords="5,259,102,285"/>
+<area shape="rect" id="Node000002" href="$cd_evaluation_8c.html#a69f7fd2df34d5dbea75a4f8e560dd51f" title="Estimates the coefficient of drag (Cd) via 2D bilinear interpolation." alt="" coords="150,132,246,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,256,168,167,172,171,72,260"/>
+<area shape="rect" id="Node000008" href="$optimal_angle_8c.html#aec012aeba63ea4ffcdc8bcede27b6847" title=" " alt="" coords="152,259,244,285"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="102,269,136,269,136,275,102,275"/>
+<area shape="rect" id="Node000010" href="$group___non_finite___functions.html#ga77a37b8e06f4c4ce363a03fe4099aad8" title="Checks if a double&#45;precision value is Not&#45;a&#45;Number (NaN)." alt="" coords="324,309,391,336"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="102,283,150,295,234,308,308,316,308,321,233,313,149,300,101,289"/>
+<area shape="rect" id="Node000003" href="$find_8c.html#a7b5c2b3712db27eb37ff2480cb06e58e" title="Finds the index of the last true element in a 5&#45;element boolean array." alt="" coords="315,5,399,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="207,130,242,87,266,63,292,42,300,37,303,42,296,46,269,67,246,91,211,133"/>
+<area shape="rect" id="Node000004" href="$eml__mtimes__helper_8c.html#a6dfa07980827284784a4e944d9f12a0b" title="Performs a fused set of element&#45;wise operations for 2D interpolation." alt="" coords="294,56,420,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="222,129,293,92,305,87,307,92,295,97,225,134"/>
+<area shape="rect" id="Node000005" href="$find_8c.html#aa6e9d8d524731c81277ed384b0771f2c" title="Finds the index of the last true element in a 6&#45;element boolean array." alt="" coords="322,107,392,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="246,135,306,125,307,131,247,140"/>
+<area shape="rect" id="Node000006" href="$mrdivide__helper_8c.html#aa64ae8bd98fefc483183622c330cc62c" title="Performs element&#45;wise division of a scalar by each element of a matrix." alt="" coords="324,157,391,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="247,150,309,160,308,166,246,156"/>
+<area shape="rect" id="Node000007" href="$mtimes_8c.html#a23754b43ebfe5c68d2918ea22a418718" title="Performs matrix multiplication: C = A * B." alt="" coords="325,208,389,235"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="225,157,295,194,312,201,310,206,293,198,222,162"/>
+<area shape="rect" id="Node000009" href="$group___non_finite___functions.html#ga5cb8bd309556e80b24b7e67a0718a0c5" title="Checks if a double&#45;precision value is positive or negative infinity." alt="" coords="330,259,385,285"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="244,269,314,269,314,275,244,275"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="243,283,309,305,308,310,242,289"/>
+</map>

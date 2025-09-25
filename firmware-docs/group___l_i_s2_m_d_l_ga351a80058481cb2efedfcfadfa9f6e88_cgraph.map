@@ -1,0 +1,32 @@
+<map id="lis2mdl_init_2" name="lis2mdl_init_2">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,233,106,260"/>
+<area shape="rect" id="Node000002" href="$group___l_i_s2_m_d_l__common.html#gad3bf7b59d3a7601512d0b981af153516" title="Reboot memory content. Reload the calibration parameters.[get]." alt="" coords="169,157,288,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,230,153,194,168,187,170,192,155,198,82,235"/>
+<area shape="rect" id="Node000003" href="$group___l_i_s2_m_d_l___interfaces___functions.html#gad1f6464d952b757691b47aa79d82654e" title="Read generic device register." alt="" coords="354,157,473,184"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="63,231,97,185,122,161,153,143,179,134,207,129,263,129,317,137,363,149,361,154,316,142,263,134,207,134,181,139,155,148,126,165,101,189,67,234"/>
+<area shape="rect" id="Node000004" href="$group___l_i_s2_m_d_l__common.html#gafe5ce2eaa1b4034119af82c1b313a239" title="Reboot memory content. Reload the calibration parameters.[set]." alt="" coords="169,208,288,235"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="106,237,153,230,154,235,107,242"/>
+<area shape="rect" id="Node000005" href="$group___l_i_s2_m_d_l___interfaces___functions.html#gab7d0cf44f3a6060e61e22800570e7c35" title="Write generic device register." alt="" coords="352,284,474,311"/>
+<area shape="poly" id="edge17_Node000001_Node000005" title=" " alt="" coords="67,259,101,304,126,328,155,346,194,359,227,361,261,355,303,345,341,333,376,316,378,321,343,338,305,351,262,360,228,366,193,364,153,350,122,332,97,308,63,262"/>
+<area shape="rect" id="Node000006" href="$group___l_i_s2_m_d_l__common.html#gaec998ff06fe4897604f40b316e4e4f9f" title="DeviceWhoamI.[get]." alt="" coords="154,5,304,32"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="57,232,66,195,84,144,112,90,131,64,152,42,157,38,160,42,155,46,135,68,117,93,89,146,72,197,62,234"/>
+<area shape="rect" id="Node000007" href="$group___l_i_s2_m_d_l__common.html#gad719c54e368c84db6175d0b1adf797fc" title="Software reset. Restore the default values in user registers.[get]." alt="" coords="167,56,290,83"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="60,231,94,169,120,132,152,99,169,88,172,92,155,103,124,136,98,172,65,234"/>
+<area shape="rect" id="Node000008" href="$group___l_i_s2_m_d_l__common.html#gadd247cd28425d2dd12a880235070cae2" title="Software reset. Restore the default values in user registers.[set]." alt="" coords="167,259,290,285"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="107,251,152,258,151,263,106,257"/>
+<area shape="rect" id="Node000009" href="$group___l_i_s2_m_d_l__serial__interface.html#ga7a8ad228f06d2b2432313a1db61c485c" title="SPI Serial Interface Mode selection.[set]." alt="" coords="154,309,304,336"/>
+<area shape="poly" id="edge14_Node000001_Node000009" title=" " alt="" coords="82,258,155,295,170,301,168,306,153,300,80,263"/>
+<area shape="rect" id="Node000010" href="$group___l_i_s2_m_d_l___platform___functions.html#gaa2c2949e73d04353b41eb92896a7f360" title="Read data from LIS2MDL sensor via SPI." alt="" coords="167,411,291,437"/>
+<area shape="poly" id="edge18_Node000001_Node000010" title=" " alt="" coords="65,259,98,321,124,358,155,390,172,401,169,406,152,394,120,361,94,324,60,262"/>
+<area shape="rect" id="Node000011" href="$group___l_i_s2_m_d_l___platform___functions.html#ga67b21fa9e2ec45ca3bdae198980f874f" title="Write data to LIS2MDL sensor via SPI." alt="" coords="165,461,292,488"/>
+<area shape="poly" id="edge19_Node000001_Node000011" title=" " alt="" coords="62,260,72,297,89,347,117,401,135,426,155,447,160,451,157,455,152,451,131,429,112,404,84,349,66,298,57,261"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="289,168,338,168,338,173,289,173"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="280,205,346,186,348,191,281,210"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="274,233,305,244,372,274,370,279,303,249,272,238"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="284,30,305,42,334,65,359,91,397,142,393,145,355,95,330,69,303,46,281,35"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="267,81,305,99,382,146,379,151,303,104,265,86"/>
+<area shape="poly" id="edge12_Node000008_Node000003" title=" " alt="" coords="276,256,303,244,345,219,382,192,385,196,348,223,305,249,279,260"/>
+<area shape="poly" id="edge13_Node000008_Node000005" title=" " alt="" coords="292,278,337,284,337,290,291,283"/>
+<area shape="poly" id="edge15_Node000009_Node000003" title=" " alt="" coords="281,306,303,295,330,273,355,246,393,196,397,199,359,250,334,276,305,300,284,311"/>
+<area shape="poly" id="edge16_Node000009_Node000005" title=" " alt="" coords="304,310,336,305,337,310,305,315"/>
+</map>

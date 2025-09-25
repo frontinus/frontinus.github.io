@@ -1,0 +1,14 @@
+<map id="&quot;LIS2MDL Magnetometer Driver&quot;" name="&quot;LIS2MDL Magnetometer Driver&quot;">
+<area shape="rect" id="Node000009" href="$group___endianness.html" title=" " alt="" coords="442,5,522,32"/>
+<area shape="rect" id="Node000001" title="This file provides a set of functions needed to drive the lis2mdl enhanced inertial module." alt="" coords="179,225,347,268"/>
+<area shape="rect" id="Node000003" href="$group___l_i_s2_m_d_l___interfaces___functions.html" title="This section provide a set of functions used to read and write a generic register of the device...." alt="" coords="406,56,557,83"/>
+<area shape="rect" id="Node000012" href="$group___l_i_s2_m_d_l___register___union.html" title="This union group all the registers having a bit&#45;field description. This union is useful but it&#39;s not ..." alt="" coords="395,107,568,133"/>
+<area shape="rect" id="Node000004" href="$group___l_i_s2_m_d_l___sensitivity.html" title="These functions convert raw&#45;data into engineering units." alt="" coords="436,157,528,184"/>
+<area shape="rect" id="Node000006" href="$group___l_i_s2_m_d_l__common.html" title="This section group common useful functions." alt="" coords="440,208,524,235"/>
+<area shape="rect" id="Node000005" href="$group___l_i_s2_m_d_l__data__generation.html" title="This section group all the functions concerning data generation." alt="" coords="418,259,545,285"/>
+<area shape="rect" id="Node000007" href="$group___l_i_s2_m_d_l__interrupts.html" title="This section group all the functions that manage interrupts." alt="" coords="438,309,525,336"/>
+<area shape="rect" id="Node000008" href="$group___l_i_s2_m_d_l__serial__interface.html" title="This section group all the functions concerning serial interface management." alt="" coords="422,360,541,387"/>
+<area shape="rect" id="Node000011" href="$group___l_s_m9_d_s1___infos.html" title=" " alt="" coords="423,411,540,437"/>
+<area shape="rect" id="Node000010" href="$group___s_t_microelectronics.html" title=" " alt="" coords="403,461,560,488"/>
+<area shape="rect" id="Node000002" href="$group___peripherals.html" title="Low&#45;level drivers and initialization for on&#45;board hardware components." alt="" coords="5,233,131,260"/>
+</map>

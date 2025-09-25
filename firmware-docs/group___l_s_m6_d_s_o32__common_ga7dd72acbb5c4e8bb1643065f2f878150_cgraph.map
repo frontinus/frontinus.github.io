@@ -1,0 +1,7 @@
+<map id="lsm6dso32_odr_cal_reg_set" name="lsm6dso32_odr_cal_reg_set">
+<area shape="rect" id="Node000001" title="Difference in percentage of the effective ODR(and timestamp rate) with respect to the typical...." alt="" coords="5,31,189,57"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="238,5,380,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,30,222,26,223,32,189,36"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="237,56,381,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,52,222,56,221,62,189,58"/>
+</map>

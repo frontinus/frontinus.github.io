@@ -1,0 +1,9 @@
+<map id="bmp3_B_spi_init" name="bmp3_B_spi_init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,123,83"/>
+<area shape="rect" id="Node000002" href="$group__bmp3.html#ga6e23eba9bdb8b92a92851e0837cb3f3d" title="SPI read function for the backup Barometer (bmp390)." alt="" coords="176,5,292,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,53,172,34,173,39,112,58"/>
+<area shape="rect" id="Node000003" href="$group__bmp3.html#gaa2a81016650e6b9bfc1c79aa2bf84267" title="SPI write function for the backup Barometer (bmp390)." alt="" coords="175,56,293,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,67,159,67,159,72,123,72"/>
+<area shape="rect" id="Node000004" href="$utilities_8c.html#a4210bfa28bccf1b0be798ac8a0de014a" title=" " alt="" coords="171,107,297,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="112,81,173,99,172,104,111,86"/>
+</map>

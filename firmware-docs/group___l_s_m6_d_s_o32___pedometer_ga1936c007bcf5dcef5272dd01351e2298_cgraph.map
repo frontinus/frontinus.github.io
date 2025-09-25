@@ -1,0 +1,18 @@
+<map id="lsm6dso32_pedo_int_mode_set" name="lsm6dso32_pedo_int_mode_set">
+<area shape="rect" id="Node000001" title="Set when user wants to generate interrupt on count overflow event/every step.[set]." alt="" coords="5,65,146,108"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32__common.html#ga1e472ef1bfee2b46a3f02adb4081cd8e" title="Read a line(byte) in a page.[get]." alt="" coords="195,98,382,125"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,92,180,96,180,101,146,97"/>
+<area shape="rect" id="Node000006" href="$group___l_s_m6_d_s_o32__common.html#gadc6e8c70957d336f735bd1387690123f" title="Write a line(byte) in a page.[set]." alt="" coords="194,36,383,62"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="146,71,193,63,194,68,147,77"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32__common.html#ga42e20a310b0f7a40c07b4dce8d758f1a" title="Enable access to the embedded functions/sensor hub configuration registers.[set]." alt="" coords="431,124,611,150"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="382,119,416,123,415,128,382,125"/>
+<area shape="rect" id="Node000004" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="661,73,802,100"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="382,104,645,89,645,94,382,109"/>
+<area shape="rect" id="Node000005" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="659,124,804,150"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="320,123,371,144,432,160,482,167,521,168,611,160,662,152,662,157,612,165,521,173,481,172,430,165,370,149,318,128"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="579,121,658,101,659,107,580,126"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="612,134,644,134,644,140,612,140"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="327,61,471,115,469,120,325,66"/>
+<area shape="poly" id="edge9_Node000006_Node000004" title=" " alt="" coords="332,33,388,18,459,7,536,4,574,7,612,15,661,35,703,61,700,66,659,40,611,20,574,12,535,9,459,12,389,24,333,38"/>
+<area shape="poly" id="edge10_Node000006_Node000005" title=" " alt="" coords="364,60,612,109,652,117,651,123,611,114,363,66"/>
+</map>

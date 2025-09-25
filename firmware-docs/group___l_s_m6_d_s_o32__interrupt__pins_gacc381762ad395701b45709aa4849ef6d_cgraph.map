@@ -1,0 +1,5 @@
+<map id="lsm6dso32_all_on_int1_get" name="lsm6dso32_all_on_int1_get">
+<area shape="rect" id="Node000001" title="All interrupt signals become available on INT1 pin.[get]." alt="" coords="5,5,184,32"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="232,5,373,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,16,216,16,216,21,184,21"/>
+</map>

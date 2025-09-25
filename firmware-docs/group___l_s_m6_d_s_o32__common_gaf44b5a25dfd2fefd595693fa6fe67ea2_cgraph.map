@@ -1,0 +1,5 @@
+<map id="lsm6dso32_mem_bank_get" name="lsm6dso32_mem_bank_get">
+<area shape="rect" id="Node000001" title="Enable access to the embedded functions/sensor hub configuration registers.[get]." alt="" coords="5,5,186,32"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="234,5,375,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,16,218,16,218,21,186,21"/>
+</map>

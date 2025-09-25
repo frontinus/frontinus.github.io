@@ -1,0 +1,27 @@
+<map id="Davinci_2/Core/Src/utilities.c" name="Davinci_2/Core/Src/utilities.c">
+<area shape="rect" id="Node000001" title="Implementation of low&#45;level hardware drivers and utility functions." alt="" coords="405,5,540,48"/>
+<area shape="rect" id="Node000002" href="$utilities_8h.html" title="Provides low&#45;level hardware drivers, sensor initialization routines, and various utility functions fo..." alt="" coords="304,96,378,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="440,51,376,90,373,85,437,46"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="524,245,585,272"/>
+<area shape="poly" id="edge14_Node000001_Node000008" title=" " alt="" coords="492,47,528,100,545,134,558,170,562,201,561,230,556,229,557,201,553,171,540,136,523,103,487,50"/>
+<area shape="rect" id="Node000003" href="$bmp3_8h.html" title=" " alt="" coords="309,171,373,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="344,123,344,155,338,155,338,123"/>
+<area shape="rect" id="Node000007" href="$lsm6dso32__reg_8h.html" title="This file contains all the functions prototypes for the lsm6dso32_reg.c driver." alt="" coords="397,171,517,197"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="362,121,425,160,422,164,360,125"/>
+<area shape="poly" id="edge12_Node000002_Node000008" title=" " alt="" coords="378,110,414,115,455,125,496,142,531,169,548,198,555,229,550,231,543,200,527,172,493,147,453,130,413,120,378,115"/>
+<area shape="rect" id="Node000009" href="$main_8h.html" title=": Header for main.c file. This file contains the common defines of the application." alt="" coords="5,171,66,197"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="304,121,81,173,80,168,303,116"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="90,171,165,197"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="305,126,180,168,178,163,303,121"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="189,171,284,197"/>
+<area shape="poly" id="edge13_Node000002_Node000011" title=" " alt="" coords="324,125,269,164,266,159,321,121"/>
+<area shape="rect" id="Node000004" href="$bmp3__defs_8h.html" title="Sensor driver for BMP3 sensor." alt="" coords="293,245,389,272"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="344,198,344,230,338,230,338,198"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="433,320,497,347"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="364,270,432,310,429,314,361,275"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="329,320,398,347"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="347,272,358,304,352,306,342,273"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="460,198,466,304,461,305,455,198"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="451,199,382,308,377,305,447,196"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="475,196,527,234,524,238,472,200"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="lis2mdl_boot_get" name="lis2mdl_boot_get">
+<area shape="rect" id="Node000001" title="Reboot memory content. Reload the calibration parameters.[get]." alt="" coords="154,31,273,57"/>
+<area shape="rect" id="Node000002" href="$group___l_i_s2_m_d_l___platform___functions.html#gaa8ce944f7edb970a79e3c04f3eac796e" title="Initialize the LIS2MDL sensor." alt="" coords="12,5,99,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,35,99,28,100,23,139,29"/>
+<area shape="rect" id="Node000003" href="$group___l_i_s2_m_d_l___platform___functions.html#ga351a80058481cb2efedfcfadfa9f6e88" title=" " alt="" coords="5,56,106,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="139,59,106,64,106,59,138,53"/>
+</map>

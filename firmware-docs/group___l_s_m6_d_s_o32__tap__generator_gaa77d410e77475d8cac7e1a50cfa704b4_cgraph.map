@@ -1,0 +1,7 @@
+<map id="lsm6dso32_tap_dur_set" name="lsm6dso32_tap_dur_set">
+<area shape="rect" id="Node000001" title="When double tap recognition is enabled, this register expresses the maximum time between two consecut..." alt="" coords="5,31,165,57"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="214,5,356,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,31,198,27,199,32,165,37"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="213,56,357,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,51,198,56,197,61,164,57"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="lis2mdl_offset_int_conf_set" name="lis2mdl_offset_int_conf_set">
+<area shape="rect" id="Node000001" title="The interrupt block recognition checks data after/before the hard&#45;iron correction to discover the int..." alt="" coords="5,23,128,65"/>
+<area shape="rect" id="Node000002" href="$group___l_i_s2_m_d_l___interfaces___functions.html#gad1f6464d952b757691b47aa79d82654e" title="Read generic device register." alt="" coords="177,5,296,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,32,162,27,163,32,128,38"/>
+<area shape="rect" id="Node000003" href="$group___l_i_s2_m_d_l___interfaces___functions.html#gab7d0cf44f3a6060e61e22800570e7c35" title="Write generic device register." alt="" coords="176,56,298,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="128,50,161,55,160,61,127,56"/>
+</map>

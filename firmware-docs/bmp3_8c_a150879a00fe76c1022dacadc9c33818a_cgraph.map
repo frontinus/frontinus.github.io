@@ -1,0 +1,12 @@
+<map id="validate_osr_and_odr_settings" name="validate_osr_and_odr_settings">
+<area shape="rect" id="Node000001" title="This internal API validate the over sampling, ODR settings of the sensor." alt="" coords="5,48,150,91"/>
+<area shape="rect" id="Node000002" href="$bmp3_8c.html#ae863eb025f3f05bea233fcc92c75a28d" title="This internal API calculates the pressure measurement duration of the sensor." alt="" coords="198,5,381,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,49,215,34,217,39,151,55"/>
+<area shape="rect" id="Node000004" href="$bmp3_8c.html#ad7d2decc3baee2641dbc98728dfdad88" title="This internal API calculates the temperature measurement duration of the sensor." alt="" coords="199,56,380,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="150,67,183,67,183,72,150,72"/>
+<area shape="rect" id="Node000005" href="$bmp3_8c.html#a85a2bc8d090721c752c43de36850859c" title="This internal API checks whether the measurement time and ODR duration of the sensor are proper." alt="" coords="213,107,366,149"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="151,87,199,100,197,105,150,92"/>
+<area shape="rect" id="Node000003" href="$bmp3_8c.html#aad90cd219d0ff052e613f123f25a79e3" title="This internal API is used to calculate the power functionality." alt="" coords="429,31,513,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="382,29,414,33,413,39,381,34"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="379,54,413,49,414,55,380,59"/>
+</map>

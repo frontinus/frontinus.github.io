@@ -1,0 +1,5 @@
+<map id="lsm6dso32_fifo_data_level_get" name="lsm6dso32_fifo_data_level_get">
+<area shape="rect" id="Node000001" title="Number of unread sensor data(TAG + 6 bytes) stored in FIFO.[get]." alt="" coords="5,5,147,48"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="195,13,336,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,24,179,24,179,29,147,29"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="lis2mdl_spi_mode_set" name="lis2mdl_spi_mode_set">
+<area shape="rect" id="Node000001" title="SPI Serial Interface Mode selection.[set]." alt="" coords="5,31,156,57"/>
+<area shape="rect" id="Node000002" href="$group___l_i_s2_m_d_l___interfaces___functions.html#gad1f6464d952b757691b47aa79d82654e" title="Read generic device register." alt="" coords="205,5,324,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,31,190,26,190,32,157,36"/>
+<area shape="rect" id="Node000003" href="$group___l_i_s2_m_d_l___interfaces___functions.html#gab7d0cf44f3a6060e61e22800570e7c35" title="Write generic device register." alt="" coords="204,56,326,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,52,189,56,188,61,156,57"/>
+</map>

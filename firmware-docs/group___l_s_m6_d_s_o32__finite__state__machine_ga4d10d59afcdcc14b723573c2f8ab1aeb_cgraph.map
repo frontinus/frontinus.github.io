@@ -1,0 +1,13 @@
+<map id="lsm6dso32_fsm_number_of_programs_get" name="lsm6dso32_fsm_number_of_programs_get">
+<area shape="rect" id="Node000001" title="FSM number of programs register.[get]." alt="" coords="5,23,169,65"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32__common.html#ga1e472ef1bfee2b46a3f02adb4081cd8e" title="Read a line(byte) in a page.[get]." alt="" coords="217,31,403,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,41,201,41,201,47,169,47"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32__common.html#ga42e20a310b0f7a40c07b4dce8d758f1a" title="Enable access to the embedded functions/sensor hub configuration registers.[set]." alt="" coords="451,31,631,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="404,41,435,41,435,47,404,47"/>
+<area shape="rect" id="Node000004" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="681,5,822,32"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="374,27,451,16,563,11,665,12,665,17,563,16,451,21,375,33"/>
+<area shape="rect" id="Node000005" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="679,68,824,95"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="378,55,451,67,562,75,664,78,664,84,562,80,451,72,377,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="631,30,665,26,666,32,632,36"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="620,55,664,63,663,68,619,61"/>
+</map>

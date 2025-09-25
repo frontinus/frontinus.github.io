@@ -1,0 +1,11 @@
+<map id="mtimes" name="mtimes">
+<area shape="rect" id="Node000001" title="Performs matrix multiplication: C = A * B." alt="" coords="554,5,618,32"/>
+<area shape="rect" id="Node000002" href="$cd_evaluation_8c.html#a69f7fd2df34d5dbea75a4f8e560dd51f" title="Estimates the coefficient of drag (Cd) via 2D bilinear interpolation." alt="" coords="409,5,506,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="538,21,506,21,506,16,538,16"/>
+<area shape="rect" id="Node000003" href="$optimal_angle_8c.html#aae2f8a89388a2bfd4292c2d78da13e3a" title="Calculates the optimal constant airbrake angle to reach a target apogee." alt="" coords="265,5,361,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="394,21,362,21,362,16,394,16"/>
+<area shape="rect" id="Node000004" href="$group___r_t_o_s___tasks.html#ga66e1e49e54f627fbc12b6f818505c70c" title="Function implementing the MPC_Task thread." alt="" coords="103,5,217,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="249,21,217,21,217,16,249,16"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
+</map>

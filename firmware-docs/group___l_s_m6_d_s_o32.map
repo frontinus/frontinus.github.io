@@ -1,0 +1,17 @@
+<map id="&quot;LSM6DSO32 IMU Driver&quot;" name="&quot;LSM6DSO32 IMU Driver&quot;">
+<area shape="rect" id="Node000001" title="This file provides a set of functions needed to drive the lsm6dso32 enhanced inertial module." alt="" coords="179,341,355,368"/>
+<area shape="rect" id="Node000010" href="$group___l_s_m6_d_s_o32__.html" title="This section groups all the functions concerning activity/inactivity detection." alt="" coords="448,5,570,48"/>
+<area shape="rect" id="Node000012" href="$group___l_s_m6_d_s_o32___d_e_n__functionality.html" title="This section groups all the functions concerning DEN functionality." alt="" coords="403,72,614,99"/>
+<area shape="rect" id="Node000005" href="$group___l_s_m6_d_s_o32___data___generation.html" title="This section groups all the functions concerning data generation." alt="" coords="407,123,610,149"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32___interfaces___functions.html" title="This section provide a set of functions used to read and write a generic register of the device...." alt="" coords="427,173,590,216"/>
+<area shape="rect" id="Node000013" href="$group___l_s_m6_d_s_o32___pedometer.html" title="This section groups all the functions that manage pedometer." alt="" coords="424,240,593,267"/>
+<area shape="rect" id="Node000004" href="$group___l_s_m6_d_s_o32___sensitivity.html" title="These functions convert raw&#45;data into engineering units." alt="" coords="426,291,592,317"/>
+<area shape="rect" id="Node000015" href="$group___l_s_m6_d_s_o32___sensor__hub.html" title="This section groups all the functions that manage the sensor hub." alt="" coords="422,341,596,368"/>
+<area shape="rect" id="Node000009" href="$group___l_s_m6_d_s_o32___wake___up__event.html" title="This section groups all the functions that manage the Wake Up event generation." alt="" coords="408,392,609,419"/>
+<area shape="rect" id="Node000006" href="$group___l_s_m6_d_s_o32__common.html" title="This section groups common useful functions." alt="" coords="431,443,586,469"/>
+<area shape="rect" id="Node000007" href="$group___l_s_m6_d_s_o32__filters.html" title="This section group all the functions concerning the filters configuration." alt="" coords="440,493,577,520"/>
+<area shape="rect" id="Node000008" href="$group___l_s_m6_d_s_o32__interrupt__pins.html" title="This section groups all the functions that manage interrupt pins." alt="" coords="417,544,600,571"/>
+<area shape="rect" id="Node000014" href="$group___l_s_m6_d_s_o32__significant__motion.html" title="This section groups all the functions that manage the significant motion detection." alt="" coords="426,595,591,637"/>
+<area shape="rect" id="Node000011" href="$group___l_s_m6_d_s_o32__tap__generator.html" title="This section groups all the functions that manage the tap and double tap event generation." alt="" coords="416,661,601,688"/>
+<area shape="rect" id="Node000002" href="$group___peripherals.html" title="Low&#45;level drivers and initialization for on&#45;board hardware components." alt="" coords="5,341,131,368"/>
+</map>

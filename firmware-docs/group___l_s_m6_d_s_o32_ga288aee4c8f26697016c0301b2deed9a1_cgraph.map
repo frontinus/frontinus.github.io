@@ -1,0 +1,7 @@
+<map id="lsm6dso32_xl_full_scale_set" name="lsm6dso32_xl_full_scale_set">
+<area shape="rect" id="Node000001" title="Accelerometer full&#45;scale selection.[set]." alt="" coords="5,31,194,57"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="243,5,384,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,30,228,26,228,31,195,35"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="242,56,386,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,53,226,56,226,62,194,58"/>
+</map>

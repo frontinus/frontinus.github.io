@@ -1,0 +1,5 @@
+<map id="lis2mdl_low_pass_bandwidth_get" name="lis2mdl_low_pass_bandwidth_get">
+<area shape="rect" id="Node000001" title="Low&#45;pass bandwidth selection.[get]." alt="" coords="5,5,221,32"/>
+<area shape="rect" id="Node000002" href="$group___l_i_s2_m_d_l___interfaces___functions.html#gad1f6464d952b757691b47aa79d82654e" title="Read generic device register." alt="" coords="269,5,388,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,16,253,16,253,21,221,21"/>
+</map>

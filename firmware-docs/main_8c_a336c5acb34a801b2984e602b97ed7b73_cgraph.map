@@ -1,0 +1,5 @@
+<map id="PeriphCommonClock_Config" name="PeriphCommonClock_Config">
+<area shape="rect" id="Node000001" title="Peripherals Common Clock Configuration." alt="" coords="5,5,196,32"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#a1730ffe1e560465665eb47d9264826f9" title="This function is executed in case of error occurrence." alt="" coords="244,5,345,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,16,228,16,228,21,196,21"/>
+</map>

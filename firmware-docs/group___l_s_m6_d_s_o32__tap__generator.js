@@ -1,0 +1,25 @@
+var group___l_s_m6_d_s_o32__tap__generator =
+[
+    [ "lsm6dso32_tap_axis_priority_get", "group___l_s_m6_d_s_o32__tap__generator.html#gab5ec5f8b9db039761058a7e09989c1bf", null ],
+    [ "lsm6dso32_tap_axis_priority_set", "group___l_s_m6_d_s_o32__tap__generator.html#gaea389e772a45cf5f99225d5876bea20e", null ],
+    [ "lsm6dso32_tap_detection_on_x_get", "group___l_s_m6_d_s_o32__tap__generator.html#gabd3c7cb237c50d38282ef2a809e725d2", null ],
+    [ "lsm6dso32_tap_detection_on_x_set", "group___l_s_m6_d_s_o32__tap__generator.html#ga7fc717b109910085913e9cd99d75cf84", null ],
+    [ "lsm6dso32_tap_detection_on_y_get", "group___l_s_m6_d_s_o32__tap__generator.html#ga93be914173329e2320e10227e5fd4958", null ],
+    [ "lsm6dso32_tap_detection_on_y_set", "group___l_s_m6_d_s_o32__tap__generator.html#ga8901dead2e5d9579ca10d8ec385deac0", null ],
+    [ "lsm6dso32_tap_detection_on_z_get", "group___l_s_m6_d_s_o32__tap__generator.html#gab441634be79a73e11fb1691616015134", null ],
+    [ "lsm6dso32_tap_detection_on_z_set", "group___l_s_m6_d_s_o32__tap__generator.html#ga00978993c9ee95739afd7b9de0a32986", null ],
+    [ "lsm6dso32_tap_dur_get", "group___l_s_m6_d_s_o32__tap__generator.html#gafaf2c766c6496a35e4b81f2d6d5d74af", null ],
+    [ "lsm6dso32_tap_dur_set", "group___l_s_m6_d_s_o32__tap__generator.html#gaa77d410e77475d8cac7e1a50cfa704b4", null ],
+    [ "lsm6dso32_tap_mode_get", "group___l_s_m6_d_s_o32__tap__generator.html#gaa13c0e98717428b26cef17cb5f5180d8", null ],
+    [ "lsm6dso32_tap_mode_set", "group___l_s_m6_d_s_o32__tap__generator.html#gabd58bc59645c126f567a4ef11264128f", null ],
+    [ "lsm6dso32_tap_quiet_get", "group___l_s_m6_d_s_o32__tap__generator.html#ga66cd95b482e37adf5447dcd60519bb55", null ],
+    [ "lsm6dso32_tap_quiet_set", "group___l_s_m6_d_s_o32__tap__generator.html#gac08e560ad5032a6b6bd44af135303309", null ],
+    [ "lsm6dso32_tap_shock_get", "group___l_s_m6_d_s_o32__tap__generator.html#gae64ea35087e9ec5be68b1e6a244eb2f1", null ],
+    [ "lsm6dso32_tap_shock_set", "group___l_s_m6_d_s_o32__tap__generator.html#ga05845415458478c0901ec720b46d4866", null ],
+    [ "lsm6dso32_tap_threshold_x_get", "group___l_s_m6_d_s_o32__tap__generator.html#gad66377a16878c0ea5b294c4474e2c24e", null ],
+    [ "lsm6dso32_tap_threshold_x_set", "group___l_s_m6_d_s_o32__tap__generator.html#ga652b21d9c42c15d2ce77ec15e0641d90", null ],
+    [ "lsm6dso32_tap_threshold_y_get", "group___l_s_m6_d_s_o32__tap__generator.html#ga903bcae74d4b5e1ede4b5ec60690a19d", null ],
+    [ "lsm6dso32_tap_threshold_y_set", "group___l_s_m6_d_s_o32__tap__generator.html#gae98d8c2b53605a837c3f620878db8e90", null ],
+    [ "lsm6dso32_tap_threshold_z_get", "group___l_s_m6_d_s_o32__tap__generator.html#gafbb1aee12a4a699404fc17756e3c296e", null ],
+    [ "lsm6dso32_tap_threshold_z_set", "group___l_s_m6_d_s_o32__tap__generator.html#ga8e4727775b94bacbce54be702f6e4786", null ]
+];

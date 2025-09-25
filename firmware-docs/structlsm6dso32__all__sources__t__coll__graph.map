@@ -1,0 +1,19 @@
+<map id="lsm6dso32_all_sources_t" name="lsm6dso32_all_sources_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="339,183,507,209"/>
+<area shape="rect" id="Node000002" href="$structlsm6dso32__all__int__src__t.html" title=" " alt="" coords="15,5,177,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,21,255,34,287,45,316,60,351,88,380,122,417,181,412,183,376,125,347,92,313,65,285,50,254,39,192,26"/>
+<area shape="rect" id="Node000003" href="$structlsm6dso32__wake__up__src__t.html" title=" " alt="" coords="6,56,186,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,80,259,93,316,114,369,146,409,180,406,184,366,151,314,118,258,98,201,85"/>
+<area shape="rect" id="Node000004" href="$structlsm6dso32__tap__src__t.html" title=" " alt="" coords="23,107,169,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,130,315,156,387,180,386,185,314,161,183,135"/>
+<area shape="rect" id="Node000005" href="$structlsm6dso32__d6d__src__t.html" title=" " alt="" coords="22,157,170,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="186,175,339,187,338,192,185,180"/>
+<area shape="rect" id="Node000006" href="$structlsm6dso32__status__reg__t.html" title=" " alt="" coords="14,208,178,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="193,214,314,205,338,203,338,208,315,211,193,219"/>
+<area shape="rect" id="Node000007" href="$structlsm6dso32__emb__func__status__t.html" title=" " alt="" coords="22,259,170,301"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="185,263,314,233,387,207,389,213,315,239,186,268"/>
+<area shape="rect" id="Node000008" href="$structlsm6dso32__fsm__status__a__t.html" title=" " alt="" coords="5,325,187,352"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="197,319,256,302,313,279,367,243,407,208,410,212,370,248,316,284,258,307,198,324"/>
+<area shape="rect" id="Node000009" href="$structlsm6dso32__fsm__status__b__t.html" title=" " alt="" coords="5,376,187,403"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="201,378,259,363,313,338,348,308,377,272,413,208,418,211,382,275,352,311,316,342,261,369,202,383"/>
+</map>

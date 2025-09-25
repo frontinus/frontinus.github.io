@@ -1,0 +1,33 @@
+<map id="QFlash_WaitForWritingComplete" name="QFlash_WaitForWritingComplete">
+<area shape="rect" id="Node000001" title=" " alt="" coords="859,208,1070,235"/>
+<area shape="rect" id="Node000002" href="$group___winbond___memory.html#ga0bf6113fa93f4bcc8d7cfa26e1b6b6b2" title=" " alt="" coords="673,5,808,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="945,197,890,123,852,82,810,46,789,35,791,30,812,42,856,78,894,119,949,194"/>
+<area shape="rect" id="Node000003" href="$group___winbond___memory.html#ga2cc3d9350b89db367f9504de09671a4a" title=" " alt="" coords="673,56,808,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="935,199,879,153,810,104,775,86,777,81,812,99,882,148,939,195"/>
+<area shape="rect" id="Node000004" href="$group___winbond___memory.html#ga6f9111a3321048a1100c29b8a80fef99" title=" " alt="" coords="274,132,405,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="929,202,875,172,843,158,810,148,756,138,701,131,590,127,488,131,406,139,406,133,488,126,590,121,701,126,757,132,812,143,845,153,877,167,932,197"/>
+<area shape="rect" id="Node000006" href="$group___winbond___control.html#ga41d869354fbc9486c89923f85b95a392" title=" " alt="" coords="670,157,811,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="887,207,802,187,803,182,888,201"/>
+<area shape="rect" id="Node000007" href="$group___winbond___control.html#ga9b458e5265fc67db6e3b47ac4e27c313" title=" " alt="" coords="678,208,802,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="843,224,803,224,803,219,843,219"/>
+<area shape="rect" id="Node000008" href="$group___winbond___memory.html#ga2828255284392384c8167f4aa808dc85" title=" " alt="" coords="677,259,804,285"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="888,241,803,261,802,255,887,236"/>
+<area shape="rect" id="Node000009" href="$group___winbond___memory.html#gad6301bd88db8e497c5382bda891bac6f" title=" " alt="" coords="690,309,790,336"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="926,245,812,300,783,311,781,306,810,295,923,240"/>
+<area shape="rect" id="Node000014" href="$group___winbond___status.html#ga2e5a8885f4b02e9e8d24aa84423bd663" title="writes to register 2" alt="" coords="677,360,804,387"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="941,248,885,299,850,326,812,350,788,362,786,357,810,346,847,322,882,294,938,244"/>
+<area shape="rect" id="Node000015" href="$group___winbond___status.html#gae87e93ab23f52bc997d75eefcdaa2495" title="writes to register 3" alt="" coords="677,411,804,437"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="949,249,894,323,856,365,812,401,791,412,789,408,810,396,852,361,890,320,945,246"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,259,55,285"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="292,167,56,265,54,260,290,163"/>
+<area shape="rect" id="Node000010" href="$flight__control_8c.html#a2d929a4793ee883e3e7bdabe0deea72e" title="Handler for the CALIBRATING state." alt="" coords="454,259,622,285"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="674,309,594,289,595,283,676,304"/>
+<area shape="rect" id="Node000013" href="$group___r_t_o_s___tasks.html#ga1cebdfd5afb7fa2446390956a43828f4" title="Function implementing the Kalman_mkf thread." alt="" coords="103,309,225,336"/>
+<area shape="poly" id="edge13_Node000009_Node000013" title=" " alt="" coords="674,325,225,325,225,320,674,320"/>
+<area shape="rect" id="Node000011" href="$flight__control_8c.html#a47306eb52262845f0284a01226c787ca" title="Main FSM router function that delegates to the current state&#39;s handler." alt="" coords="273,259,406,285"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="439,275,407,275,407,269,439,269"/>
+<area shape="rect" id="Node000012" href="$group___r_t_o_s___tasks.html#ga958596a1a00c9ec7bce777e773465f45" title="Function implementing the FSM thread." alt="" coords="125,259,202,285"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="257,275,203,275,203,269,257,269"/>
+<area shape="poly" id="edge12_Node000012_Node000005" title=" " alt="" coords="109,275,55,275,55,269,109,269"/>
+<area shape="poly" id="edge14_Node000013_Node000005" title=" " alt="" coords="111,306,54,284,56,279,113,301"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="bmp3_get_sensor_data" name="bmp3_get_sensor_data">
+<area shape="rect" id="Node000001" title="This API reads the pressure, temperature or both data from the sensor, compensates the data and store..." alt="" coords="5,56,162,83"/>
+<area shape="rect" id="Node000002" href="$bmp3_8c.html#a9e0c2cdecfdac8aa6ed4e35940f7ade7" title="This API reads the data from the given register address of the sensor." alt="" coords="220,5,330,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,53,207,34,208,39,138,58"/>
+<area shape="rect" id="Node000004" href="$bmp3_8c.html#a6a344fb812afdfe92d84ad51ddd84faa" title="This internal API is used to compensate the pressure or temperature or both the data according to the..." alt="" coords="213,56,338,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="162,67,198,67,198,72,162,72"/>
+<area shape="rect" id="Node000007" href="$bmp3_8c.html#a20da06fe77b3d93f19a83f6a0cd59b48" title="This internal API is used to parse the pressure and temperature data and store it in the bmp3_uncomp_..." alt="" coords="210,107,341,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="138,81,208,100,207,105,136,86"/>
+<area shape="rect" id="Node000003" href="$bmp3_8c.html#a9db82f2117ddfa4eccef8a018e738aab" title="This internal API is used to validate the device pointer for null conditions." alt="" coords="420,5,526,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="331,16,405,16,405,21,331,21"/>
+<area shape="rect" id="Node000005" href="$bmp3_8c.html#a5bc99f8ae95747be9edb8c36404e662f" title="This internal API is used to compensate the pressure data and return the compensated pressure data in..." alt="" coords="398,56,548,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="338,67,383,67,383,72,338,72"/>
+<area shape="rect" id="Node000006" href="$bmp3_8c.html#a94a9c7724c9fa2b33cd588814062cfaf" title="This internal API is used to compensate the raw temperature data and return the compensated temperatu..." alt="" coords="389,107,557,133"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="331,81,404,100,403,105,330,86"/>
+</map>

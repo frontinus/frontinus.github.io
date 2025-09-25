@@ -1,0 +1,10 @@
+<map id="lsm6dso32_from_fs16_to_mg" name="lsm6dso32_from_fs16_to_mg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="276,23,425,65"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32.html#ga0d107bbfb14e427f6b11a1adc45a51a2" title="Calibrates the IMU by calculating sensor offsets." alt="" coords="118,5,213,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,34,213,28,214,23,261,29"/>
+<area shape="rect" id="Node000004" href="$group___r_t_o_s___tasks.html#ga3271a69550bc5f9966c76521e5823891" title="Function implementing the Sensor_Task thread." alt="" coords="103,56,228,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="261,59,229,63,228,58,260,54"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,31,55,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,33,56,42,55,37,102,28"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="87,57,55,51,56,46,88,52"/>
+</map>

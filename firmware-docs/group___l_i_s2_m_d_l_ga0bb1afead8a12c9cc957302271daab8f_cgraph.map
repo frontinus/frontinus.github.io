@@ -1,0 +1,5 @@
+<map id="lis2mdl_int_gen_threshold_set" name="lis2mdl_int_gen_threshold_set">
+<area shape="rect" id="Node000001" title="User&#45;defined threshold value for xl interrupt event on generator. Data format is the same of output d..." alt="" coords="5,5,202,32"/>
+<area shape="rect" id="Node000002" href="$group___l_i_s2_m_d_l___interfaces___functions.html#gab7d0cf44f3a6060e61e22800570e7c35" title="Write generic device register." alt="" coords="250,5,372,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,16,234,16,234,21,202,21"/>
+</map>

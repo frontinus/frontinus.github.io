@@ -1,0 +1,5 @@
+<map id="lis2mdl_data_rate_get" name="lis2mdl_data_rate_get">
+<area shape="rect" id="Node000001" title="Output data rate selection.[get]." alt="" coords="5,5,154,32"/>
+<area shape="rect" id="Node000002" href="$group___l_i_s2_m_d_l___interfaces___functions.html#gad1f6464d952b757691b47aa79d82654e" title="Read generic device register." alt="" coords="202,5,321,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,16,186,16,186,21,154,21"/>
+</map>

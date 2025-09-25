@@ -1,0 +1,9 @@
+<map id="Peripheral Drivers" name="Peripheral Drivers">
+<area shape="rect" id="Node000005" href="$group___buzzer.html" title="Low&#45;level driver for the PWM buzzer." alt="" coords="216,5,318,32"/>
+<area shape="rect" id="Node000002" href="$group___l_i_s2_m_d_l.html" title="This file provides a set of functions needed to drive the lis2mdl enhanced inertial module." alt="" coords="183,56,351,99"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32.html" title="This file provides a set of functions needed to drive the lsm6dso32 enhanced inertial module." alt="" coords="179,123,355,149"/>
+<area shape="rect" id="Node000006" href="$group___l_s_m6_d_s_o32___driver.html" title="This is the complete STMicroelectronics driver for the LSM6DSO32 IMU. It provides low&#45;level register ..." alt="" coords="180,173,354,216"/>
+<area shape="rect" id="Node000001" title="Low&#45;level drivers and initialization for on&#45;board hardware components." alt="" coords="5,152,131,179"/>
+<area shape="rect" id="Node000007" href="$group___winbond___driver.html" title="Functions and definitions for controlling the external flash memory." alt="" coords="191,240,342,283"/>
+<area shape="rect" id="Node000004" href="$group__bmp3.html" title=" " alt="" coords="233,307,300,333"/>
+</map>

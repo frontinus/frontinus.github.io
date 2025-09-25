@@ -1,0 +1,7 @@
+<map id="check_Liftoff_phase" name="check_Liftoff_phase">
+<area shape="rect" id="Node000001" title="Handler for the LIFTOFF state." alt="" coords="5,5,143,32"/>
+<area shape="rect" id="Node000002" href="$flight__control_8c.html#ac501a7c6c60c2b8c9cd9d0e7d328c80c" title="Handles the mechanics of a state transition." alt="" coords="191,5,308,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,16,175,16,175,21,143,21"/>
+<area shape="rect" id="Node000003" href="$flight__control_8c.html#a2453e798beaa2b27f6468db201f7861a" title=" " alt="" coords="356,5,488,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="308,16,340,16,340,21,308,21"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="lsm6dso32_den_polarity_get" name="lsm6dso32_den_polarity_get">
+<area shape="rect" id="Node000001" title="DEN active level configuration.[get]." alt="" coords="5,5,192,32"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="240,5,381,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,16,224,16,224,21,192,21"/>
+</map>

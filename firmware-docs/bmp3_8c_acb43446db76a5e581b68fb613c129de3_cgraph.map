@@ -1,0 +1,31 @@
+<map id="set_odr_filter_settings" name="set_odr_filter_settings">
+<area shape="rect" id="Node000001" title="This internal API sets the over sampling, ODR and filter settings of the sensor based on the settings..." alt="" coords="5,157,155,184"/>
+<area shape="rect" id="Node000002" href="$bmp3_8c.html#aa56ad91f72c293cfac24a7ec7c944e87" title="This internal API is used to identify the settings which the user wants to modify in the sensor." alt="" coords="203,5,351,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,155,133,101,165,69,201,42,210,37,213,41,204,46,169,73,137,104,93,158"/>
+<area shape="rect" id="Node000003" href="$bmp3_8c.html#a9e0c2cdecfdac8aa6ed4e35940f7ade7" title="This API reads the data from the given register address of the sensor." alt="" coords="222,56,332,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="99,155,145,124,201,92,215,86,217,91,204,97,147,129,102,159"/>
+<area shape="rect" id="Node000005" href="$bmp3_8c.html#ad02d16a9569a75f9df070348eb7cb1fe" title="This API writes the given data to the register address of the sensor." alt="" coords="222,107,332,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="134,154,207,135,208,140,136,159"/>
+<area shape="rect" id="Node000007" href="$bmp3_8c.html#a4a81cd7c079dab09de2ce6cf7bc84ea4" title="This internal API fills the register address and register data of the the filter settings for burst w..." alt="" coords="228,157,326,184"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="155,168,213,168,213,173,155,173"/>
+<area shape="rect" id="Node000008" href="$bmp3_8c.html#ace3c1c1a6176d94e747c1a958d09e6f9" title="This internal API fills the register address and register data of the the ODR settings for burst writ..." alt="" coords="231,208,322,235"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="136,182,217,203,215,208,134,187"/>
+<area shape="rect" id="Node000009" href="$bmp3_8c.html#a3de8c70c56e9a69d09c48d25730f64e3" title="This internal API fills the register address and register data of the the over sampling settings for ..." alt="" coords="231,259,322,285"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="102,182,147,213,204,244,217,250,215,255,201,249,145,217,99,187"/>
+<area shape="rect" id="Node000010" href="$bmp3_8c.html#a150879a00fe76c1022dacadc9c33818a" title="This internal API validate the over sampling, ODR settings of the sensor." alt="" coords="205,309,349,352"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="94,183,139,236,170,267,204,295,210,299,207,303,201,299,166,271,135,240,90,186"/>
+<area shape="rect" id="Node000004" href="$bmp3_8c.html#a9db82f2117ddfa4eccef8a018e738aab" title="This internal API is used to validate the device pointer for null conditions." alt="" coords="438,56,543,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="333,67,423,67,423,72,333,72"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="332,104,422,83,424,88,333,110"/>
+<area shape="rect" id="Node000006" href="$bmp3_8c.html#aa5c65995726d3062cf7e5659cbdc3472" title="This internal API interleaves the register address between the register data buffer for burst write o..." alt="" coords="424,107,558,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="333,117,408,117,408,123,333,123"/>
+<area shape="rect" id="Node000011" href="$bmp3_8c.html#ae863eb025f3f05bea233fcc92c75a28d" title="This internal API calculates the pressure measurement duration of the sensor." alt="" coords="399,267,582,293"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="349,311,416,295,417,300,350,316"/>
+<area shape="rect" id="Node000013" href="$bmp3_8c.html#ad7d2decc3baee2641dbc98728dfdad88" title="This internal API calculates the temperature measurement duration of the sensor." alt="" coords="400,317,581,344"/>
+<area shape="poly" id="edge13_Node000010_Node000013" title=" " alt="" coords="350,328,385,328,385,333,350,333"/>
+<area shape="rect" id="Node000014" href="$bmp3_8c.html#a85a2bc8d090721c752c43de36850859c" title="This internal API checks whether the measurement time and ODR duration of the sensor are proper." alt="" coords="414,368,567,411"/>
+<area shape="poly" id="edge15_Node000010_Node000014" title=" " alt="" coords="350,348,400,362,399,367,349,353"/>
+<area shape="rect" id="Node000012" href="$bmp3_8c.html#aad90cd219d0ff052e613f123f25a79e3" title="This internal API is used to calculate the power functionality." alt="" coords="630,292,715,319"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="583,290,615,295,614,300,582,295"/>
+<area shape="poly" id="edge14_Node000013_Node000012" title=" " alt="" coords="581,315,614,311,615,316,581,321"/>
+</map>

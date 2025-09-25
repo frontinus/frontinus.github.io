@@ -1,0 +1,7 @@
+<map id="lis2mdl_power_mode_set" name="lis2mdl_power_mode_set">
+<area shape="rect" id="Node000001" title="Enables high&#45;resolution/low&#45;power mode.[set]." alt="" coords="5,31,174,57"/>
+<area shape="rect" id="Node000002" href="$group___l_i_s2_m_d_l___interfaces___functions.html#gad1f6464d952b757691b47aa79d82654e" title="Read generic device register." alt="" coords="223,5,342,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,30,208,26,208,31,174,36"/>
+<area shape="rect" id="Node000003" href="$group___l_i_s2_m_d_l___interfaces___functions.html#gab7d0cf44f3a6060e61e22800570e7c35" title="Write generic device register." alt="" coords="222,56,344,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,52,206,57,206,62,174,58"/>
+</map>

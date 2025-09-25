@@ -1,0 +1,7 @@
+<map id="bmp3_B_spi_init" name="bmp3_B_spi_init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="258,5,375,32"/>
+<area shape="rect" id="Node000002" href="$group__bmp3.html#ga5930eb3a2ebc74ef4996cb5cc0e835fc" title="Initializes the backup barometer (BMP390)." alt="" coords="103,5,210,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,21,210,21,210,16,242,16"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
+</map>

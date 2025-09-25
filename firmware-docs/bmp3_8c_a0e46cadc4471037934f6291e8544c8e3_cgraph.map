@@ -1,0 +1,12 @@
+<map id="write_power_mode" name="write_power_mode">
+<area shape="rect" id="Node000001" title="This internal API writes the power mode in the sensor." alt="" coords="5,31,136,57"/>
+<area shape="rect" id="Node000002" href="$bmp3_8c.html#a9e0c2cdecfdac8aa6ed4e35940f7ade7" title="This API reads the data from the given register address of the sensor." alt="" coords="184,5,294,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,32,168,27,169,32,136,37"/>
+<area shape="rect" id="Node000004" href="$bmp3_8c.html#ad02d16a9569a75f9df070348eb7cb1fe" title="This API writes the given data to the register address of the sensor." alt="" coords="184,56,294,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="136,51,169,56,168,61,135,56"/>
+<area shape="rect" id="Node000003" href="$bmp3_8c.html#a9db82f2117ddfa4eccef8a018e738aab" title="This internal API is used to validate the device pointer for null conditions." alt="" coords="356,5,462,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="295,16,341,16,341,21,295,21"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="286,53,347,34,348,39,287,58"/>
+<area shape="rect" id="Node000005" href="$bmp3_8c.html#aa5c65995726d3062cf7e5659cbdc3472" title="This internal API interleaves the register address between the register data buffer for burst write o..." alt="" coords="342,56,476,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="295,67,326,67,326,72,295,72"/>
+</map>

@@ -1,0 +1,53 @@
+<map id="lis2mdl_write_reg" name="lis2mdl_write_reg">
+<area shape="rect" id="Node000001" title="Write generic device register." alt="" coords="417,553,539,580"/>
+<area shape="rect" id="Node000002" href="$group___l_i_s2_m_d_l__data__generation.html#ga77f342c18aa05ce83e0c77aa42adece1" title="Blockdataupdate.[set]." alt="" coords="195,5,328,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="472,538,460,435,439,294,425,223,408,158,389,105,367,68,349,53,327,42,329,37,352,49,371,65,393,103,413,157,430,222,444,293,465,434,477,538"/>
+<area shape="rect" id="Node000003" href="$group___l_i_s2_m_d_l__common.html#gafe5ce2eaa1b4034119af82c1b313a239" title="Reboot memory content. Reload the calibration parameters.[set]." alt="" coords="202,123,321,149"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="470,538,457,452,435,339,404,232,386,191,367,163,346,149,320,141,322,136,348,144,371,159,391,188,409,230,440,338,462,451,476,537"/>
+<area shape="rect" id="Node000004" href="$group___l_i_s2_m_d_l___platform___functions.html#gaa8ce944f7edb970a79e3c04f3eac796e" title="Initialize the LIS2MDL sensor." alt="" coords="12,148,99,175"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="472,538,462,440,442,311,428,246,411,188,391,142,367,113,333,93,294,85,253,86,212,93,173,106,136,121,80,150,78,145,134,116,171,101,211,88,253,80,295,80,334,88,371,109,395,139,416,186,433,245,447,310,467,440,477,538"/>
+<area shape="rect" id="Node000005" href="$group___l_i_s2_m_d_l___platform___functions.html#ga351a80058481cb2efedfcfadfa9f6e88" title=" " alt="" coords="5,199,106,225"/>
+<area shape="poly" id="edge10_Node000001_Node000005" title=" " alt="" coords="471,539,461,490,442,429,411,367,391,339,367,315,341,297,316,286,292,281,268,280,215,279,186,275,153,265,113,247,78,228,81,224,115,242,155,260,187,269,216,273,268,274,292,276,317,281,343,292,371,311,395,336,416,365,447,427,466,488,476,537"/>
+<area shape="rect" id="Node000006" href="$group___l_i_s2_m_d_l__common.html#ga3e775e3e24aa16bef369d63734296bdd" title="Big/Little Endian data selection.[set]." alt="" coords="180,325,343,352"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="467,539,455,500,434,453,405,406,388,384,367,366,342,352,345,348,371,362,391,381,410,402,439,450,460,498,472,538"/>
+<area shape="rect" id="Node000007" href="$group___l_i_s2_m_d_l__data__generation.html#ga6c29f749d6b8f68a4108927366437faf" title="Output data rate selection.[set]." alt="" coords="187,376,336,403"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="463,541,426,477,399,444,368,417,335,402,337,397,370,412,403,441,430,474,467,538"/>
+<area shape="rect" id="Node000008" href="$group___l_i_s2_m_d_l__interrupts.html#gae121b1d07673e55ea6335d5b2ef9f853" title="Data&#45;ready signal on INT_DRDY pin.[set]." alt="" coords="179,427,344,453"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="455,543,417,504,393,484,368,468,341,456,343,451,370,463,396,480,420,500,458,539"/>
+<area shape="rect" id="Node000009" href="$group___l_i_s2_m_d_l__serial__interface.html#ga66d95777918d84f2e96745d1643e4243" title="Enable/Disable I2C interface.[set]." alt="" coords="177,477,346,504"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="437,548,368,519,329,507,331,502,370,513,439,543"/>
+<area shape="rect" id="Node000010" href="$group___l_i_s2_m_d_l__interrupts.html#ga66ac55fa0c87c37d5b071826dd8d6e4b" title="Interrupt generator configuration register.[set]." alt="" coords="177,528,346,555"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="402,560,346,554,346,549,402,555"/>
+<area shape="rect" id="Node000011" href="$group___l_i_s2_m_d_l__interrupts.html#ga0bb1afead8a12c9cc957302271daab8f" title="User&#45;defined threshold value for xl interrupt event on generator. Data format is the same of output d..." alt="" coords="163,579,360,605"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="402,578,360,583,360,578,401,573"/>
+<area shape="rect" id="Node000012" href="$group___l_i_s2_m_d_l__interrupts.html#ga1952f28d02b77f5a3a2e038c198d2903" title="Interrupt signal on INT_DRDY pin.[set]." alt="" coords="185,629,338,656"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="439,590,370,620,331,631,329,626,368,615,437,585"/>
+<area shape="rect" id="Node000013" href="$group___l_i_s2_m_d_l__data__generation.html#ga1b364346ef0aa6ac62f1f77cdc4f6793" title="Low&#45;pass bandwidth selection.[set]." alt="" coords="154,680,369,707"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="458,594,420,634,396,654,370,670,343,682,341,677,368,666,393,649,417,630,455,590"/>
+<area shape="rect" id="Node000014" href="$group___l_i_s2_m_d_l__data__generation.html#gaed6c09651dcdcc1466e7375a7131017d" title="These registers comprise a 3 group of 16&#45;bit number and represent hard&#45;iron offset in order to compen..." alt="" coords="166,731,356,757"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="467,595,430,659,403,693,370,721,348,732,346,728,368,716,399,689,426,656,463,593"/>
+<area shape="rect" id="Node000015" href="$group___l_i_s2_m_d_l__interrupts.html#gad716878c3a446f5963fd7fe86c579890" title="The interrupt block recognition checks data after/before the hard&#45;iron correction to discover the int..." alt="" coords="200,781,322,824"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="472,596,459,635,438,682,409,730,371,771,348,786,324,795,322,790,346,781,367,767,404,727,433,680,454,633,467,594"/>
+<area shape="rect" id="Node000016" href="$group___l_i_s2_m_d_l__data__generation.html#ga665bf872e53ac265f1687bf47ddae879" title="Enables the magnetometer temperature compensation.[set]." alt="" coords="193,848,330,891"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="476,596,466,647,448,712,417,779,396,811,371,838,352,851,332,860,329,855,350,847,367,834,392,807,412,777,443,710,461,646,471,595"/>
+<area shape="rect" id="Node000017" href="$group___l_i_s2_m_d_l__data__generation.html#ga5acbfa5e45cc4567eb716bfab76ec9d4" title="Operating mode selection.[set]." alt="" coords="168,915,354,941"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="479,596,474,659,458,743,445,787,426,830,402,870,371,905,354,916,351,912,367,901,397,867,421,827,440,785,453,741,469,659,474,595"/>
+<area shape="rect" id="Node000018" href="$group___l_i_s2_m_d_l__data__generation.html#ga91f1c66dc3d59ca6ee671ebbbe2f1329" title="Enables high&#45;resolution/low&#45;power mode.[set]." alt="" coords="177,965,346,992"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="481,596,478,668,465,765,451,817,432,867,405,914,371,955,347,971,344,966,367,951,401,911,427,865,446,815,460,764,473,668,475,596"/>
+<area shape="rect" id="Node000019" href="$group___l_i_s2_m_d_l__common.html#gadd247cd28425d2dd12a880235070cae2" title="Software reset. Restore the default values in user registers.[set]." alt="" coords="200,173,323,200"/>
+<area shape="poly" id="edge20_Node000001_Node000019" title=" " alt="" coords="474,538,470,471,456,384,442,337,423,292,399,250,367,214,346,200,322,193,324,188,349,196,371,210,403,247,428,290,447,336,461,382,476,471,480,538"/>
+<area shape="rect" id="Node000020" href="$group___l_i_s2_m_d_l__common.html#ga309a7e04da21d8563c9e63120bec2118" title="Selftest.[set]." alt="" coords="189,1016,334,1043"/>
+<area shape="poly" id="edge23_Node000001_Node000020" title=" " alt="" coords="476,596,464,688,442,811,428,873,411,929,392,975,371,1006,354,1018,335,1026,333,1021,351,1014,367,1002,388,972,406,927,423,871,437,810,459,688,471,595"/>
+<area shape="rect" id="Node000021" href="$group___l_i_s2_m_d_l__data__generation.html#ga1ad068318d4ec1c3a922651c02c5aec5" title="Reset mode.[set]." alt="" coords="175,1067,348,1093"/>
+<area shape="poly" id="edge24_Node000001_Node000021" title=" " alt="" coords="477,596,466,698,446,836,431,906,414,969,394,1021,371,1057,350,1071,347,1067,367,1053,390,1019,409,967,426,905,440,835,461,698,472,595"/>
+<area shape="rect" id="Node000022" href="$group___l_i_s2_m_d_l__data__generation.html#gae3f413d1f6a84676b78a5ad685bfcbc6" title="Enables offset cancellation in single measurement mode. The OFF_CANC bit must be set to 1 when enabli..." alt="" coords="184,1117,339,1160"/>
+<area shape="poly" id="edge25_Node000001_Node000022" title=" " alt="" coords="478,595,468,706,448,859,434,937,416,1008,396,1067,371,1107,357,1119,341,1128,338,1123,354,1115,367,1104,391,1064,411,1006,428,936,442,858,462,706,472,595"/>
+<area shape="rect" id="Node000023" href="$group___l_i_s2_m_d_l__serial__interface.html#ga7a8ad228f06d2b2432313a1db61c485c" title="SPI Serial Interface Mode selection.[set]." alt="" coords="186,224,336,251"/>
+<area shape="poly" id="edge26_Node000001_Node000023" title=" " alt="" coords="472,538,464,482,446,410,433,372,415,335,394,301,367,271,335,252,338,248,371,267,398,298,420,333,438,370,452,408,469,481,477,537"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="187,148,99,159,98,153,186,143"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="187,153,155,164,130,175,107,189,85,200,82,196,104,184,128,171,153,159,186,148"/>
+<area shape="poly" id="edge21_Node000019_Node000004" title=" " alt="" coords="184,180,99,169,99,164,184,175"/>
+<area shape="poly" id="edge22_Node000019_Node000005" title=" " alt="" coords="184,199,106,208,106,203,184,193"/>
+<area shape="poly" id="edge27_Node000023_Node000004" title=" " alt="" coords="175,222,153,214,128,203,104,189,82,178,85,173,107,184,130,198,155,210,177,217"/>
+<area shape="poly" id="edge28_Node000023_Node000005" title=" " alt="" coords="170,229,106,221,106,215,171,224"/>
+</map>

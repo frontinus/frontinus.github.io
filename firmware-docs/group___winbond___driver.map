@@ -1,0 +1,12 @@
+<map id="W25Qxxx QSPI Flash Driver" name="W25Qxxx QSPI Flash Driver">
+<area shape="rect" id="Node000002" href="$group___peripherals.html" title="Low&#45;level drivers and initialization for on&#45;board hardware components." alt="" coords="5,211,131,237"/>
+<area shape="rect" id="Node000001" title="Functions and definitions for controlling the external flash memory." alt="" coords="179,203,330,245"/>
+<area shape="rect" id="Node000010" href="$group___winbond___callbacks.html" title="STM32 HAL QSPI callbacks implemented by this driver." alt="" coords="394,5,539,32"/>
+<area shape="rect" id="Node000003" href="$group___winbond___config.html" title="All user&#45;configurable parameters for the W25Qxxx driver." alt="" coords="401,56,531,83"/>
+<area shape="rect" id="Node000007" href="$group___winbond___control.html" title="Functions for controlling chip state (reset, write enable) and reading status registers." alt="" coords="401,107,531,149"/>
+<area shape="rect" id="Node000006" href="$group___winbond___init.html" title=" " alt="" coords="408,173,524,216"/>
+<area shape="rect" id="Node000004" href="$group___winbond___internal.html" title="Internal parameters derived from the user configuration. Do not modify." alt="" coords="379,240,553,267"/>
+<area shape="rect" id="Node000008" href="$group___winbond___memory.html" title="Core functions for reading, writing, and erasing the flash memory." alt="" coords="378,291,554,317"/>
+<area shape="rect" id="Node000005" href="$group___winbond___status.html" title="Functions for checking the driver&#39;s internal state and managing the QSPI bus." alt="" coords="386,341,546,368"/>
+<area shape="rect" id="Node000009" href="$group___winbond___touch_g_f_x.html" title="Compatibility functions for integration with the TouchGFX graphics library." alt="" coords="392,392,540,435"/>
+</map>

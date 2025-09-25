@@ -1,0 +1,15 @@
+<map id="lsm6dso32_pedo_sens_get" name="lsm6dso32_pedo_sens_get">
+<area shape="rect" id="Node000001" title="Enable pedometer algorithm.[get]." alt="" coords="5,56,185,83"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32__common.html#ga1e472ef1bfee2b46a3f02adb4081cd8e" title="Read a line(byte) in a page.[get]." alt="" coords="233,56,419,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,67,217,67,217,72,185,72"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32__common.html#ga42e20a310b0f7a40c07b4dce8d758f1a" title="Enable access to the embedded functions/sensor hub configuration registers.[set]." alt="" coords="467,107,647,133"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="164,81,233,92,346,104,451,112,451,117,345,109,232,97,163,86"/>
+<area shape="rect" id="Node000004" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="697,5,838,32"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="164,53,232,41,354,28,476,21,681,15,681,21,477,26,355,34,233,47,165,58"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="391,81,479,100,478,105,390,86"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="419,56,681,26,682,31,420,61"/>
+<area shape="rect" id="Node000005" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="695,81,840,108"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="419,72,680,87,680,92,419,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="586,104,723,37,726,41,588,109"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="647,106,680,103,681,108,648,112"/>
+</map>

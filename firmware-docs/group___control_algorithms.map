@@ -1,0 +1,4 @@
+<map id="Control Algorithms" name="Control Algorithms">
+<area shape="rect" id="Node000001" title="Core estimation and control algorithms (Kalman, MEKF, MPC)." alt="" coords="174,5,302,32"/>
+<area shape="rect" id="Node000002" href="$group___flight_logic.html" title="High&#45;level modules related to flight management, estimation, and control." alt="" coords="5,5,126,32"/>
+</map>

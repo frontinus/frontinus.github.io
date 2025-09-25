@@ -1,0 +1,5 @@
+<map id="lsm6dso32_ff_dur_get" name="lsm6dso32_ff_dur_get">
+<area shape="rect" id="Node000001" title="Free&#45;fall duration event.[get] 1LSb = 1 / ODR." alt="" coords="5,5,154,32"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="202,5,343,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,16,186,16,186,21,154,21"/>
+</map>

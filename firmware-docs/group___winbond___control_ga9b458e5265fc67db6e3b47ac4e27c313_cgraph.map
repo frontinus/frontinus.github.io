@@ -1,0 +1,8 @@
+<map id="QFlash_PowerUp" name="QFlash_PowerUp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,130,32"/>
+<area shape="rect" id="Node000002" href="$group___winbond___status.html#gaa0c97f126a0945f1a2cdbaa2258a0d73" title=" " alt="" coords="437,5,577,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,16,421,16,421,21,130,21"/>
+<area shape="rect" id="Node000003" href="$group___winbond___control.html#gaefb0b18c1b05043f2ce91b1be9be11be" title=" " alt="" coords="178,31,389,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="130,23,162,27,162,32,130,29"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="389,29,421,26,422,31,390,35"/>
+</map>

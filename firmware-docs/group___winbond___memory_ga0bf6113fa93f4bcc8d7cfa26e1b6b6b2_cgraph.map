@@ -1,0 +1,11 @@
+<map id="QFlash_BErase32k" name="QFlash_BErase32k">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,25,140,52"/>
+<area shape="rect" id="Node000002" href="$group___winbond___status.html#gaa0c97f126a0945f1a2cdbaa2258a0d73" title=" " alt="" coords="447,25,587,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,22,187,10,293,3,399,10,449,18,448,24,399,16,293,8,188,16,125,27"/>
+<area shape="rect" id="Node000003" href="$group___winbond___control.html#gaefb0b18c1b05043f2ce91b1be9be11be" title=" " alt="" coords="188,25,399,52"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,36,172,36,172,41,140,41"/>
+<area shape="rect" id="Node000004" href="$group___winbond___status.html#gaf93b34eaf38e118fc173c4c0d5abe5f7" title="enables writes" alt="" coords="223,76,364,102"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="135,50,218,69,217,74,133,55"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="399,36,432,36,432,41,399,41"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="355,72,439,53,441,58,356,78"/>
+</map>

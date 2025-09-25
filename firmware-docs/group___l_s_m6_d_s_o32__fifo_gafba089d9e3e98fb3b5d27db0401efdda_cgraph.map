@@ -1,0 +1,10 @@
+<map id="lsm6dso32_sh_batch_slave_0_get" name="lsm6dso32_sh_batch_slave_0_get">
+<area shape="rect" id="Node000001" title="Enable FIFO batching data of first slave.[get]." alt="" coords="5,23,150,65"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32__common.html#ga42e20a310b0f7a40c07b4dce8d758f1a" title="Enable access to the embedded functions/sensor hub configuration registers.[set]." alt="" coords="198,56,378,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,50,182,54,182,59,150,55"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="428,5,569,32"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="150,37,412,21,412,26,150,42"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="346,53,424,34,426,39,347,58"/>
+<area shape="rect" id="Node000004" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="426,56,570,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="378,67,411,67,411,72,378,72"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="&quot;LSM6DSO32 6&#45;Axis IMU Driver&quot;" name="&quot;LSM6DSO32 6&#45;Axis IMU Driver&quot;">
+<area shape="rect" id="Node000008" href="$group___common___types.html" title=" " alt="" coords="406,5,573,48"/>
+<area shape="rect" id="Node000007" href="$group___endianness__definitions.html" title=" " alt="" coords="408,72,571,99"/>
+<area shape="rect" id="Node000012" href="$group___l_s_m6_d_s_o32___data__output.html" title="This section groups all the data output functions." alt="" coords="456,123,523,149"/>
+<area shape="rect" id="Node000001" title="This is the complete STMicroelectronics driver for the LSM6DSO32 IMU. It provides low&#45;level register ..." alt="" coords="179,241,352,284"/>
+<area shape="rect" id="Node000009" href="$group___l_s_m6_d_s_o32___infos.html" title=" " alt="" coords="460,173,520,200"/>
+<area shape="rect" id="Node000010" href="$group___l_s_m6_d_s_o32___register___union.html" title="This union group all the registers having a bit&#45;field description. This union is useful but it&#39;s not ..." alt="" coords="430,224,549,251"/>
+<area shape="rect" id="Node000011" href="$group___l_s_m6_d_s_o32___timestamp.html" title="This section groups all the functions that manage the timestamp generation." alt="" coords="404,275,575,301"/>
+<area shape="rect" id="Node000004" href="$group___l_s_m6_d_s_o32__fifo.html" title="This section group all the functions concerning the fifo usage." alt="" coords="428,325,551,352"/>
+<area shape="rect" id="Node000006" href="$group___l_s_m6_d_s_o32__finite__state__machine.html" title="This section groups all the functions that manage the state_machine." alt="" coords="405,376,574,419"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32__free__fall.html" title="This section group all the functions concerning the free fall detection." alt="" coords="414,443,565,469"/>
+<area shape="rect" id="Node000005" href="$group___l_s_m6_d_s_o32__tilt__detection.html" title="This section groups all the functions that manage the tilt event detection." alt="" coords="400,493,579,520"/>
+<area shape="rect" id="Node000002" href="$group___peripherals.html" title="Low&#45;level drivers and initialization for on&#45;board hardware components." alt="" coords="5,249,131,276"/>
+</map>

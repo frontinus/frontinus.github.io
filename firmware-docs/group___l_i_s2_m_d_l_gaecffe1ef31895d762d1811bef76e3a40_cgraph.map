@@ -1,0 +1,5 @@
+<map id="lis2mdl_operating_mode_get" name="lis2mdl_operating_mode_get">
+<area shape="rect" id="Node000001" title="Operating mode selection.[get]." alt="" coords="5,5,192,32"/>
+<area shape="rect" id="Node000002" href="$group___l_i_s2_m_d_l___interfaces___functions.html#gad1f6464d952b757691b47aa79d82654e" title="Read generic device register." alt="" coords="240,5,359,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,16,224,16,224,21,192,21"/>
+</map>

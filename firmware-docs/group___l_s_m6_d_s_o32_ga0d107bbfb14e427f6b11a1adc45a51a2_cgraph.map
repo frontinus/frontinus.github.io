@@ -1,0 +1,40 @@
+<map id="calibrateIMU" name="calibrateIMU">
+<area shape="rect" id="Node000001" title="Calibrates the IMU by calculating sensor offsets." alt="" coords="5,352,101,379"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___data__output.html#gae8dc13475f3f44471dc2b3ffa5ccb4fd" title="Linear acceleration output register. The value is expressed as a 16&#45;bit word in two’s complement...." alt="" coords="163,5,324,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="52,351,55,298,68,220,80,177,97,134,119,94,147,58,149,56,153,59,151,62,123,97,102,137,85,179,73,221,61,299,57,352"/>
+<area shape="rect" id="Node000004" href="$group___l_s_m6_d_s_o32___data__output.html#ga07e215fa4bc8336ae979b86811b148ba" title="Angular rate sensor. The value is expressed as a 16&#45;bit word in two’s complement.[get]." alt="" coords="163,72,325,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="53,351,60,308,76,248,104,183,123,152,147,125,149,122,153,126,151,129,128,155,109,185,81,250,66,309,58,352"/>
+<area shape="rect" id="Node000005" href="$group___l_s_m6_d_s_o32___sensitivity.html#gaccac5dfa532bb24e56084c864848866f" title=" " alt="" coords="169,573,318,616"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="60,378,69,414,87,463,113,514,130,538,150,559,157,565,154,569,147,563,126,542,109,517,82,465,64,416,55,380"/>
+<area shape="rect" id="Node000006" href="$group___l_s_m6_d_s_o32___sensitivity.html#gae57bfb3a87aed6927df02f9243ba2e42" title=" " alt="" coords="162,640,326,683"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="58,379,64,425,78,491,90,527,106,563,126,597,151,626,153,628,149,632,147,630,122,600,101,566,85,529,73,493,58,426,53,379"/>
+<area shape="rect" id="Node000007" href="$group___l_s_m6_d_s_o32___sensitivity.html#ga1dd1144c67c9e65a08f689efd2a92d4a" title=" " alt="" coords="173,707,314,749"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="57,379,59,436,71,520,82,566,99,611,121,655,151,693,162,702,158,706,147,696,117,657,94,614,77,567,65,521,54,436,51,379"/>
+<area shape="rect" id="Node000008" href="$group___l_s_m6_d_s_o32.html#gaa8e34429698fde27bc100204d476e796" title="The STATUS_REG register is read by the primary interface.[get]." alt="" coords="155,139,332,165"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="55,351,64,315,82,268,109,218,126,195,147,175,153,171,156,175,150,179,130,199,113,221,87,270,69,317,60,352"/>
+<area shape="rect" id="Node000009" href="$group___l_s_m6_d_s_o32___data__output.html#ga2db53fcf887c593aca9de5cc33eb230a" title="Temperature data output register (r). L and H registers together express a 16&#45;bit word in two’s compl..." alt="" coords="164,189,324,232"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="59,350,93,298,118,268,147,242,154,237,157,242,150,246,121,272,97,301,64,353"/>
+<area shape="rect" id="Node000010" href="$group___l_s_m6_d_s_o32.html#ga2426edf9bb86527eb49573181a5350b7" title="Weight of XL user offset bits of registers X_OFS_USR (73h), Y_OFS_USR (74h), Z_OFS_USR (75h)...." alt="" coords="174,256,314,299"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="75,349,147,308,160,303,163,307,150,313,77,354"/>
+<area shape="rect" id="Node000012" href="$group___l_s_m6_d_s_o32.html#gae1cd2ce1f6f96122af733334b13b84d8" title="Enables user offset on out.[set]." alt="" coords="149,323,339,349"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="101,355,137,350,138,355,102,361"/>
+<area shape="rect" id="Node000013" href="$group___l_s_m6_d_s_o32.html#ga9a1f2830a6ad925a54dc359493a57719" title="Accelerometer X&#45;axis user offset correction expressed in two’s complement, weight depends on USR_OFF_..." alt="" coords="161,373,326,416"/>
+<area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="102,370,146,377,145,382,101,375"/>
+<area shape="rect" id="Node000014" href="$group___l_s_m6_d_s_o32.html#ga4ec9d28299b8e97b22afab95ba08ce39" title="Accelerometer Y&#45;axis user offset correction expressed in two’s complement, weight depends on USR_OFF_..." alt="" coords="161,440,326,483"/>
+<area shape="poly" id="edge20_Node000001_Node000014" title=" " alt="" coords="74,377,108,401,150,426,162,431,159,436,147,430,105,406,71,381"/>
+<area shape="rect" id="Node000015" href="$group___l_s_m6_d_s_o32.html#ga3ee73f7a7372b236d2c64edc948faab2" title="Accelerometer Z&#45;axis user offset correction expressed in two’s complement, weight depends on USR_OFF_..." alt="" coords="161,507,326,549"/>
+<area shape="poly" id="edge22_Node000001_Node000015" title=" " alt="" coords="63,378,96,433,121,465,150,493,156,496,153,501,147,497,117,469,91,436,59,381"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="388,168,530,195"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="319,46,340,58,370,80,398,106,441,154,437,158,394,109,367,84,338,62,316,51"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="310,113,340,124,417,159,415,163,338,129,308,118"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="333,161,374,167,373,172,333,167"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="324,197,373,190,373,196,325,202"/>
+<area shape="poly" id="edge13_Node000010_Node000003" title=" " alt="" coords="310,253,338,242,420,200,422,205,340,246,312,258"/>
+<area shape="rect" id="Node000011" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="387,381,531,408"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="315,297,340,308,390,338,431,369,428,374,387,343,338,313,313,302"/>
+<area shape="poly" id="edge16_Node000012_Node000003" title=" " alt="" coords="314,320,338,308,369,285,396,258,439,206,443,209,400,262,372,290,340,313,316,324"/>
+<area shape="poly" id="edge17_Node000012_Node000011" title=" " alt="" coords="298,347,340,359,395,374,393,379,338,364,297,353"/>
+<area shape="poly" id="edge19_Node000013_Node000011" title=" " alt="" coords="327,392,371,392,371,397,327,397"/>
+<area shape="poly" id="edge21_Node000014_Node000011" title=" " alt="" coords="314,437,398,411,400,416,316,442"/>
+<area shape="poly" id="edge23_Node000015_Node000011" title=" " alt="" coords="314,504,338,492,390,455,432,417,436,421,393,459,340,497,317,509"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="lsm6dso32_data_ready_mode_set" name="lsm6dso32_data_ready_mode_set">
+<area shape="rect" id="Node000001" title="Data&#45;ready pulsed / letched mode.[set]." alt="" coords="5,23,161,65"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="210,5,352,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,31,194,27,195,32,161,37"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="209,56,353,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,51,194,55,193,61,161,57"/>
+</map>

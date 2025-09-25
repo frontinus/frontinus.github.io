@@ -1,0 +1,11 @@
+<map id="lsm6dso32_sh_write_mode_set" name="lsm6dso32_sh_write_mode_set">
+<area shape="rect" id="Node000001" title="Slave 0 write operation is performed only at the first sensor hub cycle.[set]." alt="" coords="5,23,146,65"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32__common.html#ga42e20a310b0f7a40c07b4dce8d758f1a" title="Enable access to the embedded functions/sensor hub configuration registers.[set]." alt="" coords="194,31,374,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,41,178,41,178,47,146,47"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="424,5,565,32"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="146,24,193,16,305,10,408,11,408,17,305,15,194,21,147,29"/>
+<area shape="rect" id="Node000004" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="422,68,566,95"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="147,59,194,67,305,76,407,79,407,84,304,81,193,72,146,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="374,30,408,26,408,32,375,36"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="363,55,407,63,406,68,362,61"/>
+</map>

@@ -1,0 +1,43 @@
+<map id="init_imuB" name="init_imuB">
+<area shape="rect" id="Node000001" title="Initializes the backup IMU (LSM6DSO32)." alt="" coords="5,259,81,285"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32.html#ga45a466a7f1bc1637c86191fbb271dee1" title="SPI read function for the backup IMU (LSM6DSO32)." alt="" coords="183,5,266,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="43,258,48,216,61,158,86,96,104,67,127,42,146,29,167,22,169,27,148,34,130,46,109,70,91,98,66,160,53,217,48,259"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32.html#gaceddf5368a10fa4dfdf9f89b79b19467" title="SPI write function for the backup IMU (LSM6DSO32)." alt="" coords="182,56,268,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="44,257,52,224,68,179,92,133,108,111,127,93,145,81,166,74,168,79,148,86,130,97,112,115,97,136,73,181,58,225,49,259"/>
+<area shape="rect" id="Node000004" href="$group___l_s_m6_d_s_o32.html#ga30512a87983b4e5a07558e4303b2d275" title="Block data update.[set]." alt="" coords="148,411,302,453"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="52,285,81,339,103,370,130,397,136,400,133,405,127,401,99,373,76,342,48,287"/>
+<area shape="rect" id="Node000007" href="$group___l_s_m6_d_s_o32__common.html#gaa4e742d20c530d462bad81bab6c714e4" title="Device &quot;Who am I&quot;.[get]." alt="" coords="139,157,310,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="54,256,85,225,127,194,140,188,143,192,130,198,89,229,58,260"/>
+<area shape="rect" id="Node000008" href="$group___l_s_m6_d_s_o32.html#gaa75b7ca75f4735dc4c43d3e1d5f239f3" title="Gyroscope UI data rate selection.[set]." alt="" coords="129,477,320,504"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="49,285,56,321,71,369,95,420,111,443,130,463,135,467,132,471,127,467,107,447,90,423,66,371,51,322,44,286"/>
+<area shape="rect" id="Node000009" href="$group___l_s_m6_d_s_o32.html#ga12b93457fed0a7e99562effc7e3471f8" title="Gyroscope UI chain full&#45;scale selection.[set]." alt="" coords="129,528,321,555"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="47,286,52,330,64,392,75,425,89,457,107,488,131,514,134,517,131,521,127,518,103,491,84,460,70,427,59,393,46,331,42,286"/>
+<area shape="rect" id="Node000010" href="$group___l_s_m6_d_s_o32.html#ga75f40018910a44efdd2ff1dd152d9050" title="I3C Enable/Disable communication protocol[.set]." alt="" coords="134,208,316,235"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="80,258,128,244,155,237,157,242,129,249,82,263"/>
+<area shape="rect" id="Node000011" href="$group___l_s_m6_d_s_o32__common.html#ga2aca047ea6c5a83128e6270ef03686e3" title="Software reset. Restore the default values in user registers.[get]." alt="" coords="152,107,298,133"/>
+<area shape="poly" id="edge17_Node000001_Node000011" title=" " alt="" coords="47,257,75,202,98,170,127,143,136,137,139,142,130,147,102,174,80,204,52,259"/>
+<area shape="rect" id="Node000012" href="$group___l_s_m6_d_s_o32__common.html#ga707b1b9bbf8f3b22de02fc3a9d4adcad" title="Software reset. Restore the default values in user registers[set]." alt="" coords="152,259,298,285"/>
+<area shape="poly" id="edge19_Node000001_Node000012" title=" " alt="" coords="81,269,137,269,137,275,81,275"/>
+<area shape="rect" id="Node000013" href="$group___l_s_m6_d_s_o32.html#ga4a207ff3be5517a47acab40953de7863" title="Accelerometer UI data rate and power mode selection.[set]." alt="" coords="131,309,318,336"/>
+<area shape="poly" id="edge22_Node000001_Node000013" title=" " alt="" coords="82,281,129,295,157,302,155,307,128,300,80,286"/>
+<area shape="rect" id="Node000014" href="$group___l_s_m6_d_s_o32.html#ga288aee4c8f26697016c0301b2deed9a1" title="Accelerometer full&#45;scale selection.[set]." alt="" coords="131,360,319,387"/>
+<area shape="poly" id="edge25_Node000001_Node000014" title=" " alt="" coords="58,284,89,315,130,346,143,352,140,356,127,350,85,319,54,288"/>
+<area shape="rect" id="Node000005" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="370,309,512,336"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="299,408,319,396,334,384,343,372,352,359,367,346,376,341,379,345,371,350,356,362,347,375,338,388,323,401,301,412"/>
+<area shape="rect" id="Node000006" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="369,360,513,387"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="301,409,374,389,375,394,303,414"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="297,182,322,194,354,216,382,243,424,295,420,298,378,247,350,221,320,198,295,187"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="302,475,319,463,331,450,338,436,343,407,348,377,355,361,367,346,371,343,375,347,371,350,359,364,353,378,348,408,343,438,336,453,323,467,305,479"/>
+<area shape="poly" id="edge10_Node000008_Node000006" title=" " alt="" coords="291,474,320,463,371,430,413,395,417,399,375,435,322,468,293,479"/>
+<area shape="poly" id="edge12_Node000009_Node000005" title=" " alt="" coords="304,525,319,514,334,494,342,474,343,433,344,390,352,368,367,346,370,343,374,347,371,350,356,370,350,391,349,433,347,475,339,497,323,518,307,530"/>
+<area shape="poly" id="edge13_Node000009_Node000006" title=" " alt="" coords="296,525,320,514,352,488,381,457,423,398,427,401,385,461,356,492,322,518,299,530"/>
+<area shape="poly" id="edge15_Node000010_Node000005" title=" " alt="" coords="290,233,322,244,370,270,412,298,409,302,368,275,320,249,288,238"/>
+<area shape="poly" id="edge16_Node000010_Node000006" title=" " alt="" coords="304,233,323,245,335,257,342,270,348,296,354,322,360,334,371,346,375,350,372,354,367,350,356,337,349,323,343,297,337,272,330,260,319,249,301,238"/>
+<area shape="poly" id="edge18_Node000011_Node000005" title=" " alt="" coords="299,131,323,143,360,178,391,219,415,260,431,294,427,297,410,262,387,222,356,181,319,148,297,136"/>
+<area shape="poly" id="edge20_Node000012_Node000005" title=" " alt="" coords="286,283,367,303,366,308,285,289"/>
+<area shape="poly" id="edge21_Node000012_Node000006" title=" " alt="" coords="297,284,322,295,338,308,347,321,356,333,371,346,379,351,376,355,367,350,352,337,343,324,334,311,320,300,295,288"/>
+<area shape="poly" id="edge23_Node000013_Node000005" title=" " alt="" coords="319,320,355,320,355,325,319,325"/>
+<area shape="poly" id="edge24_Node000013_Node000006" title=" " alt="" coords="286,334,367,353,366,358,285,339"/>
+<area shape="poly" id="edge26_Node000014_Node000005" title=" " alt="" coords="285,357,366,338,367,343,286,362"/>
+<area shape="poly" id="edge27_Node000014_Node000006" title=" " alt="" coords="319,371,354,371,354,376,319,376"/>
+</map>

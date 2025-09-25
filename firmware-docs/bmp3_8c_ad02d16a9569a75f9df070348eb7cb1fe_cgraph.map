@@ -1,0 +1,7 @@
+<map id="bmp3_set_regs" name="bmp3_set_regs">
+<area shape="rect" id="Node000001" title="This API writes the given data to the register address of the sensor." alt="" coords="5,31,116,57"/>
+<area shape="rect" id="Node000002" href="$bmp3_8c.html#aa5c65995726d3062cf7e5659cbdc3472" title="This internal API interleaves the register address between the register data buffer for burst write o..." alt="" coords="164,5,298,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,33,148,28,148,34,117,38"/>
+<area shape="rect" id="Node000003" href="$bmp3_8c.html#a9db82f2117ddfa4eccef8a018e738aab" title="This internal API is used to validate the device pointer for null conditions." alt="" coords="178,56,284,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,50,163,57,162,62,116,55"/>
+</map>

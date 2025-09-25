@@ -1,0 +1,12 @@
+<map id="bmp3_fifo_flush" name="bmp3_fifo_flush">
+<area shape="rect" id="Node000001" title="This API performs the soft reset of the sensor." alt="" coords="5,31,119,57"/>
+<area shape="rect" id="Node000002" href="$bmp3_8c.html#a9e0c2cdecfdac8aa6ed4e35940f7ade7" title="This API reads the data from the given register address of the sensor." alt="" coords="167,5,277,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,32,151,27,152,32,120,38"/>
+<area shape="rect" id="Node000004" href="$bmp3_8c.html#ad02d16a9569a75f9df070348eb7cb1fe" title="This API writes the given data to the register address of the sensor." alt="" coords="167,56,277,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="120,50,152,56,151,61,119,56"/>
+<area shape="rect" id="Node000003" href="$bmp3_8c.html#a9db82f2117ddfa4eccef8a018e738aab" title="This internal API is used to validate the device pointer for null conditions." alt="" coords="340,5,445,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="278,16,324,16,324,21,278,21"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="269,53,330,34,331,39,270,58"/>
+<area shape="rect" id="Node000005" href="$bmp3_8c.html#aa5c65995726d3062cf7e5659cbdc3472" title="This internal API interleaves the register address between the register data buffer for burst write o..." alt="" coords="325,56,459,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="278,67,309,67,309,72,278,72"/>
+</map>

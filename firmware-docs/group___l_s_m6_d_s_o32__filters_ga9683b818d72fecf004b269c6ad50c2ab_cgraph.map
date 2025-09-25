@@ -1,0 +1,7 @@
+<map id="lsm6dso32_xl_hp_path_on_out_set" name="lsm6dso32_xl_hp_path_on_out_set">
+<area shape="rect" id="Node000001" title="Accelerometer slope filter / high&#45;pass filter selection on output.[set]." alt="" coords="5,23,160,65"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="209,5,350,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,31,193,27,194,32,161,37"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="208,56,352,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,51,193,55,192,61,160,57"/>
+</map>

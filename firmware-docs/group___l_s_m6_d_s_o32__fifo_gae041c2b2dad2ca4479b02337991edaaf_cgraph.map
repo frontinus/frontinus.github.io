@@ -1,0 +1,7 @@
+<map id="lsm6dso32_fifo_stop_on_wtm_set" name="lsm6dso32_fifo_stop_on_wtm_set">
+<area shape="rect" id="Node000001" title="Sensing chain FIFO stop values memorization at threshold level.[set]." alt="" coords="5,23,147,65"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="196,5,338,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,32,180,27,181,33,147,37"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="195,56,339,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,51,180,55,179,60,147,56"/>
+</map>

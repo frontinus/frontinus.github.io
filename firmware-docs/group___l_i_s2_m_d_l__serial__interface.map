@@ -1,0 +1,5 @@
+<map id="&quot;Serial Interface&quot;" name="&quot;Serial Interface&quot;">
+<area shape="rect" id="Node000002" href="$group___l_i_s2_m_d_l.html" title="This file provides a set of functions needed to drive the lis2mdl enhanced inertial module." alt="" coords="5,5,174,48"/>
+<area shape="rect" id="Node000001" title="This section group all the functions concerning serial interface management." alt="" coords="222,13,341,40"/>
+<area shape="rect" id="Node000003" href="$group___l_i_s2_m_d_l___platform___functions.html" title="Functions to connect LIS2MDL driver to STM32H7xx SPI HAL." alt="" coords="389,5,562,48"/>
+</map>

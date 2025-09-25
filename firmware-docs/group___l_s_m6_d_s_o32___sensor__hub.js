@@ -1,0 +1,26 @@
+var group___l_s_m6_d_s_o32___sensor__hub =
+[
+    [ "lsm6dso32_sh_cfg_write", "group___l_s_m6_d_s_o32___sensor__hub.html#ga437297e16e00798f01545a69cd3a4f5e", null ],
+    [ "lsm6dso32_sh_data_rate_get", "group___l_s_m6_d_s_o32___sensor__hub.html#ga03902c7ed6faf8694a4939a30be8e3b8", null ],
+    [ "lsm6dso32_sh_data_rate_set", "group___l_s_m6_d_s_o32___sensor__hub.html#ga0b1007e60c4d7956ee18c43c655726db", null ],
+    [ "lsm6dso32_sh_master_get", "group___l_s_m6_d_s_o32___sensor__hub.html#ga18045bad2c6c4aa835ffcc769f913ad3", null ],
+    [ "lsm6dso32_sh_master_set", "group___l_s_m6_d_s_o32___sensor__hub.html#ga8dfedeb8ba46d9621a60e278844d9c3b", null ],
+    [ "lsm6dso32_sh_pass_through_get", "group___l_s_m6_d_s_o32___sensor__hub.html#ga6dabea1cfb025de8f2548eeae1b8a991", null ],
+    [ "lsm6dso32_sh_pass_through_set", "group___l_s_m6_d_s_o32___sensor__hub.html#ga2118c6b14d894fddb060a6e4e54bd4a7", null ],
+    [ "lsm6dso32_sh_pin_mode_get", "group___l_s_m6_d_s_o32___sensor__hub.html#ga15d76a35165677fd6776e6d959806683", null ],
+    [ "lsm6dso32_sh_pin_mode_set", "group___l_s_m6_d_s_o32___sensor__hub.html#gadc081f9911acb20e00ceaf46458234d1", null ],
+    [ "lsm6dso32_sh_read_data_raw_get", "group___l_s_m6_d_s_o32___sensor__hub.html#ga98d1dc66f184c65b9b4158e0928186c7", null ],
+    [ "lsm6dso32_sh_reset_get", "group___l_s_m6_d_s_o32___sensor__hub.html#ga99a56c0af452dccd5fddf03965d5c2d3", null ],
+    [ "lsm6dso32_sh_reset_set", "group___l_s_m6_d_s_o32___sensor__hub.html#ga9c0f6c5bb8488c7aac10d1c2b7de17eb", null ],
+    [ "lsm6dso32_sh_slave_connected_get", "group___l_s_m6_d_s_o32___sensor__hub.html#ga160cad226e567cb29d17c28d42bf023c", null ],
+    [ "lsm6dso32_sh_slave_connected_set", "group___l_s_m6_d_s_o32___sensor__hub.html#ga636a80bf6d498caa02996b707e472b7a", null ],
+    [ "lsm6dso32_sh_slv0_cfg_read", "group___l_s_m6_d_s_o32___sensor__hub.html#gadd6786ce3212e9adb0b5970c2bd8ed1d", null ],
+    [ "lsm6dso32_sh_slv1_cfg_read", "group___l_s_m6_d_s_o32___sensor__hub.html#ga32286e2efeb98073c70c0b437de28869", null ],
+    [ "lsm6dso32_sh_slv2_cfg_read", "group___l_s_m6_d_s_o32___sensor__hub.html#ga3e343a7932d1cff630cd9f61a34d4dc6", null ],
+    [ "lsm6dso32_sh_slv3_cfg_read", "group___l_s_m6_d_s_o32___sensor__hub.html#gaf30b3da44e2ffbddfd07b1f96063300d", null ],
+    [ "lsm6dso32_sh_status_get", "group___l_s_m6_d_s_o32___sensor__hub.html#ga7548f1eff4f285452bd8a33547976850", null ],
+    [ "lsm6dso32_sh_syncro_mode_get", "group___l_s_m6_d_s_o32___sensor__hub.html#ga7d24e28ac8c3911eccf782333a2330d3", null ],
+    [ "lsm6dso32_sh_syncro_mode_set", "group___l_s_m6_d_s_o32___sensor__hub.html#ga12b2a515925e686aef431ec93e886de0", null ],
+    [ "lsm6dso32_sh_write_mode_get", "group___l_s_m6_d_s_o32___sensor__hub.html#ga9061f7b9c27f94959e6251c8de10954e", null ],
+    [ "lsm6dso32_sh_write_mode_set", "group___l_s_m6_d_s_o32___sensor__hub.html#ga254cdf8d93c0261e8ca2e0d65dc67b7f", null ]
+];

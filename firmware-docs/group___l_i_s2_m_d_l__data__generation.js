@@ -1,0 +1,25 @@
+var group___l_i_s2_m_d_l__data__generation =
+[
+    [ "lis2mdl_block_data_update_get", "group___l_i_s2_m_d_l__data__generation.html#ga4f70b72e6ca1d1e7284f4d7a4d01aad0", null ],
+    [ "lis2mdl_block_data_update_set", "group___l_i_s2_m_d_l__data__generation.html#ga77f342c18aa05ce83e0c77aa42adece1", null ],
+    [ "lis2mdl_data_rate_get", "group___l_i_s2_m_d_l__data__generation.html#gaf643873da9241912ca3832f76b04b147", null ],
+    [ "lis2mdl_data_rate_set", "group___l_i_s2_m_d_l__data__generation.html#ga6c29f749d6b8f68a4108927366437faf", null ],
+    [ "lis2mdl_low_pass_bandwidth_get", "group___l_i_s2_m_d_l__data__generation.html#ga750d974d4b1fa36919a371bf10cec8a5", null ],
+    [ "lis2mdl_low_pass_bandwidth_set", "group___l_i_s2_m_d_l__data__generation.html#ga1b364346ef0aa6ac62f1f77cdc4f6793", null ],
+    [ "lis2mdl_mag_data_ovr_get", "group___l_i_s2_m_d_l__data__generation.html#gaa5fb897e9329ec92ce3723e7e44e080e", null ],
+    [ "lis2mdl_mag_data_ready_get", "group___l_i_s2_m_d_l__data__generation.html#ga8179ef230867e389c690e85db180deb7", null ],
+    [ "lis2mdl_mag_user_offset_get", "group___l_i_s2_m_d_l__data__generation.html#ga1038548274a87b96d4fc100a0290f9de", null ],
+    [ "lis2mdl_mag_user_offset_set", "group___l_i_s2_m_d_l__data__generation.html#gaed6c09651dcdcc1466e7375a7131017d", null ],
+    [ "lis2mdl_magnetic_raw_get", "group___l_i_s2_m_d_l__data__generation.html#ga9e8512d32c23b8809d2e74071b39b3c3", null ],
+    [ "lis2mdl_offset_temp_comp_get", "group___l_i_s2_m_d_l__data__generation.html#ga0b330d654fe7eb243f904c4a1251e5bc", null ],
+    [ "lis2mdl_offset_temp_comp_set", "group___l_i_s2_m_d_l__data__generation.html#ga665bf872e53ac265f1687bf47ddae879", null ],
+    [ "lis2mdl_operating_mode_get", "group___l_i_s2_m_d_l__data__generation.html#gaecffe1ef31895d762d1811bef76e3a40", null ],
+    [ "lis2mdl_operating_mode_set", "group___l_i_s2_m_d_l__data__generation.html#ga5acbfa5e45cc4567eb716bfab76ec9d4", null ],
+    [ "lis2mdl_power_mode_get", "group___l_i_s2_m_d_l__data__generation.html#gaa1e5b258b9ce6d88ddb6d238d274e28a", null ],
+    [ "lis2mdl_power_mode_set", "group___l_i_s2_m_d_l__data__generation.html#ga91f1c66dc3d59ca6ee671ebbbe2f1329", null ],
+    [ "lis2mdl_set_rst_mode_get", "group___l_i_s2_m_d_l__data__generation.html#ga7688066d82e5198af7fe00924e522413", null ],
+    [ "lis2mdl_set_rst_mode_set", "group___l_i_s2_m_d_l__data__generation.html#ga1ad068318d4ec1c3a922651c02c5aec5", null ],
+    [ "lis2mdl_set_rst_sensor_single_get", "group___l_i_s2_m_d_l__data__generation.html#ga1bc1dbc2472fb593d2147223e05e20c1", null ],
+    [ "lis2mdl_set_rst_sensor_single_set", "group___l_i_s2_m_d_l__data__generation.html#gae3f413d1f6a84676b78a5ad685bfcbc6", null ],
+    [ "lis2mdl_temperature_raw_get", "group___l_i_s2_m_d_l__data__generation.html#gaef73235362960f7fecefd5144d4e2533", null ]
+];

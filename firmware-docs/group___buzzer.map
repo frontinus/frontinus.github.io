@@ -1,0 +1,5 @@
+<map id="Buzzer Driver" name="Buzzer Driver">
+<area shape="rect" id="Node000001" title="Low&#45;level driver for the PWM buzzer." alt="" coords="179,13,280,40"/>
+<area shape="rect" id="Node000003" href="$group___buzzer___notes.html" title=" " alt="" coords="328,5,493,48"/>
+<area shape="rect" id="Node000002" href="$group___peripherals.html" title="Low&#45;level drivers and initialization for on&#45;board hardware components." alt="" coords="5,13,131,40"/>
+</map>

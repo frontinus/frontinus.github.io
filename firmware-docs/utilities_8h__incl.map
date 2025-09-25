@@ -1,0 +1,24 @@
+<map id="Davinci_2/Core/Inc/utilities.h" name="Davinci_2/Core/Inc/utilities.h">
+<area shape="rect" id="Node000001" title="Provides low&#45;level hardware drivers, sensor initialization routines, and various utility functions fo..." alt="" coords="234,5,367,48"/>
+<area shape="rect" id="Node000002" href="$bmp3_8h.html" title=" " alt="" coords="21,96,86,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,51,101,95,100,90,236,46"/>
+<area shape="rect" id="Node000006" href="$lsm6dso32__reg_8h.html" title="This file contains all the functions prototypes for the lsm6dso32_reg.c driver." alt="" coords="109,96,230,123"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="268,51,204,90,201,85,265,46"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="231,171,292,197"/>
+<area shape="poly" id="edge11_Node000001_Node000007" title=" " alt="" coords="298,49,271,156,266,155,293,48"/>
+<area shape="rect" id="Node000008" href="$main_8h.html" title=": Header for main.c file. This file contains the common defines of the application." alt="" coords="305,96,365,123"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="312,48,326,81,321,83,307,50"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="390,96,464,123"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="334,46,396,85,393,90,331,51"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="488,96,584,123"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="362,46,485,88,484,93,360,51"/>
+<area shape="rect" id="Node000003" href="$bmp3__defs_8h.html" title="Sensor driver for BMP3 sensor." alt="" coords="5,171,102,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="56,123,56,155,51,155,51,123"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="44,245,108,272"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="60,197,70,230,65,231,55,199"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="143,245,212,272"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="76,196,144,235,142,240,74,200"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="164,125,95,233,90,231,159,122"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="173,123,179,230,173,230,168,123"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="187,121,236,159,232,163,184,125"/>
+</map>

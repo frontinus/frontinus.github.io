@@ -1,0 +1,7 @@
+<map id="lsm6dso32_i3c_disable_set" name="lsm6dso32_i3c_disable_set">
+<area shape="rect" id="Node000001" title="I3C Enable/Disable communication protocol[.set]." alt="" coords="5,31,187,57"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="236,5,378,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,30,220,26,221,32,187,36"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="235,56,379,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,52,220,56,219,61,187,58"/>
+</map>

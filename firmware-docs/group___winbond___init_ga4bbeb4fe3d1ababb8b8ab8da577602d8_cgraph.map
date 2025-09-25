@@ -1,0 +1,7 @@
+<map id="QFlash_ReadManufactutrerAndDevID" name="QFlash_ReadManufactutrerAndDevID">
+<area shape="rect" id="Node000001" title="read id of the winbond" alt="" coords="5,23,187,65"/>
+<area shape="rect" id="Node000002" href="$group___winbond___status.html#gaa0c97f126a0945f1a2cdbaa2258a0d73" title=" " alt="" coords="263,5,403,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,32,247,25,247,30,187,37"/>
+<area shape="rect" id="Node000003" href="$group___winbond___status.html#ga19dfea1a548d5410130ba7318f63346c" title=" " alt="" coords="235,56,431,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,51,219,55,219,60,187,56"/>
+</map>

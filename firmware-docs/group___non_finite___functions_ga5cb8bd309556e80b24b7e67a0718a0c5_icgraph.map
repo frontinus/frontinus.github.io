@@ -1,0 +1,15 @@
+<map id="rtIsInf" name="rtIsInf">
+<area shape="rect" id="Node000001" title="Checks if a double&#45;precision value is positive or negative infinity." alt="" coords="550,31,605,57"/>
+<area shape="rect" id="Node000002" href="$mekf_8c.html#aec012aeba63ea4ffcdc8bcede27b6847" title=" " alt="" coords="409,5,502,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="534,38,501,31,502,26,535,33"/>
+<area shape="rect" id="Node000004" href="$optimal_angle_8c.html#aec012aeba63ea4ffcdc8bcede27b6847" title=" " alt="" coords="409,56,502,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="535,55,502,62,501,57,534,50"/>
+<area shape="rect" id="Node000003" href="$mekf_8c.html#abe18d5b109f99da1726f89803c17ec26" title="Executes one prediction and correction step of the MEKF." alt="" coords="288,5,338,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="394,21,339,21,339,16,394,16"/>
+<area shape="rect" id="Node000005" href="$optimal_angle_8c.html#aae2f8a89388a2bfd4292c2d78da13e3a" title="Calculates the optimal constant airbrake angle to reach a target apogee." alt="" coords="265,56,361,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="393,72,362,72,362,67,393,67"/>
+<area shape="rect" id="Node000006" href="$group___r_t_o_s___tasks.html#ga66e1e49e54f627fbc12b6f818505c70c" title="Function implementing the MPC_Task thread." alt="" coords="103,56,217,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="249,72,217,72,217,67,249,67"/>
+<area shape="rect" id="Node000007" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,56,55,83"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="87,72,55,72,55,67,87,67"/>
+</map>

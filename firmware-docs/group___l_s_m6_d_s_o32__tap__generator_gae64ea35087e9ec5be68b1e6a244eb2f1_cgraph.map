@@ -1,0 +1,5 @@
+<map id="lsm6dso32_tap_shock_get" name="lsm6dso32_tap_shock_get">
+<area shape="rect" id="Node000001" title="Maximum duration is the maximum time of an over threshold signal detection to be recognized as a tap ..." alt="" coords="5,5,182,32"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="230,5,371,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,16,214,16,214,21,182,21"/>
+</map>

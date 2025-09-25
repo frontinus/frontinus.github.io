@@ -1,0 +1,31 @@
+<map id="QFlash_WaitForDataAvailable" name="QFlash_WaitForDataAvailable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="595,245,792,272"/>
+<area shape="rect" id="Node000002" href="$group___winbond___memory.html#gae05b9ed7c14aa80fe41b3bf8cc7c09b7" title=" " alt="" coords="406,56,507,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="674,234,622,165,586,128,546,97,507,81,509,76,549,92,590,124,626,161,678,230"/>
+<area shape="rect" id="Node000006" href="$group___winbond___init.html#ga0a04a9a022c29dfd6176e6542221c0f0" title=" " alt="" coords="387,107,526,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="666,236,613,191,580,168,546,148,518,136,520,131,549,143,583,163,616,187,669,232"/>
+<area shape="rect" id="Node000007" href="$group___winbond___init.html#ga77c500d68070f3878553eccf02f72f8d" title=" " alt="" coords="382,157,532,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="649,241,546,199,511,187,513,182,548,193,651,236"/>
+<area shape="rect" id="Node000009" href="$group___winbond___init.html#ga4bbeb4fe3d1ababb8b8ab8da577602d8" title="read id of the winbond" alt="" coords="366,208,547,251"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="579,247,548,243,548,238,580,242"/>
+<area shape="rect" id="Node000010" href="$group___winbond___init.html#gac34285bddf90506d02f336803f54e226" title=" " alt="" coords="388,275,525,301"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="580,275,526,282,525,277,580,270"/>
+<area shape="rect" id="Node000011" href="$group___winbond___control.html#ga9e08e9bd6e2a0d35dace5d5b1a19dcb3" title=" " alt="" coords="393,325,520,352"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="645,281,548,316,511,327,509,322,546,311,643,276"/>
+<area shape="rect" id="Node000013" href="$group___winbond___control.html#ga5a41e6d8c4f5503ae80ef7d8f08b8622" title=" " alt="" coords="393,376,520,403"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="668,284,615,326,549,366,519,378,517,373,546,362,612,322,664,280"/>
+<area shape="rect" id="Node000014" href="$group___winbond___control.html#ga405804a309d704a963b1de156691b45d" title=" " alt="" coords="393,427,520,453"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="677,286,625,352,589,387,549,417,522,429,520,424,546,412,586,383,621,348,673,283"/>
+<area shape="rect" id="Node000003" href="$group___winbond___touch_g_f_x.html#ga2576d6a0a5fb6890083fbdb2ea0fb09a" title=" " alt="" coords="132,5,289,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="390,58,278,35,279,30,391,53"/>
+<area shape="rect" id="Node000004" href="$group___winbond___touch_g_f_x.html#gadf9d83ed577ea06a7920b67663b92c40" title=" " alt="" coords="103,56,318,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="391,72,318,72,318,67,391,67"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,132,55,159"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="392,84,318,97,56,144,55,139,318,92,391,79"/>
+<area shape="rect" id="Node000008" href="$group___winbond___init.html#gacddd820c2c00000703b68e5beab66d63" title=" " alt="" coords="166,157,254,184"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="366,173,255,173,255,168,366,168"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="150,165,55,151,56,146,151,160"/>
+<area shape="poly" id="edge11_Node000010_Node000008" title=" " alt="" coords="383,272,365,265,289,225,230,187,233,182,291,220,367,260,385,267"/>
+<area shape="rect" id="Node000012" href="$group___winbond___control.html#ga5e6bb8f5d7f795d83e79c2c02ba8d2ca" title=" " alt="" coords="143,325,278,352"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="377,341,278,341,278,336,377,336"/>
+</map>

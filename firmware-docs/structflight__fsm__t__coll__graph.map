@@ -1,0 +1,5 @@
+<map id="flight_fsm_t" name="flight_fsm_t">
+<area shape="rect" id="Node000001" title="Main data structure for the Flight State Machine." alt="" coords="31,112,120,139"/>
+<area shape="rect" id="Node000002" href="$structlinear__acceleration__t.html" title="Represents a 3&#45;axis linear acceleration vector from an IMU." alt="" coords="5,5,146,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,47,78,112,73,112,73,47"/>
+</map>

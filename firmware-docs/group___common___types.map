@@ -1,0 +1,7 @@
+<map id="&quot;STMicroelectronics sensors common types&quot;" name="&quot;STMicroelectronics sensors common types&quot;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="228,48,394,91"/>
+<area shape="rect" id="Node000004" href="$group___interfaces___functions.html" title="This section provide a set of functions used to read and write a generic register of the device...." alt="" coords="500,5,646,32"/>
+<area shape="rect" id="Node000005" href="$group___s_t_microelectronics.html" title=" " alt="" coords="494,56,652,83"/>
+<area shape="rect" id="Node000003" href="$group___structure___definition.html" title="This structure is useful to load a predefined configuration of a sensor. You can create a sensor conf..." alt="" coords="498,107,648,149"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___driver.html" title="This is the complete STMicroelectronics driver for the LSM6DSO32 IMU. It provides low&#45;level register ..." alt="" coords="5,48,179,91"/>
+</map>

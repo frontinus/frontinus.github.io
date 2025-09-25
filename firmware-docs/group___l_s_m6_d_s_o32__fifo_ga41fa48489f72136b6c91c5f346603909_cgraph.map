@@ -1,0 +1,5 @@
+<map id="lsm6dso32_fifo_ovr_flag_get" name="lsm6dso32_fifo_ovr_flag_get">
+<area shape="rect" id="Node000001" title="FIFO overrun status.[get]." alt="" coords="5,5,140,48"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="188,13,329,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,24,172,24,172,29,140,29"/>
+</map>

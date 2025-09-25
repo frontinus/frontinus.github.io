@@ -1,0 +1,7 @@
+<map id="compensate_data" name="compensate_data">
+<area shape="rect" id="Node000001" title="This internal API is used to compensate the pressure or temperature or both the data according to the..." alt="" coords="5,31,130,57"/>
+<area shape="rect" id="Node000002" href="$bmp3_8c.html#a5bc99f8ae95747be9edb8c36404e662f" title="This internal API is used to compensate the pressure data and return the compensated pressure data in..." alt="" coords="187,5,336,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,33,171,28,172,33,130,39"/>
+<area shape="rect" id="Node000003" href="$bmp3_8c.html#a94a9c7724c9fa2b33cd588814062cfaf" title="This internal API is used to compensate the raw temperature data and return the compensated temperatu..." alt="" coords="178,56,346,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="130,49,163,54,162,59,130,55"/>
+</map>

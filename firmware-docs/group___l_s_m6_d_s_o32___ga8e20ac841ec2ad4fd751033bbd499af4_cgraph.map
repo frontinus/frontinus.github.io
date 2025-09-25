@@ -1,0 +1,18 @@
+<map id="lsm6dso32_mag_z_orient_set" name="lsm6dso32_mag_z_orient_set">
+<area shape="rect" id="Node000001" title="Magnetometer Z&#45;axis coordinates rotation (to be aligned to accelerometer/gyroscope axes orientation)...." alt="" coords="5,73,200,100"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32__common.html#ga1e472ef1bfee2b46a3f02adb4081cd8e" title="Read a line(byte) in a page.[get]." alt="" coords="249,98,436,125"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,94,234,98,233,103,200,99"/>
+<area shape="rect" id="Node000006" href="$group___l_s_m6_d_s_o32__common.html#gadc6e8c70957d336f735bd1387690123f" title="Write a line(byte) in a page.[set]." alt="" coords="248,36,437,62"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="192,70,237,63,238,68,193,75"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32__common.html#ga42e20a310b0f7a40c07b4dce8d758f1a" title="Enable access to the embedded functions/sensor hub configuration registers.[set]." alt="" coords="485,124,665,150"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="436,119,470,123,469,128,436,125"/>
+<area shape="rect" id="Node000004" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="715,73,856,100"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="436,104,699,89,699,94,436,109"/>
+<area shape="rect" id="Node000005" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="713,124,858,150"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="374,123,425,144,486,160,536,167,575,168,665,160,716,152,716,157,666,165,575,173,535,172,484,165,424,149,372,128"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="633,121,712,101,713,107,634,126"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="666,134,698,134,698,140,666,140"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="381,61,525,115,523,120,379,66"/>
+<area shape="poly" id="edge9_Node000006_Node000004" title=" " alt="" coords="386,33,442,18,513,7,590,4,628,7,666,15,715,35,757,61,754,66,713,40,665,20,628,12,589,9,513,12,443,24,387,38"/>
+<area shape="poly" id="edge10_Node000006_Node000005" title=" " alt="" coords="418,60,666,109,706,117,705,123,665,114,417,66"/>
+</map>

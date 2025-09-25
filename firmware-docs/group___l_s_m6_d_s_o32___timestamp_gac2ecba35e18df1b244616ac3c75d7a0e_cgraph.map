@@ -1,0 +1,5 @@
+<map id="lsm6dso32_timestamp_raw_get" name="lsm6dso32_timestamp_raw_get">
+<area shape="rect" id="Node000001" title="Timestamp first data output register (r). The value is expressed as a 32&#45;bit word and the bit resolut..." alt="" coords="5,5,158,48"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="206,13,347,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,24,190,24,190,29,158,29"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="lsm6dso32_pin_int2_route_get" name="lsm6dso32_pin_int2_route_get">
+<area shape="rect" id="Node000001" title="Select the signal that need to route on int2 pad.[get]." alt="" coords="190,5,326,48"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32__interrupt__pins.html#ga59bed4fe2bf8328ed5672efc928272d4" title="Select the signal that need to route on int1 pad.[set]." alt="" coords="5,5,142,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,29,142,29,142,24,174,24"/>
+</map>

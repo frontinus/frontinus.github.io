@@ -1,0 +1,7 @@
+<map id="parse_int_ctrl_settings" name="parse_int_ctrl_settings">
+<area shape="rect" id="Node000001" title="This internal API parse the interrupt control(output mode, level, latch and data ready) settings and ..." alt="" coords="393,5,545,32"/>
+<area shape="rect" id="Node000002" href="$bmp3_8c.html#ae5620d53e3c117de27ec7d4217bf7ae2" title="This internal API parse the power control(power mode, pressure enable and temperature enable),..." alt="" coords="231,5,345,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="377,21,345,21,345,16,377,16"/>
+<area shape="rect" id="Node000003" href="$bmp3_8c.html#ae7bbd9da06309195baa80bdc5d8579fe" title="This API gets the power control(power mode, pressure enable and temperature enable),..." alt="" coords="5,5,183,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="215,21,183,21,183,16,215,16"/>
+</map>

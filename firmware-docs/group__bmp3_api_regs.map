@@ -1,0 +1,4 @@
+<map id="Registers" name="Registers">
+<area shape="rect" id="Node000002" href="$group__bmp3.html" title=" " alt="" coords="5,5,73,32"/>
+<area shape="rect" id="Node000001" title="Read / Write data to the given register address." alt="" coords="121,5,198,32"/>
+</map>

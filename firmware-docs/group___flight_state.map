@@ -1,0 +1,4 @@
+<map id="Flight State Machine (FSM)" name="Flight State Machine (FSM)">
+<area shape="rect" id="Node000002" href="$group___flight_logic.html" title="High&#45;level modules related to flight management, estimation, and control." alt="" coords="5,13,126,40"/>
+<area shape="rect" id="Node000001" title="Manages the rocket&#39;s flight phase from calibration to touchdown." alt="" coords="174,5,315,48"/>
+</map>

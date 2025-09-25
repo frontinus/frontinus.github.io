@@ -1,0 +1,5 @@
+<map id="lsm6dso32_wkup_threshold_get" name="lsm6dso32_wkup_threshold_get">
+<area shape="rect" id="Node000001" title="Threshold for wakeup: 1 LSB weight depends on WAKE_THS_W in WAKE_UP_DUR.[get]." alt="" coords="5,5,213,32"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="261,5,402,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,16,245,16,245,21,213,21"/>
+</map>

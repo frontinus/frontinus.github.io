@@ -1,0 +1,11 @@
+<map id="compensate_temperature" name="compensate_temperature">
+<area shape="rect" id="Node000001" title="This internal API is used to compensate the raw temperature data and return the compensated temperatu..." alt="" coords="653,5,821,32"/>
+<area shape="rect" id="Node000002" href="$bmp3_8c.html#a6a344fb812afdfe92d84ad51ddd84faa" title="This internal API is used to compensate the pressure or temperature or both the data according to the..." alt="" coords="480,5,605,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="637,21,605,21,605,16,637,16"/>
+<area shape="rect" id="Node000003" href="$bmp3_8c.html#a8b7c253abd6cd44aa260578a10395697" title="This API reads the pressure, temperature or both data from the sensor, compensates the data and store..." alt="" coords="276,5,432,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="465,21,433,21,433,16,465,16"/>
+<area shape="rect" id="Node000004" href="$group___r_t_o_s___tasks.html#ga3271a69550bc5f9966c76521e5823891" title="Function implementing the Sensor_Task thread." alt="" coords="103,5,228,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="260,21,228,21,228,16,260,16"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
+</map>

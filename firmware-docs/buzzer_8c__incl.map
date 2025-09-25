@@ -1,0 +1,9 @@
+<map id="Davinci_2/Core/Src/buzzer.c" name="Davinci_2/Core/Src/buzzer.c">
+<area shape="rect" id="Node000001" title="Implementation of the PWM buzzer driver." alt="" coords="42,5,177,48"/>
+<area shape="rect" id="Node000002" href="$buzzer_8h.html" title="Provides a driver for playing musical notes on a PWM&#45;driven buzzer." alt="" coords="30,96,101,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,50,82,83,77,81,96,47"/>
+<area shape="rect" id="Node000004" href="$main_8h.html" title=": Header for main.c file. This file contains the common defines of the application." alt="" coords="125,96,185,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="123,47,143,81,138,84,119,50"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,171,126,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="68,123,68,155,63,155,63,123"/>
+</map>

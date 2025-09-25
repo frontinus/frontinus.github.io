@@ -1,0 +1,5 @@
+<map id="Core Flight Logic" name="Core Flight Logic">
+<area shape="rect" id="Node000003" href="$group___control_algorithms.html" title="Core estimation and control algorithms (Kalman, MEKF, MPC)." alt="" coords="180,5,308,32"/>
+<area shape="rect" id="Node000001" title="High&#45;level modules related to flight management, estimation, and control." alt="" coords="5,35,126,61"/>
+<area shape="rect" id="Node000002" href="$group___flight_state.html" title="Manages the rocket&#39;s flight phase from calibration to touchdown." alt="" coords="174,56,315,99"/>
+</map>

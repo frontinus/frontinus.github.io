@@ -1,0 +1,7 @@
+<map id="lsm6dso32_6d_threshold_set" name="lsm6dso32_6d_threshold_set">
+<area shape="rect" id="Node000001" title="Threshold for 4D/6D function.[set]." alt="" coords="5,31,196,57"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="245,5,386,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,30,229,26,230,31,196,35"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="244,56,388,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,53,229,56,228,62,195,58"/>
+</map>

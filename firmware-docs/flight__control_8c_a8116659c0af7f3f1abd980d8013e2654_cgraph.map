@@ -1,0 +1,7 @@
+<map id="check_Main_phase" name="check_Main_phase">
+<area shape="rect" id="Node000001" title="Handler for the MAIN state (descent under main parachute)." alt="" coords="5,5,139,32"/>
+<area shape="rect" id="Node000002" href="$flight__control_8c.html#ac501a7c6c60c2b8c9cd9d0e7d328c80c" title="Handles the mechanics of a state transition." alt="" coords="187,5,304,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,16,171,16,171,21,139,21"/>
+<area shape="rect" id="Node000003" href="$flight__control_8c.html#a2453e798beaa2b27f6468db201f7861a" title=" " alt="" coords="352,5,484,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="304,16,336,16,336,21,304,21"/>
+</map>

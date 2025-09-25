@@ -1,0 +1,7 @@
+<map id="lsm6dso32_gy_lp1_bandwidth_set" name="lsm6dso32_gy_lp1_bandwidth_set">
+<area shape="rect" id="Node000001" title="Gyroscope lp1 bandwidth.[set]." alt="" coords="5,31,226,57"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="275,5,416,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,29,259,25,260,31,226,35"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="274,56,418,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,53,258,57,258,62,226,59"/>
+</map>

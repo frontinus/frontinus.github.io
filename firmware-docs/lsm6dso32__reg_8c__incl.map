@@ -1,0 +1,13 @@
+<map id="Davinci_2/Core/Src/lsm6dso32_reg.c" name="Davinci_2/Core/Src/lsm6dso32_reg.c">
+<area shape="rect" id="Node000001" title="LSM6DSO32 driver file." alt="" coords="118,5,253,48"/>
+<area shape="rect" id="Node000002" href="$lsm6dso32__reg_8h.html" title="This file contains all the functions prototypes for the lsm6dso32_reg.c driver." alt="" coords="68,96,188,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,50,148,85,144,82,169,47"/>
+<area shape="rect" id="Node000006" href="$main_8h.html" title=": Header for main.c file. This file contains the common defines of the application." alt="" coords="213,96,273,123"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="202,47,227,82,223,85,198,50"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,171,70,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,125,66,163,63,159,111,121"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="94,171,162,197"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="131,123,131,155,126,155,126,123"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="187,171,248,197"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="145,121,192,159,189,163,142,125"/>
+</map>

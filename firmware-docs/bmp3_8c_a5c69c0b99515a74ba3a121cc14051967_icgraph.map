@@ -1,0 +1,5 @@
+<map id="get_sensor_status" name="get_sensor_status">
+<area shape="rect" id="Node000001" title="This internal API fills the fifo_config_1(fifo_mode, fifo_stop_on_full, fifo_time_en,..." alt="" coords="175,5,303,32"/>
+<area shape="rect" id="Node000002" href="$bmp3_8c.html#a61fadb14757875e006860607719e47f0" title="This API sets the fifo_config_1(fifo_mode, fifo_stop_on_full, fifo_time_en, fifo_press_en,..." alt="" coords="5,5,127,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,21,127,21,127,16,159,16"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="set_advance_settings" name="set_advance_settings">
+<area shape="rect" id="Node000001" title="This internal API sets the advance (i2c_wdt_en, i2c_wdt_sel) settings of the sensor based on the sett..." alt="" coords="483,31,632,57"/>
+<area shape="rect" id="Node000002" href="$bmp3_8c.html#a0a53f320e8c5a13d452bc24dfc7de58a" title="This API sets the power control(pressure enable and temperature enable), over sampling,..." alt="" coords="258,31,435,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="468,47,436,47,436,41,468,41"/>
+<area shape="rect" id="Node000003" href="$group__bmp3.html#ga5930eb3a2ebc74ef4996cb5cc0e835fc" title="Initializes the backup barometer (BMP390)." alt="" coords="103,5,210,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="242,33,210,28,211,23,243,27"/>
+<area shape="rect" id="Node000005" href="$group__bmp3.html#gab8d904a31124b1eca5f4922c14340746" title="Initializes the primary barometer (BMP390)." alt="" coords="104,56,209,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="243,61,210,65,209,60,242,55"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,31,55,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="88,35,55,42,54,37,87,30"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="88,58,55,52,56,46,89,53"/>
+</map>

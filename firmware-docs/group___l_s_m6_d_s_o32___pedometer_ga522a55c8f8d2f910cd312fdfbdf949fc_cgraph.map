@@ -1,0 +1,13 @@
+<map id="lsm6dso32_pedo_steps_period_get" name="lsm6dso32_pedo_steps_period_get">
+<area shape="rect" id="Node000001" title="Time period register for step detection on delta time (r/w).[get]." alt="" coords="5,23,164,65"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32__common.html#ga1e472ef1bfee2b46a3f02adb4081cd8e" title="Read a line(byte) in a page.[get]." alt="" coords="212,31,398,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,41,196,41,196,47,164,47"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32__common.html#ga42e20a310b0f7a40c07b4dce8d758f1a" title="Enable access to the embedded functions/sensor hub configuration registers.[set]." alt="" coords="446,31,626,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="399,41,430,41,430,47,399,47"/>
+<area shape="rect" id="Node000004" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="676,5,817,32"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="369,27,446,16,558,11,660,12,660,17,558,16,446,21,370,33"/>
+<area shape="rect" id="Node000005" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="674,68,819,95"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="373,55,446,67,557,75,659,78,659,84,557,80,446,72,372,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="626,30,660,26,661,32,627,36"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="615,55,659,63,658,68,614,61"/>
+</map>

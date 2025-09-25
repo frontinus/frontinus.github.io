@@ -1,0 +1,9 @@
+<map id="bmp3_settings" name="bmp3_settings">
+<area shape="rect" id="Node000001" title="bmp3 device settings" alt="" coords="215,96,322,123"/>
+<area shape="rect" id="Node000002" href="$structbmp3__odr__filter__settings.html" title="bmp3 odr and filter settings" alt="" coords="5,5,169,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,37,244,93,241,98,125,42"/>
+<area shape="rect" id="Node000003" href="$structbmp3__int__ctrl__settings.html" title="bmp3 interrupt pin settings" alt="" coords="192,5,344,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="271,48,271,95,266,95,266,48"/>
+<area shape="rect" id="Node000004" href="$structbmp3__adv__settings.html" title="bmp3 advance settings" alt="" coords="369,5,504,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="403,42,346,74,297,98,295,93,343,70,401,38"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="bmp3_get_fifo_length" name="bmp3_get_fifo_length">
+<area shape="rect" id="Node000001" title="This API gets the fifo length from the sensor." alt="" coords="5,5,151,32"/>
+<area shape="rect" id="Node000002" href="$bmp3_8c.html#a9e0c2cdecfdac8aa6ed4e35940f7ade7" title="This API reads the data from the given register address of the sensor." alt="" coords="199,5,309,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,16,183,16,183,21,151,21"/>
+<area shape="rect" id="Node000003" href="$bmp3_8c.html#a9db82f2117ddfa4eccef8a018e738aab" title="This internal API is used to validate the device pointer for null conditions." alt="" coords="357,5,462,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="310,16,341,16,341,21,310,21"/>
+</map>

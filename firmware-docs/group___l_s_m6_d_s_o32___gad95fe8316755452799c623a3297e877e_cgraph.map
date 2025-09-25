@@ -1,0 +1,13 @@
+<map id="lsm6dso32_mag_sensitivity_get" name="lsm6dso32_mag_sensitivity_get">
+<area shape="rect" id="Node000001" title="External magnetometer sensitivity value register.[get]." alt="" coords="5,31,213,57"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32__common.html#ga1e472ef1bfee2b46a3f02adb4081cd8e" title="Read a line(byte) in a page.[get]." alt="" coords="261,31,447,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,41,245,41,245,47,213,47"/>
+<area shape="rect" id="Node000003" href="$group___l_s_m6_d_s_o32__common.html#ga42e20a310b0f7a40c07b4dce8d758f1a" title="Enable access to the embedded functions/sensor hub configuration registers.[set]." alt="" coords="495,31,675,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="448,41,479,41,479,47,448,47"/>
+<area shape="rect" id="Node000004" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="725,5,866,32"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="418,27,495,16,607,11,709,12,709,17,607,16,495,21,419,33"/>
+<area shape="rect" id="Node000005" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga10d73a3b699323e6d046f70201e9e61a" title="Write generic device register." alt="" coords="723,68,868,95"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="422,55,495,67,606,75,708,78,708,84,606,80,495,72,421,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="675,30,709,26,710,32,676,36"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="664,55,708,63,707,68,663,61"/>
+</map>

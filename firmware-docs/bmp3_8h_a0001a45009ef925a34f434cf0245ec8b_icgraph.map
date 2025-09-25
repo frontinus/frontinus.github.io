@@ -1,0 +1,7 @@
+<map id="bmp3_get_sensor_data" name="bmp3_get_sensor_data">
+<area shape="rect" id="Node000001" title="This API reads the pressure, temperature or both data from the sensor, compensates the data and store..." alt="" coords="276,5,432,32"/>
+<area shape="rect" id="Node000002" href="$group___r_t_o_s___tasks.html#ga3271a69550bc5f9966c76521e5823891" title="Function implementing the Sensor_Task thread." alt="" coords="103,5,228,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,21,228,21,228,16,260,16"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
+</map>

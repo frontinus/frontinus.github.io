@@ -1,0 +1,5 @@
+<map id="lsm6dso32_device_id_get" name="lsm6dso32_device_id_get">
+<area shape="rect" id="Node000001" title="Device &quot;Who am I&quot;.[get]." alt="" coords="5,5,177,32"/>
+<area shape="rect" id="Node000002" href="$group___l_s_m6_d_s_o32___interfaces___functions.html#ga8a1c0ffbfeac9a6bc81cb213841ff622" title="Read generic device register." alt="" coords="225,5,366,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,16,209,16,209,21,177,21"/>
+</map>
