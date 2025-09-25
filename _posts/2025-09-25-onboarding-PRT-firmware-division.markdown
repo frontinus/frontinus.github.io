@@ -122,14 +122,14 @@ The structure is similar, centered around the `Marconi.ioc` file. The code is pr
 
 *   **Integration inside the rocket:** In the rocket we place various versions of our boards, in order for them to complete different tasks, to do so we divide the rocket in 3 areas, the nosecone, the top of the rocket, the avionics bay, our brain, and the airbrakes, located close to our brakes dispositive. The avnbay area is equipped with our most sophisticated material, a complete Marconi-DaVinci duo, with the Marconi also equipped with an XBEE that communicates with the airbrakes area, which is only containing a single Marconi, connected to the servomotor that controls the brakes, eventually in the nosecone there is also a Davinci-Marconi duo but not equipped with an XBEE.
 
-    ![Boards included in the rocket](/_posts/pics/struct.png)
+    ![Boards included in the rocket](/assets/pics/struct.png)
 
 
 *   **Turn-on Melody:** To confirm that onboard systems are active, the buzzer on each board plays a unique short melody at startup. This allows the launch crew to audibly distinguish between the Davinci and Marconi boards when they power on inside the rocket.
 
 *   **Flight State Machine (FSM):** The rocket's flight is modeled as a sequence of states. The FSM transitions between states based on sensor data. To prevent false triggers from noise, a transition only occurs if a condition is met for a certain number of consecutive checks. The diagram below illustrates the flight profile and the corresponding states.
 
-    ![Flight State Machine Profile](/_posts/pics/FSM1.png)
+    ![Flight State Machine Profile](/assets/pics/FSM1.png)
 
     *   **`INVALID`**: Error state, currently unused.
     *   **`CALIBRATION`**: Initial state on power-on.
