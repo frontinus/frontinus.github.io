@@ -8,6 +8,8 @@ author : "Francesco Abate"
 
 ---
 
+This article explains how the 2 boards of our avionic system work together
+
 # The Brain and Nerves: How Davinci and Marconi Work Together 🧠🔗📡
 
 In the PoliTo Rocket Team's avionics system, we don't rely on a single central computer. Instead, we use a distributed architecture built around two types of custom-designed boards: the Davinci Flight Computer (FC) and the Marconi Telemetry & Control board. Understanding how they collaborate is key to understanding our rocket's electronic heart.

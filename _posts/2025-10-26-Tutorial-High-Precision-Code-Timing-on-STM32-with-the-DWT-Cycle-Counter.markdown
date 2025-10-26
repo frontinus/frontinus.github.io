@@ -7,6 +7,8 @@ tags : ['Tutorial', 'Stm32', 'Embedded', 'PRT']
 author : "Francesco Abate"
 ---
 
+This article is a tutorial about how to measure actual execution time in the Davinci and Marconi project
+
 # ⏱ High-Precision Code Timing on STM32 with the DWT Cycle Counter
 
 Ever wondered exactly how long a specific part of your STM32 code takes to run? Whether you're debugging, optimizing critical sections, or verifying RTOS task timing, having a precise measurement tool is invaluable. While you could toggle GPIOs and use an oscilloscope, there's a built-in hardware feature on most ARM Cortex-M cores (like those in STM32s) perfect for the job: the DWT (Data Watchpoint and Trace) cycle counter.
