@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Marconi-DV Flight Computer Project (Doxyfile)"
+title: "The Marconi-DV Telemetry & Control board Project (Doxyfile)"
 date:   2025-10-26 12:24:00 -0500
 categories: projects
 tags : ['doxyfile', 'Documentation', 'firmware', 'PRT']
@@ -8,7 +8,7 @@ author : "Francesco Abate"
 
 ---
 
-This post details the software architecture for our advanced flight computer. 
+This post details the software architecture for our advanced Telemetry & Control board.
 The firmware is fully documented using Doxygen and is available for browsing.
 
 You can explore the complete, interactive documentation right here on our site:
