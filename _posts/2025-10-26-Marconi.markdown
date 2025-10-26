@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The DaVinci-M Flight Computer Project (Doxyfile)"
-date:   2025-09-25 23:21:41 +0100
+title: "The Marconi-DV Flight Computer Project (Doxyfile)"
+date:   2025-10-26 12:24:00 -0500
 categories: projects
 tags : ['doxyfile', 'Documentation', 'firmware', 'PRT']
 author : "Francesco Abate"
@@ -13,6 +13,6 @@ The firmware is fully documented using Doxygen and is available for browsing.
 
 You can explore the complete, interactive documentation right here on our site:
 
-[**View the Full Firmware Documentation**]({{ '/firmware-docs_1/index.html' | relative_url }})
+[**View the Full Firmware Documentation**]({{ '/firmware-docs_2/index.html' | relative_url }})
 
 This includes detailed call graphs, module hierarchies, and source code annotations.

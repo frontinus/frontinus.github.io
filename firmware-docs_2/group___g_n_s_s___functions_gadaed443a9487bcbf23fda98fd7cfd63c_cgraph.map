@@ -1,0 +1,13 @@
+<map id="gnss_ping" name="gnss_ping">
+<area shape="rect" id="Node000001" title="Pings the module to check for communication." alt="" coords="5,5,86,32"/>
+<area shape="rect" id="Node000002" href="$group___g_n_s_s___functions.html#ga48b9b6eecbc038a12467358826e5b040" title="Builds and transmits an NMEA sentence via blocking UART." alt="" coords="134,5,222,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,16,118,16,118,21,86,21"/>
+<area shape="rect" id="Node000003" href="$gnss_8c.html#af3d52964f8e8c4715d50e41af9d6ba56" title=" " alt="" coords="270,5,364,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="222,16,255,16,255,21,222,21"/>
+<area shape="rect" id="Node000004" href="$gnss_8c.html#a84bcdb32b8164d778407be08b61242ab" title=" " alt="" coords="412,5,519,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="365,16,397,16,397,21,365,21"/>
+<area shape="rect" id="Node000005" href="$gnss_8c.html#a8601aa8f9a6897039f13bc624b7c8808" title=" " alt="" coords="567,5,676,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="519,16,551,16,551,21,519,21"/>
+<area shape="rect" id="Node000006" href="$gnss_8c.html#aa041a08a9551a7f46ff0d67685305f4b" title=" " alt="" coords="724,5,836,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="676,16,708,16,708,21,676,21"/>
+</map>

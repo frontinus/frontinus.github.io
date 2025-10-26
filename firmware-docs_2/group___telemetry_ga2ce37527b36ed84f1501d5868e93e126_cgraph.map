@@ -1,0 +1,9 @@
+<map id="processMessage" name="processMessage">
+<area shape="rect" id="Node000001" title="Processes incoming commands from the Ground Station." alt="" coords="5,5,126,32"/>
+<area shape="rect" id="Node000002" href="$group___telemetry.html#ga29a04c6a560438bbd2874f3cf0fb5d64" title="Sets the LoRa module&#39;s RF channel using a register write." alt="" coords="174,5,301,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,16,158,16,158,21,126,21"/>
+<area shape="rect" id="Node000003" href="$group___e220___functions.html#ga97cfb0193d1ed6cd807cfb3750a3706b" title="Sets the module&#39;s channel and persistence using a direct register command." alt="" coords="349,5,467,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="301,16,334,16,334,21,301,21"/>
+<area shape="rect" id="Node000004" href="$group___e220___functions.html#ga5186d6d328aac24762acef26c46744a3" title="Waits for the E220&#39;s AUX pin to go to a HIGH state." alt="" coords="515,5,650,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="468,16,500,16,500,21,468,21"/>
+</map>

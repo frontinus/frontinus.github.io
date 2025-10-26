@@ -1,0 +1,7 @@
+<map id="E220_SendATCommand" name="E220_SendATCommand">
+<area shape="rect" id="Node000001" title="Sends an AT command string to the E220 module via UART DMA." alt="" coords="212,31,376,57"/>
+<area shape="rect" id="Node000002" href="$group___e220___functions.html#ga9505f517c8ff3613aa6222c6fad705b7" title="Changes the E220&#39;s operating channel using an AT command." alt="" coords="5,5,164,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,35,164,31,165,26,197,30"/>
+<area shape="rect" id="Node000003" href="$group___e220___functions.html#ga86dc5a312335e4578acbace6165ae9bb" title="Initializes the E220 LoRa module using AT commands." alt="" coords="35,56,134,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,58,135,66,134,61,196,53"/>
+</map>

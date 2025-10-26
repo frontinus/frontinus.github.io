@@ -1,0 +1,7 @@
+<map id="LoRa_SetChannel" name="LoRa_SetChannel">
+<area shape="rect" id="Node000001" title="Sets the LoRa module&#39;s RF channel using a register write." alt="" coords="5,5,133,32"/>
+<area shape="rect" id="Node000002" href="$group___e220___functions.html#ga97cfb0193d1ed6cd807cfb3750a3706b" title="Sets the module&#39;s channel and persistence using a direct register command." alt="" coords="181,5,299,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,16,165,16,165,21,133,21"/>
+<area shape="rect" id="Node000003" href="$group___e220___functions.html#ga5186d6d328aac24762acef26c46744a3" title="Waits for the E220&#39;s AUX pin to go to a HIGH state." alt="" coords="347,5,481,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="299,16,331,16,331,21,299,21"/>
+</map>

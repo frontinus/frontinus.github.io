@@ -1,0 +1,15 @@
+<map id="servo_ccr" name="servo_ccr">
+<area shape="rect" id="Node000001" title="Converts a normalized duty cycle (0.0 to 1.0) to a raw CCR value." alt="" coords="618,31,696,57"/>
+<area shape="rect" id="Node000002" href="$group___servo___functions.html#ga3e5a81782d961d67a20eac879247607e" title="Initializes the servo and its associated hardware timer." alt="" coords="465,5,543,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="602,38,543,28,543,22,603,32"/>
+<area shape="rect" id="Node000006" href="$group___servo___functions.html#gab22b84769e06f16b99bcf675d619593b" title="Commands the servo to move to a specific angle (in degrees)." alt="" coords="438,56,570,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="603,56,570,61,569,56,602,50"/>
+<area shape="rect" id="Node000003" href="$group___airbrake___control.html#gabfb2eb3c1f7228ddb9ae657b7d468c4c" title="Initializes the airbrake servo." alt="" coords="292,5,390,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="449,21,391,21,391,16,449,16"/>
+<area shape="rect" id="Node000004" href="$group___core.html#ga47881f56d1229e776c7b7c913222d254" title="RTOS Task: Received Package Handler." alt="" coords="103,31,244,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="277,31,245,36,244,31,276,26"/>
+<area shape="rect" id="Node000005" href="$group___core.html#ga840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,31,55,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,47,55,47,55,41,87,41"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="444,53,386,35,387,30,445,48"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="422,66,244,52,245,47,423,60"/>
+</map>

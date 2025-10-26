@@ -1,0 +1,5 @@
+<map id="RTOS Event Flags" name="RTOS Event Flags">
+<area shape="rect" id="Node000002" href="$group___core.html" title="Core system files, main application logic, and global definitions." alt="" coords="24,5,122,32"/>
+<area shape="rect" id="Node000001" title="Event flags used for task notification and synchronization." alt="" coords="189,31,320,57"/>
+<area shape="rect" id="Node000003" href="$group___r_t_o_s.html" title="All tasks, queues, semaphores, and mutexes for the real&#45;time operating system." alt="" coords="5,56,141,83"/>
+</map>

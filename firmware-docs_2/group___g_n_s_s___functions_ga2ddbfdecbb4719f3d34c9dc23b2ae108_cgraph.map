@@ -1,0 +1,25 @@
+<map id="gnss_config" name="gnss_config">
+<area shape="rect" id="Node000001" title="Configures the TESEO module for high&#45;speed operation and message filtering." alt="" coords="5,107,97,133"/>
+<area shape="rect" id="Node000002" href="$gnss_8c.html#a1de9ff4ab7ecbb994c35a14c7796a439" title=" " alt="" coords="145,5,274,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,104,143,48,163,37,166,42,146,53,70,108"/>
+<area shape="rect" id="Node000003" href="$group___g_n_s_s___functions.html#ga48b9b6eecbc038a12467358826e5b040" title="Builds and transmits an NMEA sentence via blocking UART." alt="" coords="322,107,410,133"/>
+<area shape="poly" id="edge13_Node000001_Node000003" title=" " alt="" coords="93,104,144,92,209,86,274,92,310,99,309,105,274,97,209,92,145,97,94,109"/>
+<area shape="rect" id="Node000008" href="$group___g_n_s_s___functions.html#gadaed443a9487bcbf23fda98fd7cfd63c" title="Pings the module to check for communication." alt="" coords="169,107,250,133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="97,117,154,117,154,123,97,123"/>
+<area shape="rect" id="Node000009" href="$group___g_n_s_s___functions.html#gaa7e498a3d63b13c084f1024377d6e0d3" title="Performs a software reset of the TESEO module." alt="" coords="167,157,252,184"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="96,131,153,150,151,155,94,137"/>
+<area shape="rect" id="Node000010" href="$group___g_n_s_s___functions.html#ga853c438cda78d33b86cf86dc750405ce" title="Saves the current configuration to the TESEO&#39;s non&#45;volatile memory." alt="" coords="167,208,252,235"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="68,132,102,162,146,194,155,199,152,203,143,198,99,166,65,136"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="242,30,275,48,339,95,336,99,273,53,240,35"/>
+<area shape="rect" id="Node000004" href="$gnss_8c.html#af3d52964f8e8c4715d50e41af9d6ba56" title=" " alt="" coords="458,107,553,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="411,117,443,117,443,123,411,123"/>
+<area shape="rect" id="Node000005" href="$gnss_8c.html#a84bcdb32b8164d778407be08b61242ab" title=" " alt="" coords="601,107,707,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="553,117,585,117,585,123,553,123"/>
+<area shape="rect" id="Node000006" href="$gnss_8c.html#a8601aa8f9a6897039f13bc624b7c8808" title=" " alt="" coords="755,107,864,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="707,117,740,117,740,123,707,123"/>
+<area shape="rect" id="Node000007" href="$gnss_8c.html#aa041a08a9551a7f46ff0d67685305f4b" title=" " alt="" coords="912,107,1025,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="865,117,896,117,896,123,865,123"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="250,117,307,117,307,123,250,123"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="252,154,307,136,309,141,253,159"/>
+<area shape="poly" id="edge12_Node000010_Node000003" title=" " alt="" coords="250,205,273,194,308,169,339,142,342,146,311,173,275,198,252,210"/>
+</map>

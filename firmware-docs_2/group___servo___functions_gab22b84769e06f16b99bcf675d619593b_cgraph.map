@@ -1,0 +1,9 @@
+<map id="servo_moveto_deg" name="servo_moveto_deg">
+<area shape="rect" id="Node000001" title="Commands the servo to move to a specific angle (in degrees)." alt="" coords="5,56,137,83"/>
+<area shape="rect" id="Node000002" href="$group___servo___functions.html#gafaf3ea0f001ba69619e04cf012d21bab" title="Converts a normalized duty cycle (0.0 to 1.0) to a raw CCR value." alt="" coords="208,5,286,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,53,192,32,193,37,121,58"/>
+<area shape="rect" id="Node000003" href="$group___servo___functions.html#ga57902f8486cfc32a35803816a4281757" title="Converts an angle (in degrees) to a normalized duty cycle (0.0 to 1.0)." alt="" coords="189,56,305,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,67,173,67,173,72,137,72"/>
+<area shape="rect" id="Node000004" href="$group___servo___functions.html#ga2c7ce62035532b3fbcb144984a6cce2d" title="Directly updates the timer&#39;s hardware CCR register." alt="" coords="185,107,309,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="121,81,184,99,182,104,119,86"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Core/Inc/e220.h" name="Core/Inc/e220.h">
+<area shape="rect" id="Node000001" title="Driver for the Ebyte E220 LoRa module." alt="" coords="127,5,241,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,123,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,35,99,74,97,69,162,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="147,80,221,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,33,187,64,181,64,181,33"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="245,80,310,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,30,251,68,248,73,199,35"/>
+</map>

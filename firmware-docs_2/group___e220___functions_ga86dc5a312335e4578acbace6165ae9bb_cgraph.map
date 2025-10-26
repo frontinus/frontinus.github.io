@@ -1,0 +1,7 @@
+<map id="E220_Init_AT" name="E220_Init_AT">
+<area shape="rect" id="Node000001" title="Initializes the E220 LoRa module using AT commands." alt="" coords="5,31,105,57"/>
+<area shape="rect" id="Node000002" href="$group___e220___functions.html#ga85eb0844ac1fa6958cc1d33e216c22a4" title="Sends an AT command string to the E220 module via UART DMA." alt="" coords="153,5,317,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,34,137,30,137,35,106,40"/>
+<area shape="rect" id="Node000003" href="$group___e220___functions.html#gaacc524f6ca0831f6e5e603b79254430c" title="Waits for a response from the E220 module after sending an AT command." alt="" coords="154,56,316,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="106,48,139,53,138,58,105,54"/>
+</map>

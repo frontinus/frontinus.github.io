@@ -1,0 +1,5 @@
+<map id="Note Definitions" name="Note Definitions">
+<area shape="rect" id="Node000003" href="$group___buzzer.html" title="Provides functions and data for playing melodies on a PWM buzzer (TIM11)." alt="" coords="5,5,114,32"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="162,31,277,57"/>
+<area shape="rect" id="Node000002" href="$group___core.html" title="Core system files, main application logic, and global definitions." alt="" coords="10,56,109,83"/>
+</map>

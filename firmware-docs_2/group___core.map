@@ -1,0 +1,19 @@
+<map id="System Core" name="System Core">
+<area shape="rect" id="Node000008" href="$group___buzzer.html" title="Provides functions and data for playing melodies on a PWM buzzer (TIM11)." alt="" coords="216,5,324,32"/>
+<area shape="rect" id="Node000009" href="$group___buzzer___notes.html" title=" " alt="" coords="212,59,328,85"/>
+<area shape="rect" id="Node000010" href="$group___buzzer___tempo.html" title=" " alt="" coords="207,109,333,136"/>
+<area shape="rect" id="Node000001" title="Core system files, main application logic, and global definitions." alt="" coords="5,363,104,389"/>
+<area shape="rect" id="Node000002" href="$group___core___config.html" title="Defines related to the board&#39;s identity and core functionality." alt="" coords="205,160,335,187"/>
+<area shape="rect" id="Node000015" href="$group___data___storage.html" title="Manages on&#45;board non&#45;volatile memory." alt="" coords="221,211,319,237"/>
+<area shape="rect" id="Node000005" href="$group___e_e_p_r_o_m___config.html" title="Constants for the 24LC512 EEPROM driver." alt="" coords="190,261,350,288"/>
+<area shape="rect" id="Node000007" href="$group___global___state___variables.html" title=" " alt="" coords="195,312,345,339"/>
+<area shape="rect" id="Node000004" href="$group___peripheral___config.html" title="Hardware&#45;related constants for peripherals like ADC and I2C." alt="" coords="190,363,350,389"/>
+<area shape="rect" id="Node000013" href="$group___peripherals.html" title="Low&#45;level HAL handles and pin definitions." alt="" coords="207,413,332,440"/>
+<area shape="rect" id="Node000003" href="$group___r_t_o_s___events.html" title="Event flags used for task notification and synchronization." alt="" coords="204,464,336,491"/>
+<area shape="rect" id="Node000012" href="$group___r_t_o_s___task___periods.html" title="Defines the execution periods for various RTOS tasks in milliseconds." alt="" coords="202,515,338,541"/>
+<area shape="rect" id="Node000016" href="$group___r_t_o_s___tasks.html" title=" " alt="" coords="220,565,320,592"/>
+<area shape="rect" id="Node000017" href="$group___r_t_o_s___timers.html" title=" " alt="" coords="218,616,322,643"/>
+<area shape="rect" id="Node000011" href="$group___system___callbacks.html" title="HAL interrupt and event callback implementations." alt="" coords="180,667,360,693"/>
+<area shape="rect" id="Node000014" href="$group___telemetry.html" title="Communication with the Ground Station." alt="" coords="231,717,309,744"/>
+<area shape="rect" id="Node000006" href="$group___telemetry___buffers.html" title=" " alt="" coords="202,768,338,811"/>
+</map>

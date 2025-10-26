@@ -1,0 +1,5 @@
+<map id="E220_WaitForResponse" name="E220_WaitForResponse">
+<area shape="rect" id="Node000001" title="Waits for a response from the E220 module after sending an AT command." alt="" coords="153,5,315,32"/>
+<area shape="rect" id="Node000002" href="$group___e220___functions.html#ga86dc5a312335e4578acbace6165ae9bb" title="Initializes the E220 LoRa module using AT commands." alt="" coords="5,5,105,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,21,105,21,105,16,137,16"/>
+</map>

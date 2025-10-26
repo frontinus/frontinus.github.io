@@ -1,0 +1,14 @@
+<map id="airbrakes_init" name="airbrakes_init">
+<area shape="rect" id="Node000001" title="Initializes the airbrake servo." alt="" coords="5,31,104,57"/>
+<area shape="rect" id="Node000002" href="$group___servo___functions.html#ga3e5a81782d961d67a20eac879247607e" title="Initializes the servo and its associated hardware timer." alt="" coords="179,5,256,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,34,163,24,164,30,105,39"/>
+<area shape="rect" id="Node000004" href="$group___servo___functions.html#gab22b84769e06f16b99bcf675d619593b" title="Commands the servo to move to a specific angle (in degrees)." alt="" coords="152,56,283,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="105,49,137,54,136,59,104,54"/>
+<area shape="rect" id="Node000003" href="$group___servo___functions.html#gafaf3ea0f001ba69619e04cf012d21bab" title="Converts a normalized duty cycle (0.0 to 1.0) to a raw CCR value." alt="" coords="354,5,432,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="256,16,339,16,339,21,256,21"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="266,53,338,32,340,37,267,58"/>
+<area shape="rect" id="Node000005" href="$group___servo___functions.html#ga57902f8486cfc32a35803816a4281757" title="Converts an angle (in degrees) to a normalized duty cycle (0.0 to 1.0)." alt="" coords="335,56,451,83"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="284,67,319,67,319,72,284,72"/>
+<area shape="rect" id="Node000006" href="$group___servo___functions.html#ga2c7ce62035532b3fbcb144984a6cce2d" title="Directly updates the timer&#39;s hardware CCR register." alt="" coords="331,107,455,133"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="267,81,330,99,329,104,266,86"/>
+</map>

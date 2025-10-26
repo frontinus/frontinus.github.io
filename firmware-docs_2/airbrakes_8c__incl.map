@@ -1,0 +1,17 @@
+<map id="Core/Src/airbrakes.c" name="Core/Src/airbrakes.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="47,5,188,32"/>
+<area shape="rect" id="Node000002" href="$main_8h.html" title=": Header for main.c file. This file contains the common defines of the application." alt="" coords="167,155,228,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,31,155,52,174,79,187,109,195,139,190,140,182,111,170,81,151,55,130,34"/>
+<area shape="rect" id="Node000005" href="$servo_8h.html" title="General purpose portable library for driving servo motors." alt="" coords="5,229,70,256"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="104,34,83,55,65,81,53,115,45,151,40,214,34,214,40,150,48,114,60,79,79,52,100,31"/>
+<area shape="rect" id="Node000006" href="$airbrakes_8h.html" title="Controls the airbrake system using a servo motor." alt="" coords="75,80,160,107"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="120,33,120,64,115,64,115,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="144,304,262,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="229,170,258,175,290,186,321,203,345,228,351,241,351,253,337,274,310,290,277,302,275,297,308,285,333,270,346,252,346,242,341,231,317,207,288,191,256,181,228,175"/>
+<area shape="rect" id="Node000004" href="$_f_l_i_g_h_t___p_a_r_a_m_e_t_e_r_s___c_o_n_f_i_g_8h.html" title="Global configuration parameters for the Marconi flight computer." alt="" coords="94,229,331,256"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="203,181,209,214,204,215,197,182"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="171,184,80,225,78,220,169,179"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="67,254,161,295,159,300,65,259"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="133,105,174,142,171,146,130,109"/>
+<area shape="poly" id="edge9_Node000006_Node000005" title=" " alt="" coords="113,108,54,217,49,214,108,106"/>
+</map>

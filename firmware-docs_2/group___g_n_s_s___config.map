@@ -1,0 +1,6 @@
+<map id="Configuration Constants" name="Configuration Constants">
+<area shape="rect" id="Node000001" title="Defines for buffer sizes, NMEA parsing, and TESEO module setup." alt="" coords="181,47,343,73"/>
+<area shape="rect" id="Node000003" href="$group___n_m_e_a___parser___codes.html" title=" " alt="" coords="392,5,537,48"/>
+<area shape="rect" id="Node000004" href="$group___t_e_s_e_o___config___values.html" title="Specific constant values used for configuring the TESEO module." alt="" coords="391,72,538,115"/>
+<area shape="rect" id="Node000002" href="$group___g_n_s_s___positioning.html" title="Manages the TESEO GNSS module." alt="" coords="5,47,133,73"/>
+</map>

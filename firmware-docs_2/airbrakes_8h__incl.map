@@ -1,0 +1,13 @@
+<map id="Core/Inc/airbrakes.h" name="Core/Inc/airbrakes.h">
+<area shape="rect" id="Node000001" title="Controls the airbrake system using a servo motor." alt="" coords="160,5,299,32"/>
+<area shape="rect" id="Node000002" href="$main_8h.html" title=": Header for main.c file. This file contains the common defines of the application." alt="" coords="166,80,226,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,34,211,67,206,65,221,31"/>
+<area shape="rect" id="Node000005" href="$servo_8h.html" title="General purpose portable library for driving servo motors." alt="" coords="285,155,350,181"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="239,31,304,140,300,143,235,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="93,229,211,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="166,97,129,100,87,110,46,127,29,140,14,156,9,167,9,177,13,186,21,195,47,210,80,222,78,227,45,215,18,199,9,189,4,178,4,166,10,153,25,136,44,123,85,104,128,95,165,92"/>
+<area shape="rect" id="Node000004" href="$_f_l_i_g_h_t___p_a_r_a_m_e_t_e_r_s___c_o_n_f_i_g_8h.html" title="Global configuration parameters for the Marconi flight computer." alt="" coords="24,155,261,181"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="189,109,163,144,159,141,185,106"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="219,105,284,144,282,149,216,110"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="290,184,196,225,194,220,288,179"/>
+</map>

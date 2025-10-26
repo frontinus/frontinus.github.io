@@ -1,0 +1,5 @@
+<map id="SetConfiguration" name="SetConfiguration">
+<area shape="rect" id="Node000001" title="Sets the module&#39;s channel and persistence using a direct register command." alt="" coords="5,5,124,32"/>
+<area shape="rect" id="Node000002" href="$group___e220___functions.html#ga5186d6d328aac24762acef26c46744a3" title="Waits for the E220&#39;s AUX pin to go to a HIGH state." alt="" coords="172,5,306,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,16,156,16,156,21,124,21"/>
+</map>

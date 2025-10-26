@@ -1,0 +1,5 @@
+<map id="E220_Change_Channel" name="E220_Change_Channel">
+<area shape="rect" id="Node000001" title="Changes the E220&#39;s operating channel using an AT command." alt="" coords="5,5,164,32"/>
+<area shape="rect" id="Node000002" href="$group___e220___functions.html#ga85eb0844ac1fa6958cc1d33e216c22a4" title="Sends an AT command string to the E220 module via UART DMA." alt="" coords="212,5,376,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,16,196,16,196,21,164,21"/>
+</map>

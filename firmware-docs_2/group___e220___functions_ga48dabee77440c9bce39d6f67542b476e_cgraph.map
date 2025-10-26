@@ -1,0 +1,5 @@
+<map id="E220_ReadConfiguration_RegisterMode" name="E220_ReadConfiguration_RegisterMode">
+<area shape="rect" id="Node000001" title="Reads the E220 module configuration using direct register reads." alt="" coords="5,5,172,48"/>
+<area shape="rect" id="Node000002" href="$group___e220___functions.html#ga5186d6d328aac24762acef26c46744a3" title="Waits for the E220&#39;s AUX pin to go to a HIGH state." alt="" coords="220,13,354,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,24,204,24,204,29,172,29"/>
+</map>

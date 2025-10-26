@@ -1,0 +1,7 @@
+<map id="processMessage" name="processMessage">
+<area shape="rect" id="Node000001" title="Processes incoming commands from the Ground Station." alt="" coords="319,5,439,32"/>
+<area shape="rect" id="Node000002" href="$group___core.html#ga00a499fcbb90d3ab74786272380a3472" title="RTOS Task: LoRa Command Task." alt="" coords="103,5,271,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="303,21,271,21,271,16,303,16"/>
+<area shape="rect" id="Node000003" href="$group___core.html#ga840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
+</map>

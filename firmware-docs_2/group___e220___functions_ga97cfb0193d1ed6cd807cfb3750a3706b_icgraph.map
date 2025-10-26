@@ -1,0 +1,11 @@
+<map id="SetConfiguration" name="SetConfiguration">
+<area shape="rect" id="Node000001" title="Sets the module&#39;s channel and persistence using a direct register command." alt="" coords="663,5,781,32"/>
+<area shape="rect" id="Node000002" href="$group___telemetry.html#ga29a04c6a560438bbd2874f3cf0fb5d64" title="Sets the LoRa module&#39;s RF channel using a register write." alt="" coords="487,5,615,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="647,21,615,21,615,16,647,16"/>
+<area shape="rect" id="Node000003" href="$group___telemetry.html#ga2ce37527b36ed84f1501d5868e93e126" title="Processes incoming commands from the Ground Station." alt="" coords="319,5,439,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="472,21,440,21,440,16,472,16"/>
+<area shape="rect" id="Node000004" href="$group___core.html#ga00a499fcbb90d3ab74786272380a3472" title="RTOS Task: LoRa Command Task." alt="" coords="103,5,271,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="303,21,271,21,271,16,303,16"/>
+<area shape="rect" id="Node000005" href="$group___core.html#ga840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
+</map>

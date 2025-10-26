@@ -1,0 +1,9 @@
+<map id="Telemetry" name="Telemetry">
+<area shape="rect" id="Node000002" href="$group___core.html" title="Core system files, main application logic, and global definitions." alt="" coords="5,107,104,133"/>
+<area shape="rect" id="Node000001" title="Communication with the Ground Station." alt="" coords="153,107,231,133"/>
+<area shape="rect" id="Node000006" href="$group___e220___functions.html" title="Public functions for controlling the E220 LoRa module." alt="" coords="436,5,588,32"/>
+<area shape="rect" id="Node000004" href="$group___e220___g_p_i_o___definitions.html" title="GPIO pin definitions mapping to the E220 module&#39;s control lines." alt="" coords="412,56,612,83"/>
+<area shape="rect" id="Node000005" href="$group___e220___register___addresses.html" title="Address offsets for the module&#39;s internal configuration registers." alt="" coords="413,107,611,133"/>
+<area shape="rect" id="Node000007" href="$group___global___state___variables.html" title=" " alt="" coords="437,157,587,184"/>
+<area shape="rect" id="Node000003" href="$group___telemetry___buffers.html" title=" " alt="" coords="444,208,580,251"/>
+</map>

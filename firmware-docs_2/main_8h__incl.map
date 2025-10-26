@@ -1,0 +1,10 @@
+<map id="Core/Inc/main.h" name="Core/Inc/main.h">
+<area shape="rect" id="Node000001" title=": Header for main.c file. This file contains the common defines of the application." alt="" coords="85,5,199,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="93,155,210,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,35,55,47,26,63,15,73,10,83,9,93,14,105,26,120,42,133,79,150,77,155,39,137,23,124,9,108,3,94,4,81,11,69,22,59,53,42,88,30"/>
+<area shape="rect" id="Node000003" href="$_f_l_i_g_h_t___p_a_r_a_m_e_t_e_r_s___c_o_n_f_i_g_8h.html" title="Global configuration parameters for the Marconi flight computer." alt="" coords="23,80,261,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,33,145,64,139,64,139,33"/>
+<area shape="rect" id="Node000004" href="$servo_8h.html" title="General purpose portable library for driving servo motors." alt="" coords="285,80,349,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="173,30,273,71,271,76,171,35"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="289,110,196,150,193,145,287,105"/>
+</map>

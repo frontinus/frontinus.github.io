@@ -1,0 +1,19 @@
+<map id="StartReceived_Pckg" name="StartReceived_Pckg">
+<area shape="rect" id="Node000001" title="RTOS Task: Received Package Handler." alt="" coords="5,56,147,83"/>
+<area shape="rect" id="Node000002" href="$group___airbrake___control.html#gabfb2eb3c1f7228ddb9ae657b7d468c4c" title="Initializes the airbrake servo." alt="" coords="196,5,294,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,53,183,34,185,39,124,58"/>
+<area shape="rect" id="Node000005" href="$group___servo___functions.html#gab22b84769e06f16b99bcf675d619593b" title="Commands the servo to move to a specific angle (in degrees)." alt="" coords="344,56,475,83"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="147,67,329,67,329,72,147,72"/>
+<area shape="rect" id="Node000008" href="$group___core.html#ga1730ffe1e560465665eb47d9264826f9" title="This function is executed in case of error occurrence." alt="" coords="195,107,296,133"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="124,81,185,99,183,104,123,86"/>
+<area shape="rect" id="Node000003" href="$group___servo___functions.html#ga3e5a81782d961d67a20eac879247607e" title="Initializes the servo and its associated hardware timer." alt="" coords="371,5,448,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="295,16,355,16,355,21,295,21"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="292,30,350,48,349,53,290,35"/>
+<area shape="rect" id="Node000004" href="$group___servo___functions.html#gafaf3ea0f001ba69619e04cf012d21bab" title="Converts a normalized duty cycle (0.0 to 1.0) to a raw CCR value." alt="" coords="546,5,625,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="449,16,531,16,531,21,449,21"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="458,53,531,32,532,37,460,58"/>
+<area shape="rect" id="Node000006" href="$group___servo___functions.html#ga57902f8486cfc32a35803816a4281757" title="Converts an angle (in degrees) to a normalized duty cycle (0.0 to 1.0)." alt="" coords="527,56,644,83"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="476,67,512,67,512,72,476,72"/>
+<area shape="rect" id="Node000007" href="$group___servo___functions.html#ga2c7ce62035532b3fbcb144984a6cce2d" title="Directly updates the timer&#39;s hardware CCR register." alt="" coords="523,107,648,133"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="460,81,523,99,521,104,458,86"/>
+</map>

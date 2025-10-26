@@ -1,0 +1,20 @@
+<map id="E220_WaitAuxHigh" name="E220_WaitAuxHigh">
+<area shape="rect" id="Node000001" title="Waits for the E220&#39;s AUX pin to go to a HIGH state." alt="" coords="909,109,1043,136"/>
+<area shape="rect" id="Node000002" href="$group___e220___functions.html#ga48dabee77440c9bce39d6f67542b476e" title="Reads the E220 module configuration using direct register reads." alt="" coords="695,5,861,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="938,104,860,62,834,51,837,46,862,58,940,99"/>
+<area shape="rect" id="Node000003" href="$group___e220___functions.html#gade15c0ad644c38f7c962a45d21bf52f9" title="Sets the E220 configuration using direct register writes." alt="" coords="700,72,856,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="893,113,856,108,857,102,894,108"/>
+<area shape="rect" id="Node000004" href="$group___e220___functions.html#ga97cfb0193d1ed6cd807cfb3750a3706b" title="Sets the module&#39;s channel and persistence using a direct register command." alt="" coords="719,139,837,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="894,137,838,146,837,141,893,132"/>
+<area shape="rect" id="Node000009" href="$group___core.html#ga695c3eac45169a6f5615a358d57f67da" title="RTOS Task: LoRa Transmit Task." alt="" coords="487,189,647,216"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="940,146,903,165,862,180,807,192,750,200,647,206,647,201,750,195,806,187,860,175,901,160,938,142"/>
+<area shape="rect" id="Node000005" href="$group___telemetry.html#ga29a04c6a560438bbd2874f3cf0fb5d64" title="Sets the LoRa module&#39;s RF channel using a register write." alt="" coords="503,139,631,165"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="703,155,631,155,631,149,703,149"/>
+<area shape="rect" id="Node000006" href="$group___telemetry.html#ga2ce37527b36ed84f1501d5868e93e126" title="Processes incoming commands from the Ground Station." alt="" coords="319,139,439,165"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="488,155,440,155,440,149,488,149"/>
+<area shape="rect" id="Node000007" href="$group___core.html#ga00a499fcbb90d3ab74786272380a3472" title="RTOS Task: LoRa Command Task." alt="" coords="103,139,271,165"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="303,155,271,155,271,149,303,149"/>
+<area shape="rect" id="Node000008" href="$group___core.html#ga840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,164,55,191"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="88,171,55,176,55,171,87,166"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="472,201,55,181,55,176,472,196"/>
+</map>

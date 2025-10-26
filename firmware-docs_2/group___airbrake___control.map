@@ -1,0 +1,6 @@
+<map id="Airbrake Control" name="Airbrake Control">
+<area shape="rect" id="Node000001" title="Manages the airbrake servo system." alt="" coords="5,56,121,83"/>
+<area shape="rect" id="Node000002" href="$group___airbrake___servo___config.html" title="Constants defining the servo&#39;s pulse widths, angle limits, and hardware resources." alt="" coords="169,5,357,32"/>
+<area shape="rect" id="Node000004" href="$group___servo___functions.html" title="Public API for controlling a servo motor." alt="" coords="185,56,340,83"/>
+<area shape="rect" id="Node000003" href="$group___servo___timing___config.html" title="Default hardware timing constants for PWM generation." alt="" coords="173,107,353,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="E220 LoRa Module GPIO Pins" name="E220 LoRa Module GPIO Pins">
+<area shape="rect" id="Node000001" title="GPIO pin definitions mapping to the E220 module&#39;s control lines." alt="" coords="132,5,331,32"/>
+<area shape="rect" id="Node000002" href="$group___telemetry.html" title="Communication with the Ground Station." alt="" coords="5,5,84,32"/>
+</map>

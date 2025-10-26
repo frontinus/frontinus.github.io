@@ -1,0 +1,27 @@
+<map id="set_checksum" name="set_checksum">
+<area shape="rect" id="Node000001" title=" " alt="" coords="819,59,926,85"/>
+<area shape="rect" id="Node000002" href="$gnss_8c.html#af3d52964f8e8c4715d50e41af9d6ba56" title=" " alt="" coords="677,59,771,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="804,75,772,75,772,69,804,69"/>
+<area shape="rect" id="Node000003" href="$group___g_n_s_s___functions.html#ga1728a97c61c0b60ae2eaefec878df9eb" title="Builds a complete, checksummed NMEA sentence in a buffer." alt="" coords="541,33,628,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="661,63,629,57,630,52,662,58"/>
+<area shape="rect" id="Node000004" href="$group___g_n_s_s___functions.html#ga48b9b6eecbc038a12467358826e5b040" title="Builds and transmits an NMEA sentence via blocking UART." alt="" coords="541,84,629,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="662,86,630,92,629,87,661,81"/>
+<area shape="rect" id="Node000005" href="$group___g_n_s_s___functions.html#ga2ddbfdecbb4719f3d34c9dc23b2ae108" title="Configures the TESEO module for high&#45;speed operation and message filtering." alt="" coords="224,84,315,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="543,77,539,74,525,59,516,46,507,34,491,24,457,12,429,8,400,13,364,24,340,36,317,52,284,86,280,82,314,48,337,32,362,19,398,7,428,3,458,6,494,19,511,30,520,42,529,56,542,70,546,73"/>
+<area shape="rect" id="Node000008" href="$gnss_8c.html#a1de9ff4ab7ecbb994c35a14c7796a439" title=" " alt="" coords="363,33,493,60"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="526,81,471,63,473,58,528,76"/>
+<area shape="rect" id="Node000009" href="$group___g_n_s_s___functions.html#gadaed443a9487bcbf23fda98fd7cfd63c" title="Pings the module to check for communication." alt="" coords="388,84,468,111"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="525,100,469,100,469,95,525,95"/>
+<area shape="rect" id="Node000010" href="$group___g_n_s_s___functions.html#gaa7e498a3d63b13c084f1024377d6e0d3" title="Performs a software reset of the TESEO module." alt="" coords="385,135,471,161"/>
+<area shape="poly" id="edge11_Node000004_Node000010" title=" " alt="" coords="528,119,472,137,470,132,526,113"/>
+<area shape="rect" id="Node000011" href="$group___g_n_s_s___functions.html#ga853c438cda78d33b86cf86dc750405ce" title="Saves the current configuration to the TESEO&#39;s non&#45;volatile memory." alt="" coords="386,185,470,212"/>
+<area shape="poly" id="edge13_Node000004_Node000011" title=" " alt="" coords="561,124,530,150,494,176,471,187,469,182,491,171,527,146,557,120"/>
+<area shape="rect" id="Node000006" href="$group___g_n_s_s___functions.html#gaa07776446f0638e6040950c11aed993f" title="Initializes the GNSS module." alt="" coords="103,84,176,111"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="209,100,177,100,177,95,209,95"/>
+<area shape="rect" id="Node000007" href="$group___core.html#ga840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,84,55,111"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="87,100,55,100,55,95,87,95"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="370,68,315,86,313,81,369,63"/>
+<area shape="poly" id="edge10_Node000009_Node000005" title=" " alt="" coords="372,100,316,100,316,95,372,95"/>
+<area shape="poly" id="edge12_Node000010_Node000005" title=" " alt="" coords="370,132,313,114,315,109,371,127"/>
+<area shape="poly" id="edge14_Node000011_Node000005" title=" " alt="" coords="371,181,362,176,318,144,283,113,287,109,321,140,365,171,374,176"/>
+</map>

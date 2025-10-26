@@ -1,0 +1,6 @@
+<map id="Buzzer Control" name="Buzzer Control">
+<area shape="rect" id="Node000001" title="Provides functions and data for playing melodies on a PWM buzzer (TIM11)." alt="" coords="5,75,114,101"/>
+<area shape="rect" id="Node000003" href="$group___buzzer___notes.html" title=" " alt="" coords="195,5,310,32"/>
+<area shape="rect" id="Node000004" href="$group___buzzer___tempo.html" title=" " alt="" coords="190,56,316,83"/>
+<area shape="rect" id="Node000002" href="$group___core.html" title="Core system files, main application logic, and global definitions." alt="" coords="204,121,302,148"/>
+</map>

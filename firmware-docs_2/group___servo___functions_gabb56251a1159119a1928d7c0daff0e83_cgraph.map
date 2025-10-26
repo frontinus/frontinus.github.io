@@ -1,0 +1,9 @@
+<map id="servo_rawmove" name="servo_rawmove">
+<area shape="rect" id="Node000001" title="Commands the servo by writing a raw CCR (pulse width) value." alt="" coords="5,56,119,83"/>
+<area shape="rect" id="Node000002" href="$group___servo___functions.html#ga219d8f6df00abd9b9bc479385bf20228" title="Converts a normalized duty cycle (0.0 to 1.0) to an angle (in degrees)." alt="" coords="192,5,283,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,53,176,33,178,39,112,58"/>
+<area shape="rect" id="Node000003" href="$group___servo___functions.html#ga5b1852c18a738110cbb82300aa8e0732" title="Converts a raw CCR value to a normalized duty cycle (0.0 to 1.0)." alt="" coords="167,56,308,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,67,152,67,152,72,119,72"/>
+<area shape="rect" id="Node000004" href="$group___servo___functions.html#ga2c7ce62035532b3fbcb144984a6cce2d" title="Directly updates the timer&#39;s hardware CCR register." alt="" coords="175,107,300,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="112,81,175,99,173,104,110,86"/>
+</map>

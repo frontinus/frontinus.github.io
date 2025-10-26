@@ -1,0 +1,6 @@
+<map id="Global State Variables" name="Global State Variables">
+<area shape="rect" id="Node000003" href="$group___avionics___link.html" title="Manages the high&#45;speed communication link with the DaVinci flight computer." alt="" coords="535,5,689,48"/>
+<area shape="rect" id="Node000002" href="$group___core.html" title="Core system files, main application logic, and global definitions." alt="" coords="5,43,104,69"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="153,43,303,69"/>
+<area shape="rect" id="Node000004" href="$group___telemetry.html" title="Communication with the Ground Station." alt="" coords="573,72,651,99"/>
+</map>

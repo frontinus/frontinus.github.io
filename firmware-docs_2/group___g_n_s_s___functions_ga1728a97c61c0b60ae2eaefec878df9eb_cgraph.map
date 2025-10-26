@@ -1,0 +1,11 @@
+<map id="build_nmea" name="build_nmea">
+<area shape="rect" id="Node000001" title="Builds a complete, checksummed NMEA sentence in a buffer." alt="" coords="5,5,93,32"/>
+<area shape="rect" id="Node000002" href="$gnss_8c.html#af3d52964f8e8c4715d50e41af9d6ba56" title=" " alt="" coords="141,5,235,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,16,125,16,125,21,93,21"/>
+<area shape="rect" id="Node000003" href="$gnss_8c.html#a84bcdb32b8164d778407be08b61242ab" title=" " alt="" coords="283,5,389,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="236,16,268,16,268,21,236,21"/>
+<area shape="rect" id="Node000004" href="$gnss_8c.html#a8601aa8f9a6897039f13bc624b7c8808" title=" " alt="" coords="437,5,547,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="390,16,422,16,422,21,390,21"/>
+<area shape="rect" id="Node000005" href="$gnss_8c.html#aa041a08a9551a7f46ff0d67685305f4b" title=" " alt="" coords="595,5,707,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="547,16,579,16,579,21,547,21"/>
+</map>

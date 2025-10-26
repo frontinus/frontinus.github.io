@@ -1,0 +1,37 @@
+<map id="Core/Src/main.c" name="Core/Src/main.c">
+<area shape="rect" id="Node000001" title=": Main program body for the Marconi Flight Computer." alt="" coords="365,5,482,32"/>
+<area shape="rect" id="Node000002" href="$main_8h.html" title=": Header for main.c file. This file contains the common defines of the application." alt="" coords="207,155,267,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="365,26,300,32,229,43,168,59,146,70,131,82,126,92,125,101,138,119,163,136,193,149,191,154,161,140,135,123,120,102,120,90,127,78,143,65,166,54,228,38,299,27,365,21"/>
+<area shape="rect" id="Node000005" href="$servo_8h.html" title="General purpose portable library for driving servo motors." alt="" coords="382,229,446,256"/>
+<area shape="poly" id="edge14_Node000001_Node000005" title=" " alt="" coords="430,32,441,80,442,117,439,153,425,215,420,214,433,153,437,116,436,80,425,33"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="141,80,229,107"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="383,35,242,78,241,72,381,30"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="253,80,317,107"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="401,35,324,75,321,70,398,30"/>
+<area shape="rect" id="Node000008" href="$e220_8h.html" title="Driver for the Ebyte E220 LoRa module." alt="" coords="501,80,562,107"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="444,30,501,69,498,73,441,35"/>
+<area shape="rect" id="Node000011" href="$gnss_8h.html" title="Driver for the TESEO GNSS module." alt="" coords="5,80,66,107"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="366,32,237,54,85,83,81,83,80,78,84,77,236,48,365,27"/>
+<area shape="rect" id="Node000012" href="$airbrakes_8h.html" title="Controls the airbrake system using a servo motor." alt="" coords="341,80,426,107"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="419,34,400,68,395,65,414,31"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="585,80,646,107"/>
+<area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="458,30,572,73,570,78,456,35"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="670,80,732,107"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="475,30,656,77,655,82,474,35"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="756,80,819,107"/>
+<area shape="poly" id="edge20_Node000001_Node000015" title=" " alt="" coords="483,27,598,48,741,77,740,82,597,53,482,32"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="356,304,473,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="257,179,321,227,392,291,389,295,318,231,253,184"/>
+<area shape="rect" id="Node000004" href="$_f_l_i_g_h_t___p_a_r_a_m_e_t_e_r_s___c_o_n_f_i_g_8h.html" title="Global configuration parameters for the Marconi flight computer." alt="" coords="70,229,308,256"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="231,183,208,218,203,215,226,180"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="268,179,371,221,369,226,266,184"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="417,257,417,288,412,288,412,257"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="529,108,503,173,460,257,436,293,432,290,456,255,498,171,524,106"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="552,155,626,181"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="544,106,572,141,567,144,539,109"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="650,155,714,181"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="559,105,643,145,641,150,557,110"/>
+<area shape="poly" id="edge13_Node000011_Node000002" title=" " alt="" coords="67,103,193,148,191,153,65,108"/>
+<area shape="poly" id="edge16_Node000012_Node000002" title=" " alt="" coords="359,110,277,150,275,145,357,105"/>
+<area shape="poly" id="edge17_Node000012_Node000005" title=" " alt="" coords="389,107,411,214,406,215,384,108"/>
+</map>

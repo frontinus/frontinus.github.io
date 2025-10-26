@@ -1,0 +1,7 @@
+<map id="Core/Inc/airbrakes.h" name="Core/Inc/airbrakes.h">
+<area shape="rect" id="Node000001" title="Controls the airbrake system using a servo motor." alt="" coords="82,5,222,32"/>
+<area shape="rect" id="Node000002" href="$airbrakes_8c.html" title=" " alt="" coords="5,80,147,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,45,91,82,87,78,126,41"/>
+<area shape="rect" id="Node000003" href="$main_8c.html" title=": Main program body for the Marconi Flight Computer." alt="" coords="171,80,288,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,41,218,78,214,82,175,45"/>
+</map>

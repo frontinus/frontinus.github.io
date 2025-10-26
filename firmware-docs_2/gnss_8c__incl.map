@@ -1,0 +1,29 @@
+<map id="Core/Src/gnss.c" name="Core/Src/gnss.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="381,5,497,32"/>
+<area shape="rect" id="Node000002" href="$main_8h.html" title=": Header for main.c file. This file contains the common defines of the application." alt="" coords="112,155,172,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="381,26,313,32,239,42,175,59,151,69,136,82,129,95,127,109,133,140,128,141,122,109,124,93,132,78,149,65,173,54,238,37,312,26,380,20"/>
+<area shape="rect" id="Node000006" href="$gnss_8h.html" title="Driver for the TESEO GNSS module." alt="" coords="146,80,207,107"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="392,35,222,82,221,76,391,30"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="230,80,291,107"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="409,35,306,76,304,72,407,30"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="314,80,383,107"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="425,35,377,72,374,68,422,30"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="407,80,471,107"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="442,33,442,64,437,64,437,33"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="495,80,557,107"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="456,30,501,68,498,72,453,35"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="581,80,644,107"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="470,30,569,71,567,76,468,35"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="669,80,730,107"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="486,30,654,77,653,82,484,35"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="754,80,828,107"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="499,28,739,77,738,82,498,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="93,304,210,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,178,73,190,35,207,20,217,11,228,8,241,14,255,26,270,42,282,79,299,76,304,39,286,23,274,9,257,3,241,6,226,17,213,32,202,71,185,111,173"/>
+<area shape="rect" id="Node000004" href="$_f_l_i_g_h_t___p_a_r_a_m_e_t_e_r_s___c_o_n_f_i_g_8h.html" title="Global configuration parameters for the Marconi flight computer." alt="" coords="23,229,261,256"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="145,182,145,214,139,214,139,182"/>
+<area shape="rect" id="Node000005" href="$servo_8h.html" title="General purpose portable library for driving servo motors." alt="" coords="284,229,349,256"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="173,179,273,220,271,225,171,184"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="289,259,195,300,193,295,287,254"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="173,108,157,142,152,139,168,106"/>
+</map>

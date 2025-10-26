@@ -1,0 +1,10 @@
+<map id="servo_moveto_deg" name="servo_moveto_deg">
+<area shape="rect" id="Node000001" title="Commands the servo to move to a specific angle (in degrees)." alt="" coords="438,31,570,57"/>
+<area shape="rect" id="Node000002" href="$group___airbrake___control.html#gabfb2eb3c1f7228ddb9ae657b7d468c4c" title="Initializes the airbrake servo." alt="" coords="292,5,390,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="423,34,390,29,391,24,423,29"/>
+<area shape="rect" id="Node000003" href="$group___core.html#ga47881f56d1229e776c7b7c913222d254" title="RTOS Task: Received Package Handler." alt="" coords="103,31,244,57"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="423,47,244,47,244,41,423,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="277,31,245,36,244,31,276,26"/>
+<area shape="rect" id="Node000004" href="$group___core.html#ga840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,31,55,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,47,55,47,55,41,87,41"/>
+</map>

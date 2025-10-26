@@ -1,0 +1,7 @@
+<map id="GNSS Positioning" name="GNSS Positioning">
+<area shape="rect" id="Node000002" href="$group___g_n_s_s___config.html" title="Defines for buffer sizes, NMEA parsing, and TESEO module setup." alt="" coords="186,5,348,32"/>
+<area shape="rect" id="Node000005" href="$group___g_n_s_s___functions.html" title="Public API for initializing, configuring, and parsing data from the GNSS module." alt="" coords="187,56,346,83"/>
+<area shape="rect" id="Node000004" href="$group___g_n_s_s___global___data.html" title="Volatile global variables holding the latest processed GNSS data." alt="" coords="201,107,333,133"/>
+<area shape="rect" id="Node000001" title="Manages the TESEO GNSS module." alt="" coords="5,81,133,108"/>
+<area shape="rect" id="Node000003" href="$group___n_m_e_a___commands.html" title="Extern definitions for proprietary (PSTM) NMEA commands." alt="" coords="181,157,353,200"/>
+</map>

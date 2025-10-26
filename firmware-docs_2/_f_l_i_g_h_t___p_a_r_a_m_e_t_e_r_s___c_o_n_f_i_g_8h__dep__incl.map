@@ -1,0 +1,21 @@
+<map id="Core/Inc/FLIGHT_PARAMETERS_CONFIG.h" name="Core/Inc/FLIGHT_PARAMETERS_CONFIG.h">
+<area shape="rect" id="Node000001" title="Global configuration parameters for the Marconi flight computer." alt="" coords="195,5,416,48"/>
+<area shape="rect" id="Node000002" href="$main_8h.html" title=": Header for main.c file. This file contains the common defines of the application." alt="" coords="248,96,362,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="308,64,308,95,303,95,303,64"/>
+<area shape="rect" id="Node000003" href="$airbrakes_8h.html" title="Controls the airbrake system using a servo motor." alt="" coords="82,171,222,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="266,132,180,172,178,168,264,127"/>
+<area shape="rect" id="Node000004" href="$airbrakes_8c.html" title=" " alt="" coords="5,245,147,272"/>
+<area shape="poly" id="edge8_Node000002_Node000004" title=" " alt="" coords="233,122,137,141,97,156,73,172,65,190,64,209,73,245,68,246,59,210,60,188,69,169,95,151,135,136,232,117"/>
+<area shape="rect" id="Node000005" href="$main_8c.html" title=": Main program body for the Marconi Flight Computer." alt="" coords="200,245,317,272"/>
+<area shape="poly" id="edge11_Node000002_Node000005" title=" " alt="" coords="298,138,287,171,265,246,259,244,281,170,293,136"/>
+<area shape="rect" id="Node000006" href="$gnss_8h.html" title="Driver for the TESEO GNSS module." alt="" coords="296,171,410,197"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="324,134,347,169,343,172,320,137"/>
+<area shape="rect" id="Node000007" href="$gnss_8c.html" title=" " alt="" coords="364,245,481,272"/>
+<area shape="poly" id="edge10_Node000002_Node000007" title=" " alt="" coords="372,127,401,144,425,169,432,189,434,210,429,245,424,245,429,210,427,190,420,172,398,148,369,131"/>
+<area shape="rect" id="Node000008" href="$e220_8c.html" title=" " alt="" coords="486,171,602,197"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="362,125,503,167,501,173,361,130"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="130,210,91,247,87,243,126,206"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="185,204,241,242,238,247,182,209"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="326,209,277,247,273,243,323,205"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="378,207,413,243,409,247,374,210"/>
+</map>

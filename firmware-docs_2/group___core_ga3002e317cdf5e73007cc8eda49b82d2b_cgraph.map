@@ -1,0 +1,5 @@
+<map id="MX_USART3_Init" name="MX_USART3_Init">
+<area shape="rect" id="Node000001" title="USART3 Initialization Function." alt="" coords="5,5,131,32"/>
+<area shape="rect" id="Node000002" href="$group___core.html#ga1730ffe1e560465665eb47d9264826f9" title="This function is executed in case of error occurrence." alt="" coords="179,5,280,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,16,163,16,163,21,131,21"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="servo_init" name="servo_init">
+<area shape="rect" id="Node000001" title="Initializes the servo and its associated hardware timer." alt="" coords="5,5,83,32"/>
+<area shape="rect" id="Node000002" href="$group___servo___functions.html#gafaf3ea0f001ba69619e04cf012d21bab" title="Converts a normalized duty cycle (0.0 to 1.0) to a raw CCR value." alt="" coords="131,5,209,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,16,115,16,115,21,83,21"/>
+</map>

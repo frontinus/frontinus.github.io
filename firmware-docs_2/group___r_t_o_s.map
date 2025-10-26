@@ -1,0 +1,5 @@
+<map id="RTOS Components" name="RTOS Components">
+<area shape="rect" id="Node000001" title="All tasks, queues, semaphores, and mutexes for the real&#45;time operating system." alt="" coords="5,31,141,57"/>
+<area shape="rect" id="Node000002" href="$group___r_t_o_s___events.html" title="Event flags used for task notification and synchronization." alt="" coords="191,5,322,32"/>
+<area shape="rect" id="Node000003" href="$group___r_t_o_s___task___periods.html" title="Defines the execution periods for various RTOS tasks in milliseconds." alt="" coords="189,56,325,83"/>
+</map>

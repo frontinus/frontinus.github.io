@@ -1,0 +1,25 @@
+var struct_data___package___to___g_s =
+[
+    [ "acc_x", "struct_data___package___to___g_s.html#a492afebb513cdea2e697f0bf5df26fef", null ],
+    [ "acc_y", "struct_data___package___to___g_s.html#a7fcc4a370ebffd4e6830837d9e7249cc", null ],
+    [ "acc_z", "struct_data___package___to___g_s.html#ab794e5c1b2411fd5ca8c69bc8770cd0b", null ],
+    [ "altitude", "struct_data___package___to___g_s.html#a1d3a9fae70157d57c50c113f5841f90c", null ],
+    [ "character", "struct_data___package___to___g_s.html#a4c176cba7610e3400d07fa7357cd0809", null ],
+    [ "deg", "struct_data___package___to___g_s.html#a802ed083e56a93ca867f9c2ede929932", null ],
+    [ "dps_x", "struct_data___package___to___g_s.html#ae94ee936978a0bcd9f4f8dde98630969", null ],
+    [ "dps_y", "struct_data___package___to___g_s.html#af0e5047831bc61fcb6d9f974007339d9", null ],
+    [ "dps_z", "struct_data___package___to___g_s.html#a1c7b94f7ebb07adf7c5978bcd1a227c3", null ],
+    [ "lati", "struct_data___package___to___g_s.html#aa7e71c069b92c788316a4a2016122f60", null ],
+    [ "longi", "struct_data___package___to___g_s.html#a8dec80d627802406d10163fef7cc54d5", null ],
+    [ "mag_x", "struct_data___package___to___g_s.html#af535dda9576ca89d0a0ed7aea76a3616", null ],
+    [ "mag_y", "struct_data___package___to___g_s.html#a920cbfe8e7e8c79bb08bd6cbcf1dbb7f", null ],
+    [ "mag_z", "struct_data___package___to___g_s.html#a348a4b4779fda580f09cda1271d3cf4b", null ],
+    [ "parachute_1", "struct_data___package___to___g_s.html#a18fab9638f233e6a81c425a45d6712ed", null ],
+    [ "parachute_2", "struct_data___package___to___g_s.html#a34ab3c6789b1c660c6c32561eb63ef11", null ],
+    [ "Percentage_battery", "struct_data___package___to___g_s.html#ac36babfc9c79e5ee1c988cc6d424a475", null ],
+    [ "Percentage_battery_Marconz", "struct_data___package___to___g_s.html#a01d829e921965e72c72f3f75d3f86964", null ],
+    [ "phase", "struct_data___package___to___g_s.html#aca7683510396080d85d565c0d516c4c8", null ],
+    [ "pressure", "struct_data___package___to___g_s.html#a82926d8e1e12c798dc82ddf1be8cf628", null ],
+    [ "temperature", "struct_data___package___to___g_s.html#a0091af80e42c0df52374a1e0e3f03025", null ],
+    [ "velocity", "struct_data___package___to___g_s.html#a51120b813d3d270d26db30cba0f8ba91", null ]
+];

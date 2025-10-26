@@ -1,0 +1,9 @@
+<map id="vparse_nmea" name="vparse_nmea">
+<area shape="rect" id="Node000001" title=" " alt="" coords="593,5,693,32"/>
+<area shape="rect" id="Node000002" href="$group___g_n_s_s___functions.html#ga6dc4a3ea3385c516f40e0f7272ed60da" title="Parses the data fields from a validated NMEA sentence." alt="" coords="453,5,545,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="578,21,546,21,546,16,578,16"/>
+<area shape="rect" id="Node000003" href="$group___g_n_s_s___functions.html#gad7f7fccc34245a337fa27e66a9d12f7b" title="Main GNSS data processing callback, triggered by UART Idle Line DMA." alt="" coords="269,5,405,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,21,405,21,405,16,437,16"/>
+<area shape="rect" id="Node000004" href="$group___system___callbacks.html#ga925534fb8bf7ca464fd05c982fe4bfa0" title="HAL UART Receive Event Callback (Idle Line)." alt="" coords="5,5,221,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="253,21,221,21,221,16,253,16"/>
+</map>

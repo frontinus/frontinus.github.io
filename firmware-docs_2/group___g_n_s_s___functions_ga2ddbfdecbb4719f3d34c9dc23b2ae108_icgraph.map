@@ -1,0 +1,7 @@
+<map id="gnss_config" name="gnss_config">
+<area shape="rect" id="Node000001" title="Configures the TESEO module for high&#45;speed operation and message filtering." alt="" coords="224,5,315,32"/>
+<area shape="rect" id="Node000002" href="$group___g_n_s_s___functions.html#gaa07776446f0638e6040950c11aed993f" title="Initializes the GNSS module." alt="" coords="103,5,176,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,21,177,21,177,16,209,16"/>
+<area shape="rect" id="Node000003" href="$group___core.html#ga840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
+</map>

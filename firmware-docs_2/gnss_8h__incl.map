@@ -1,0 +1,12 @@
+<map id="Core/Inc/gnss.h" name="Core/Inc/gnss.h">
+<area shape="rect" id="Node000001" title="Driver for the TESEO GNSS module." alt="" coords="85,5,199,32"/>
+<area shape="rect" id="Node000002" href="$main_8h.html" title=": Header for main.c file. This file contains the common defines of the application." alt="" coords="112,80,172,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,33,145,64,139,64,139,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="93,229,210,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,104,73,115,35,132,20,142,11,154,8,166,14,180,26,195,42,207,79,225,76,230,39,212,23,199,9,183,3,166,6,151,17,139,32,127,71,110,111,99"/>
+<area shape="rect" id="Node000004" href="$_f_l_i_g_h_t___p_a_r_a_m_e_t_e_r_s___c_o_n_f_i_g_8h.html" title="Global configuration parameters for the Marconi flight computer." alt="" coords="23,155,261,181"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="145,107,145,139,139,139,139,107"/>
+<area shape="rect" id="Node000005" href="$servo_8h.html" title="General purpose portable library for driving servo motors." alt="" coords="284,155,349,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="173,105,273,146,271,151,171,110"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="289,184,195,225,193,220,287,179"/>
+</map>
