@@ -16,3 +16,5 @@ You can explore the complete, interactive documentation right here on our site:
 [**View the Full Firmware Documentation**]({{ '/firmware-docs_1/index.html' | relative_url }})
 
 This includes detailed call graphs, module hierarchies, and source code annotations.
+
+If you have the necessary authorizations you can access the github repository [**here**](https://github.com/PoliTo-Rocket-Team/DaVinci-Nosecone)
