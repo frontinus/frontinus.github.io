@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 title: CTFs
 permalink: /CTFs/
 ---
-
-<h1>CTF Writeups</h1>
 
 {%- if site.posts.size > 0 -%}
 <ul class="post-list">

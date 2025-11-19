@@ -1,48 +1,59 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<html lang="{{ site.lang | default: " en-US" }}">
+
+<head>
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    {% include head-custom.html %}
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
 
-{% seo %}
-  </head>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Fira+Code&display=swap"
+        rel="stylesheet">
 
-  <body>
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
-    <header>
-      <div class="container">
-        <a id="a-title" href="{{ '/' | relative_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
+    {% seo %}
+</head>
 
-        <section id="pages">
-          <a href="{{'/'|relative_url}}">Home</a>&nbsp;
-          {% for page in site.pages -%}
-          <a href="{{page.url}}">{{page.title | escape}}</a>&nbsp;
-          {% endfor -%}
-        </section>
+<body>
 
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+    <header class="site-header">
+        <div class="container header-inner">
+            <a href="{{ '/' | relative_url }}" class="site-title">
+                {{ site.title }}
+            </a>
 
-        <section id="downloads">
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
-            <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
-          {% endif %}
-          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-
-
-      </div>
+            <nav class="site-nav">
+                <ul>
+                    {% for link in site.navigation %}
+                    <li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+                    {% endfor %}
+                </ul>
+            </nav>
+        </div>
     </header>
 
-    <div class="container">
-      <section id="main_content">
+    <main class="page-content">
         {{ content }}
-      </section>
-    </div>
-  </body>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
+            <div class="social-links">
+                {% if site.github_username %}
+                <a href="https://github.com/{{ site.github_username }}">GitHub</a>
+                {% endif %}
+                {% if site.twitter_username %}
+                <a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a>
+                {% endif %}
+            </div>
+        </div>
+    </footer>
+
+</body>
+
 </html>

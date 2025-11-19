@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 title: Rocketry
 permalink: /Rocketry/
 ---
-
-<h1>Rocketry</h1>
 
 {%- if site.posts.size > 0 -%}
 <ul class="post-list">

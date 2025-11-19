@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<section class="hero">
+    <div class="container hero-content">
+        {% if site.avatar %}
+        <img src="{{ site.avatar | relative_url }}" alt="Profile Picture" class="hero-avatar" />
+        {% endif %}
+
+        <h1>Hello, I'm Francesco.</h1>
+        <p>{{ site.description }}</p>
+
+        <div class="hero-actions">
+            <a href="{{ '/about/' | relative_url }}" class="btn btn-primary">About Me</a>
+        </div>
+    </div>
+</section>
+
+<section class="recent-posts">
+    <div class="container">
+        <h2>Latest Articles</h2>
+        <ul class="post-list">
+            {% for post in site.posts %}
+            {% unless post.tags contains "Misc" %}
+            <li class="post-item">
+                <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
+                <h3 class="post-title">
+                    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                </h3>
+                <div class="post-excerpt">
+                    {{ post.excerpt }}
+                </div>
+            </li>
+            {% endunless %}
+            {% endfor %}
+        </ul>
+    </div>
+</section>

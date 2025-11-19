@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 title: Misc
 permalink: /Misc/
 ---
-
-<h1>Miscellaneous</h1>
 
 <p class="misc-intro">
 These articles aren't displayed on the homepage as they represent personal interests and side topics, rather than my main focus on computer engineering and cybersecurity projects. Consider them a curious peek into other subjects that catch my attention!
