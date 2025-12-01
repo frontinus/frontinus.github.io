@@ -70,7 +70,7 @@ Our avionics system consists of two main types of custom boards: the **Davinci**
 *   **Microcontroller (MCU):** `STM32F413RGTx`
 *   **Sensors:**
     *   **Primary (SPI2):** `LSM6DSO32` IMU
-    *   **Backup (SPI3):** [Specify backup sensors if any]
+    *   **Backup (SPI3)**
     *   **GNSS:** `TESEO LIV3FL` (GPS)
 *   **Actuators:**
     *   **Buzzer/LEDs:** Status indication.
@@ -143,6 +143,7 @@ The structure is similar, centered around the `Marconi.ioc` file. The code is pr
 
 *   **Data Packet Structures:** We use custom binary packets for efficient data transfer.
     *   **`DV-M` Packet (Davinci to Marconi):** Sent every 10ms.
+
         | Field | Size (Bytes) | Description |
         | :--- | :--- | :--- |
         | Linear Accel (X,Y,Z) | 12 | 3 floats from IMU |
@@ -160,6 +161,7 @@ The structure is similar, centered around the `Marconi.ioc` file. The code is pr
         | **Total** | **~63 Bytes** | |
 
     *   **`M-GS` Packet (Marconi to Ground Station):** Sent every second. Contains the full `DV-M` packet plus Marconi-specific data.
+
         | Field | Size (Bytes) | Description |
         | :--- | :--- | :--- |
         | Header `~` | 1 | Start of Packet |
